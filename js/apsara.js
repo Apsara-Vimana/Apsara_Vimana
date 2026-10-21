@@ -36,7 +36,8 @@
   }
 
   function ocultarBienvenida() {
-    if (welcome && welcome.parentNode) welcome.remove();
+    /* No borrar la foto: solo compactar la bienvenida */
+    if (welcome) welcome.classList.add('welcome-compact');
   }
 
   /* ---------- Burbujas ---------- */
