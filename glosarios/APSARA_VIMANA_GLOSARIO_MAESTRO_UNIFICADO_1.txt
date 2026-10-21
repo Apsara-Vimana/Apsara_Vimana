@@ -1,0 +1,2962 @@
+GLOSARIO MAESTRO UNIFICADO APSARA VIMANA 1
+
+==============================================================================
+GLOSARIO SÁNSCRITO MAESTRO — VERSIÓN ORGANIZADA PARA IA LOCAL
+==============================================================================
+
+INSTRUCCIONES PARA AGENTES DE IA:
+- Buscar términos sin distinción entre mayúsculas y minúsculas.
+- Si un término tiene alias, tratarlos como la misma entrada.
+- El separador principal es " | ".
+- Categorías: filosofía, yoga, devoción, ritual, deidad, texto, práctica, cosmología, ética.
+- No inventar definiciones: si un término no está, responder "término no registrado".
+- Mantener las entradas de Sai Baba, Sathya Sai Baba y Sathia Sai Baba separadas y repetidas.
+
+FORMATO:
+TÉRMINO | alias | categoría | definición
+
+------------------------------------------------------------------------------
+[ A ]
+------------------------------------------------------------------------------
+
+Aabhaasa | Abhasa | filosofía | Reflejo o manifestación ilusoria de la Realidad.
+
+AABUTHI | — | ritual | Oblación final.
+
+Aachaara | Acara | ética | Conducta recta, comportamiento virtuoso o práctica ética.
+
+ABHAVA | — | filosofía | No-estar; carencia; ausencia; no-existencia.
+
+Abhaya | ABHAYA | práctica | Sin miedo; gesto de la mano que disipa el temor, protege y bendice.
+
+ABHEDA | — | filosofía | Sin diferencia; no-otro; visión de Dios como Absoluto fuera del cual no hay otro.
+
+ABHEDA BHAKTI | — | devoción | Devoción en la que no hay dualidad entre Dios y el devoto.
+
+ABHEDA BUDDHI | — | filosofía | Mentalidad libre de ideas de diferencia o separación.
+
+ABHI | — | gramática | Prefijo: hacia, sobre, encima, en todas direcciones.
+
+ABHICHARA PRAYOGA | — | ritual | Magia negra.
+
+ABHIJÑA | — | budismo | Poderes espirituales obtenidos mediante meditación y sabiduría.
+
+Abhimana | ABHIMANA | filosofía | Orgullo; identidad errónea; apego; sentido de "yo".
+
+ABHIMANA GRANTHI | — | filosofía | El mundo del apego.
+
+ABHIMANA VEGA | — | filosofía | Fuerza del apego.
+
+ABHIMANTRITA | — | ritual | Consagrado; convertido en sagrado.
+
+ABHINIVESHA | — | yoga | Apego a la vida; miedo a la muerte; deseo de continuidad.
+
+ABHISAMBODHI | — | budismo | Iluminación.
+
+ABHISAMBUDA | — | budismo | Realización.
+
+ABHISEKA | ABHISEHEKA | ritual | Baño sagrado o consagración de una deidad con agua, leche, yogur u otras sustancias.
+
+ABHOKTA | — | filosofía | No-experimentador; no-gozador.
+
+ABHYASA | — | yoga | Práctica espiritual constante; perseverancia.
+
+ABHYASI | — | yoga | Practicante; aspirante espiritual.
+
+ABHYUDAYA | — | ética | Prosperidad; bienestar material y espiritual.
+
+ABJA | — | cosmología | Loto.
+
+ABYANGAM | — | ayurveda | Masaje con aceites en todo el cuerpo.
+
+ACHALA | — | filosofía | Inmóvil; inquebrantable; montaña.
+
+ACHALA CHITTA | — | yoga | Mente inmutable.
+
+ACHAMANA | — | ritual | Sorber agua antes o después de una ceremonia religiosa.
+
+ACHARA | — | ética | Normas de conducta; cumplimiento del deber espiritual.
+
+ACHINTA | — | filosofía | No-pensamiento; aquello que la mente no puede concebir.
+
+ACHINTIA RUPA | — | teología | Forma inimaginable.
+
+ACHINTYABHEDABHEDA | Acintya-bheda-abheda-tattva | vaisnavismo | Verdad de la "inconcebible unidad y diferencia" entre Krishna, las almas y el mundo.
+
+ACHIT | — | filosofía | No-senciente; materia inconsciente.
+
+ACHYUTA | Acyuta | vaisnavismo | El Infalible; nombre de Krishna que indica que nunca abandona a Sus devotos.
+
+ADA VASTU | — | filosofía | Objeto insenciente.
+
+ADARSHA | — | filosofía | Espejo.
+
+ADBHUTA | — | cosmología | Prodigio; maravilla.
+
+ADHAMA | — | ética | Inferior.
+
+ADHARAH | — | filosofía | El sostén; soporte.
+
+Adharma | ADHARMA | ética | Lo contrario del dharma; aquello que rompe el orden ético o la armonía natural.
+
+ADHEYA | — | filosofía | Lo sostenido.
+
+ADHI | — | gramática | Primero; superior.
+
+ADHI GURU | — | gurú | Gurú primordial; fuente divina del linaje iniciático.
+
+ADHI LINGAM | — | shaivismo | Forma primaria.
+
+ADHI YOGA | — | yoga | Yoga supremo.
+
+ADHIBHAUTIKA | — | filosofía | Dolor proveniente del mundo físico o de seres externos.
+
+ADHIDAIVIKA DUKHA | — | filosofía | Sufrimiento proveniente de causas divinas o naturales.
+
+ADHIKARA | — | ética | Autoridad espiritual; prerrogativa.
+
+ADHIKARI | — | gurú | Persona calificada para recibir conocimiento espiritual.
+
+ADHISHTHANA | Adhishthana | filosofía | Substrato; soporte; base de la manifestación.
+
+ADHYASA | — | vedanta | Superposición errónea; atribuir cualidades de una cosa a otra.
+
+ADHYATMA | ADIATMA | filosofía | Esencia inmortal del ser; lo espiritual.
+
+ADHYATMIKA DUKHA | — | filosofía | Sufrimiento originado internamente.
+
+ADHYAYA | — | texto | Capítulo.
+
+ADI | — | gramática | Principio; comienzo.
+
+ADI MATA | — | religión | Religión primordial.
+
+ADIKARI | — | gurú | Discípulo; persona apta para el camino espiritual.
+
+ADITI | — | cosmología | Energía primordial; lo ilimitado; madre de los dioses.
+
+ADITYAS | — | cosmología | Personificaciones del Sol.
+
+ADIVASI | — | cultura | Primer habitante; poblador originario.
+
+ADRISHTA | — | filosofía | Lo invisible; principio trascendente que rige los fenómenos.
+
+ADVAITA | Advaita; Advaita Vedanta | vedanta | No-dualidad; doctrina que afirma la unidad entre Atman y Brahman.
+
+ADVAITA JÑANA | — | vedanta | Conocimiento no-dual.
+
+ADVAITIN | — | vedanta | Seguidor del Advaita.
+
+ADYA | — | filosofía | Primordial; original.
+
+ADYATMIKA SHAKTI | — | filosofía | Poder del Sí mismo.
+
+AEKABHAKTI | — | devoción | Ver a Dios en todas las cosas; devoción múltiple.
+
+AGAMA | — | texto | Escrituras tradicionales; conocimiento recibido por autoridad y experiencia.
+
+AGAMA SHASTRA | — | texto | Textos revelados, especialmente asociados con Shiva.
+
+AGAMI KARMA | AGAMYA | karma | Acciones de la vida presente cuyos frutos pueden madurar en vidas futuras.
+
+AGATI | — | ética | Caminos erróneos: ansiedad, odio, ilusión y cobardía.
+
+AGHA | — | ética | Pecado.
+
+AGNI | — | deidad | Fuego; deidad védica del fuego; poder digestivo.
+
+AGNIHOTRA | — | ritual | Oblaciones al fuego consagrado.
+
+AHAM | — | filosofía | "Yo"; el ego; la conciencia de identidad.
+
+AHAM BRAHMASMI | — | vedanta | "Yo soy Brahman"; gran sentencia védica.
+
+AHAMKARA | Ahankara | yoga | Ego; sentido de individualidad; "yo-hacedor".
+
+Ahamsa | So Ham | mantra | "Yo soy Eso"; mantra de identificación con la conciencia universal.
+
+AHARA | — | ayurveda | Alimento; aquello que se ingiere.
+
+AHETUKA BHAKTI | — | devoción | Devoción sin motivo.
+
+AHIMSA | — | ética | No-violencia en pensamiento, palabra y acción.
+
+AIKYA | AIKA | vedanta | Identidad; unidad.
+
+AIRAVATA | — | cosmología | Elefante celestial de Indra.
+
+AISHVARYA | Aisvarya | teología | Opulencia, majestad y grandeza divina.
+
+AJANMA | — | filosofía | Lo no nacido.
+
+AJAPA | — | mantra | Repetición mental o involuntaria del mantra.
+
+AJATA VADA | — | vedanta | Doctrina de la no-causalidad; el mundo nunca fue realmente creado.
+
+AJÑA | — | yoga | Centro frontal; entrecejo; mandato.
+
+AJÑANA | — | filosofía | Ignorancia; ausencia de conocimiento espiritual.
+
+AKASHA | — | cosmología | Éter; espacio; uno de los cinco elementos.
+
+AKHANDA | — | vedanta | Indiviso; realidad no fragmentada.
+
+AKHILA | — | filosofía | Entero; completo.
+
+AKRITA | — | filosofía | No manifestado.
+
+AKSHARA | — | filosofía | Imperecedero; sílaba; Om.
+
+ALAYA | — | budismo | Conciencia que almacena experiencias.
+
+ALPA | — | filosofía | Finito; limitado.
+
+AMALA | — | ética | Puro; sin mancha.
+
+AMARA | — | filosofía | Inmortal.
+
+AMBA | — | deidad | Madre; nombre de la Divina Madre.
+
+AMRITA | — | cosmología | Néctar de inmortalidad; lo más sagrado.
+
+AMSHA | — | teología | Parte; porción; expansión.
+
+AMSHA AVATARA | — | vaisnavismo | Avatara parcial o menor.
+
+ANADI | — | filosofía | Sin comienzo; eterno.
+
+ANAGARIKA | — | budismo | Anacoreta; persona sin hogar.
+
+Anahata | Anahat Chakra | yoga | Cuarto chakra; centro del corazón.
+
+ANANTA | — | vaisnavismo | Infinito; sin fin; serpiente Shesha sobre la cual descansa Vishnu.
+
+ANANYA BHAKTI | — | vaisnavismo | Devoción exclusiva y sin desviación hacia Dios.
+
+ANARTHA | — | vaisnavismo | Deseo, hábito o condición indeseable que obstaculiza la devoción.
+
+ANARTHA-NIVRITTI | — | vaisnavismo | Etapa en que se eliminan los deseos indeseables del corazón.
+
+ANASUYA | — | ética | Persona pura que no critica ni envidia.
+
+ANATMAN | — | filosofía | No-Sí mismo; todo lo que no es Atman.
+
+ANAVA | — | shaivismo | Limitación individual; ego.
+
+ANAYA SARANAGATI | — | vaisnavismo | Entrega total.
+
+ANDAJA | — | cosmología | Nacidos del huevo.
+
+ANEKA | — | filosofía | Multiplicidad.
+
+ANGA | — | yoga | Miembro; parte; técnica.
+
+ANILA | — | cosmología | Viento.
+
+ANIMA | — | yoga | Siddhi de hacerse extremadamente pequeño.
+
+ANIRVACHANIYA | — | vedanta | Indescriptible; inexplicable.
+
+ANITYA | — | filosofía | Impermanente; transitorio.
+
+ANJALI | — | ritual | Saludo reverente con las palmas juntas.
+
+ANNAMAYA KOSHA | — | vedanta | Envoltura física o cuerpo alimenticio.
+
+ANTAHKARANA | Antarkarna | yoga | Instrumento interno: mente, intelecto, ego y memoria.
+
+ANTARYAMI | Antariami | vaisnavismo | Dios como controlador interno que reside en el corazón.
+
+ANTAR ATMA | — | vedanta | El Sí mismo interno.
+
+ANTAR MUKHA | — | yoga | Hacia adentro; introspección.
+
+ANU | — | filosofía | Átomo; lo mínimo; jiva.
+
+ANUBHAVA | — | yoga | Experiencia directa; percepción espiritual.
+
+ANUGRAHA | — | gracia | Gracia divina; bendición.
+
+ANUMANA | — | lógica | Inferencia; conocimiento deducido.
+
+ANUSHTHANA | — | ritual | Práctica ritual o disciplina espiritual sostenida.
+
+ANUSVARA | — | gramática | Sonido nasal del alfabeto sánscrito.
+
+ANUTTARA | — | budismo | Supremo; sin superior.
+
+APANA | — | yoga | Aire vital descendente; una de las cinco fuerzas vitales.
+
+APARA | — | vedanta | Inferior; relativo; no supremo.
+
+APARAVIDYA | — | vedanta | Conocimiento inferior o mundano.
+
+APAROKSHA | — | vedanta | Directo; inmediato.
+
+APAROKSHA JNANA | — | vedanta | Conocimiento directo del Atman.
+
+APAS | — | cosmología | Agua; elemento del agua.
+
+APSARA | — | cosmología | Ninfa celestial.
+
+APTA | — | gurú | Persona realizada o digna de confianza.
+
+ARATI | Aarti | ritual | Adoración con lámparas, especialmente con llama de alcanfor.
+
+Arcana | — | vaisnavismo | Adoración ritual a la Deidad mediante ofrendas.
+
+ARCHANA | — | ritual | Ofrenda de flores y ceremonias a una imagen sagrada.
+
+ARDHANARISHVARA | Ardhaniśvara | shaivismo | Forma mitad Shiva, mitad Shakti; unidad de lo masculino y femenino divino.
+
+ARJUNA | — | epopeya | Príncipe Pandava y receptor del Bhagavad-gita.
+
+ARTHA | — | ética | Prosperidad; riqueza; propósito mundano legítimo.
+
+ARYA | — | cultura | Noble; honorable.
+
+ASANA | — | yoga | Postura yóguica; asiento estable para meditación.
+
+ASANGA | — | yoga | Desapego.
+
+ASAT | — | vedanta | Irreal; no existente; temporal.
+
+ASATYA | — | ética | Falsedad; irrealidad.
+
+Ashram | Ashrama | práctica | Retiro espiritual; comunidad de práctica; etapa de vida.
+
+ASHRAMAS | — | ética | Las cuatro etapas tradicionales de la vida.
+
+ASHRAYA | — | filosofía | Apoyo; refugio.
+
+ASHTANGA YOGA | Ashtanga | yoga | Yoga de ocho miembros: yama, niyama, asana, pranayama, pratyahara, dharana, dhyana y samadhi.
+
+ASHTA SIDDHIS | — | yoga | Ocho poderes yoguicos.
+
+ASHVA | — | cosmología | Caballo.
+
+ASHVATTHA | — | simbolismo | Higuera sagrada; árbol de la vida.
+
+ASMITA | — | yoga | Ego; falsa identidad; "yo soy esto".
+
+ASRADDHA | — | ética | Falta de fe.
+
+ASTEIYA | Asteya | ética | No robar; honestidad.
+
+ASTIKA | — | filosofía | Ortodoxo; que acepta la autoridad védica.
+
+ASURA | — | cosmología | Ser de naturaleza demoníaca o egoísta.
+
+ATHARVAVEDA | — | veda | Cuarto Veda; contiene himnos, rituales y fórmulas.
+
+ATMA | ATMAN | vedanta | El Sí mismo; alma individual; conciencia; en Advaita, idéntico a Brahman.
+
+ATMA JNANA | — | vedanta | Conocimiento del Sí mismo.
+
+ATMA SAKSHATKARA | — | vedanta | Realización directa del Sí mismo.
+
+ATMA SWARUPA | — | vedanta | Naturaleza esencial del Ser.
+
+ATMA VICHARA | — | yoga | Indagación "¿Quién soy yo?"; autoindagación.
+
+ATMANIVEDANA | — | devoción | Consagración total de uno mismo a Dios.
+
+AUDASINYA | — | yoga | Indiferencia; ecuanimidad.
+
+AVABODHA | — | filosofía | Despertar; comprensión.
+
+AVADHUTA | — | yoga | Asceta realizado más allá de convenciones sociales.
+
+AVARANA | — | filosofía | Velo; cobertura que oculta la verdad.
+
+AVASTHA | — | vedanta | Estado de conciencia: vigilia, sueño y sueño profundo.
+
+AVASTHA TRAYA | — | vedanta | Los tres estados de conciencia.
+
+Avatar | Avatara | vaisnavismo | Descenso divino; encarnación de Dios.
+
+AVIDYA | — | vedanta | Ignorancia espiritual que oculta la Realidad.
+
+AVYAKTA | — | vedanta | Lo inmanifestado; lo no manifestado.
+
+AYURVEDA | — | ayurveda | "Ciencia de la vida"; sistema tradicional de medicina hindú.
+
+------------------------------------------------------------------------------
+[ B ]
+------------------------------------------------------------------------------
+
+BAHIRANGA SADHANA | — | yoga | Prácticas externas del yoga: yama, niyama y asana.
+
+BAHYA | — | filosofía | Externo.
+
+BAKTI | Bhakti | devoción | Devoción.
+
+BALA | — | filosofía | Fuerza; niño.
+
+BANAPRASTHA | Vanaprastha | ética | Tercera etapa de la vida: retiro gradual de las obligaciones familiares.
+
+Bandha | — | yoga | Contracción energética; atadura; cierre.
+
+BHAGAVAD GITA | Bhagavad-gita | texto | "Canto del Señor"; diálogo entre Krishna y Arjuna.
+
+Bhagavan | Bhagaván | vaisnavismo | El Señor Supremo; Dios personal poseedor de todas las opulencias.
+
+BHAGAVATA | Srimad-Bhagavatam | vaisnavismo | Purana dedicado a Krishna y al bhakti.
+
+Bhagavata-dharma | — | vaisnavismo | Camino eterno de devoción a la Suprema Personalidad de Dios.
+
+BHAKTA | — | devoción | Devoto.
+
+Bhakti | — | devoción | Devoción amorosa a Dios.
+
+BHAKTI MARGA | — | devoción | Camino de la devoción.
+
+BHAKTI RASA | — | vaisnavismo | Sabor espiritual de la relación amorosa con el Señor.
+
+BHAKTI YOGA | — | yoga | Yoga de la devoción.
+
+Bhajan | — | devoción | Canto devocional.
+
+Bhashya | — | texto | Comentario filosófico.
+
+BHASMA | — | ritual | Ceniza sagrada.
+
+Bhastrika | — | pranayama | Respiración de fuelle; técnica energizante.
+
+BHAVA | — | devoción | Actitud interior; emoción espiritual; estado de conciencia.
+
+BHEDA | — | vedanta | Diferencia; separación.
+
+BHEDA ABHEDA | — | vaisnavismo | Unidad en la diversidad.
+
+Bhikkhu | — | budismo | Monje budista ordenado.
+
+BHIKSHA | — | ritual | Ofrenda de alimento a un gurú o asceta.
+
+BHOGA | — | filosofía | Disfrute material; experiencia de placer y dolor.
+
+BHOKTA | — | filosofía | Experimentador; gozador.
+
+Bodhi | — | budismo | Despertar espiritual; iluminación.
+
+Bodhisattva | — | budismo | Ser que aspira a la iluminación por el bien de todos los seres.
+
+Brahma | — | deidad | Aspecto creador de la Divinidad.
+
+BRAHMA-JNANA | — | vedanta | Conocimiento directo de Brahman.
+
+BRAHMA-VIDYA | — | vedanta | Ciencia o conocimiento de Brahman.
+
+Brahmacharya | — | ética | Celibato; autocontrol; conservación de la energía vital.
+
+Brahmamuhurta | — | práctica | Período auspicioso antes del amanecer para meditar.
+
+Brahman | — | vedanta | Realidad Absoluta; Conciencia Universal; Existencia-Conciencia-Dicha.
+
+Buddhi | — | yoga | Intelecto; facultad de discernimiento.
+
+------------------------------------------------------------------------------
+[ C ]
+------------------------------------------------------------------------------
+
+Chaitanya-caritamrita | — | vaisnavismo | Texto biográfico y filosófico sobre Sri Chaitanya Mahaprabhu.
+
+Chakra | — | yoga | Centro energético o rueda de conciencia.
+
+CHANDOGYA | — | upanishad | Nombre de una Upanishad.
+
+Chela | — | gurú | Discípulo.
+
+CHIRANJIVI | — | cosmología | Ser de vida extremadamente larga o eterna.
+
+Chit | Chit-shakti | vedanta | Conciencia; energía espiritual de conciencia.
+
+Chitta | — | yoga | Mente-subconsciente; almacén de impresiones.
+
+Chitta Vritti | — | yoga | Fluctuaciones u ondas de la mente.
+
+------------------------------------------------------------------------------
+[ D ]
+------------------------------------------------------------------------------
+
+DAIVA | Daivic | teología | Divino.
+
+DAMA | — | yoga | Control de los sentidos.
+
+Dana | — | ética | Generosidad; caridad.
+
+Darshan | Darshana | práctica | Visión sagrada de una deidad, santo o lugar divino.
+
+DAYA | — | ética | Misericordia; compasión.
+
+DEHA | — | filosofía | Cuerpo.
+
+DEVA | Devas | cosmología | Ser celestial; dios menor o semidios.
+
+Dharana | — | yoga | Concentración sostenida en un punto.
+
+Dharma | — | ética | Deber, ley cósmica, virtud y forma correcta de vivir.
+
+Dharmakaya | — | budismo | Cuerpo de la realidad; aspecto absoluto del Buda.
+
+Dhyana | — | yoga | Meditación profunda.
+
+DIVYA-DRISHTI | — | yoga | Percepción divina.
+
+Dosha | — | ayurveda | Constitución corporal: Vata, Pitta y Kapha.
+
+Dukha | Duhkha | filosofía | Sufrimiento; insatisfacción.
+
+Dvesha | Dwesha | yoga | Aversión; repulsión.
+
+------------------------------------------------------------------------------
+[ E ]
+------------------------------------------------------------------------------
+
+Ekadashi | Ekadasi | vaisnavismo | Undécimo día lunar; día de ayuno y devoción a Vishnu o Krishna.
+
+------------------------------------------------------------------------------
+[ G ]
+------------------------------------------------------------------------------
+
+GANGA | — | deidad | Río Ganges; diosa del río Ganges.
+
+Gauranga | — | vaisnavismo | Nombre de Sri Chaitanya Mahaprabhu, el Avatara dorado.
+
+GAYATRI | — | mantra | Uno de los mantras védicos más sagrados.
+
+GITA | — | texto | Bhagavad-gita.
+
+Gopi | — | vaisnavismo | Pastoras de Vrindavan; ejemplo supremo de devoción amorosa.
+
+GUNA | — | filosofía | Cualidad de la naturaleza: sattva, rajas y tamas.
+
+Guru | — | gurú | Maestro espiritual que disipa la ignorancia.
+
+------------------------------------------------------------------------------
+[ H ]
+------------------------------------------------------------------------------
+
+Harinama-sankirtana | — | vaisnavismo | Canto congregacional del Santo Nombre.
+
+Hatha-yoga | — | yoga | Yoga físico que equilibra cuerpo y mente mediante asanas y pranayama.
+
+HAVAN | Homa | ritual | Oblaciones sagradas al fuego.
+
+HIRANYAGARBHA | — | cosmología | Inteligencia cósmica; mente cósmica; origen dorado del universo.
+
+Hladini-shakti | — | vaisnavismo | Potencia de bienaventuranza del Señor; personificada en Srimati Radharani.
+
+------------------------------------------------------------------------------
+[ I ]
+------------------------------------------------------------------------------
+
+Ida Nadi | — | yoga | Canal energético izquierdo; energía lunar y refrescante.
+
+INDRA | — | deidad | Rey de los devas; señor del cielo.
+
+INDRIYA | Indriyas | yoga | Sentido o facultad; órganos de percepción y acción.
+
+Ishta Devata | — | práctica | Deidad elegida o forma personal de Dios que el practicante adora.
+
+Ishvara | Isvara | teología | Señor Supremo; aspecto personal de Dios.
+
+Ishvara Pranidhana | — | yoga | Entrega total al Señor.
+
+------------------------------------------------------------------------------
+[ J ]
+------------------------------------------------------------------------------
+
+Japa | — | mantra | Repetición del nombre divino o de un mantra.
+
+Jiva | Jivatman | vaisnavismo | Alma individual encarnada.
+
+Jivanmukta | — | vedanta | Persona liberada mientras aún vive.
+
+Jnana | Jñana | vedanta | Conocimiento espiritual; sabiduría de la Realidad.
+
+JNANA-INDRIYAS | — | yoga | Órganos de conocimiento o percepción.
+
+Jnana-yoga | — | yoga | Camino del conocimiento y discernimiento.
+
+JNANI | — | gurú | Sabio; conocedor espiritual.
+
+------------------------------------------------------------------------------
+[ K ]
+------------------------------------------------------------------------------
+
+Kaivalya | — | yoga | Liberación absoluta; independencia trascendental.
+
+Kalpa | — | cosmología | Día de Brahma; ciclo cósmico.
+
+Kama | — | ética | Deseo; placer; disfrute dentro del orden ético.
+
+Kapalabhati | — | pranayama | Técnica de respiración purificadora y energizante.
+
+KARMA | — | filosofía | Acción y consecuencia; ley de causa y efecto.
+
+KARMA-INDRIYAS | — | yoga | Órganos de acción.
+
+KARMA-KANDA | — | veda | Sección védica de rituales y deberes.
+
+KARMA-YOGA | — | yoga | Yoga de la acción desinteresada.
+
+Karuna | — | ética | Compasión activa.
+
+KASHAYA | — | yoga | Deseos ocultos; impurezas mentales.
+
+Kirtan | Sankirtan | vaisnavismo | Canto congregacional de los santos nombres del Señor.
+
+Kosha | — | vedanta | Envoltura o cuerpo sutil que cubre al Atman.
+
+Krishna | — | vaisnavismo | La Suprema Personalidad de Dios; fuente de todas las encarnaciones.
+
+KRIYA | — | yoga | Acción; práctica energética.
+
+KSHAMA | — | ética | Perdón; paciencia.
+
+Kshetra | — | filosofía | Campo; cuerpo.
+
+Kshetrajna | — | filosofía | Conocedor del campo; el alma o Superalma.
+
+Kubera | Kuvera | deidad | Deidad de la riqueza; tesorero de los devas.
+
+Kundalini | — | yoga | Energía espiritual primordial enroscada en la base de la columna.
+
+------------------------------------------------------------------------------
+[ L ]
+------------------------------------------------------------------------------
+
+Lakshmi | Shri | vaisnavismo | Diosa de la fortuna, prosperidad, belleza y devoción; consorte de Vishnu.
+
+LAYA | — | yoga | Disolución; absorción.
+
+Lila | — | vaisnavismo | Pasatiempos y juegos divinos del Señor.
+
+LINGA-SARIRA | — | yoga | Cuerpo sutil o astral.
+
+Loka | — | cosmología | Mundo; plano de existencia.
+
+------------------------------------------------------------------------------
+[ M ]
+------------------------------------------------------------------------------
+
+Madhurya | — | vaisnavismo | Dulzura íntima y amorosa de las relaciones divinas.
+
+MAHA | — | gramática | Grande.
+
+Maha-mantra | — | vaisnavismo | Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare / Hare Rama, Hare Rama, Rama Rama, Hare Hare.
+
+MAHABHARATA | — | epopeya | Gran epopeya hindú que contiene el Bhagavad-gita.
+
+Mahaprabhu | — | vaisnavismo | Gran Maestro; título de Sri Chaitanya.
+
+MAHAPURUSHA | — | teología | Gran alma; Persona Suprema.
+
+MAHARISHI | — | gurú | Gran sabio o vidente.
+
+MAHASAMADHI | — | yoga | Partida final de un santo realizado de su cuerpo.
+
+MAHATMA | — | ética | Gran alma.
+
+Mahavakya | — | vedanta | Gran sentencia védica que declara la identidad del Atman con Brahman.
+
+Mahat-tattva | — | cosmología | Sustancia material primordial previa a la creación.
+
+MAITRI | — | ética | Amistad; benevolencia.
+
+Manas | — | yoga | Mente sensorial y perceptiva.
+
+MANONASA | — | yoga | Disolución de la mente egoica.
+
+Mantra | — | mantra | Sílaba, palabra o fórmula sagrada que libera la mente.
+
+Maya | — | vedanta | Poder ilusorio que hace percibir multiplicidad en lugar de unidad.
+
+MOHA | — | yoga | Infatuación; confusión.
+
+Moksha | Mukti; Vimukti | vedanta | Liberación final del ciclo de nacimiento y muerte.
+
+MOUNA | — | práctica | Silencio; voto de silencio.
+
+Mudra | — | yoga | Gesto sagrado de manos o cuerpo que canaliza energía.
+
+MUKTI | — | vedanta | Liberación.
+
+Mumukshu | — | vedanta | Aspirante que anhela la liberación.
+
+MUNI | — | gurú | Asceta; sabio silencioso.
+
+------------------------------------------------------------------------------
+[ N ]
+------------------------------------------------------------------------------
+
+NADA | — | yoga | Sonido místico; vibración primordial.
+
+Nadi | — | yoga | Canal sutil de energía.
+
+Nadi Shodhana | — | pranayama | Respiración alternada que equilibra los canales energéticos.
+
+NIRMANAKAYA | — | budismo | Cuerpo de manifestación de un ser realizado.
+
+Nirvana | — | budismo | Liberación del sufrimiento; extinción del ego; paz absoluta.
+
+Nirvikalpa Samadhi | — | yoga | Samadhi sin diferenciación mental; absorción absoluta.
+
+Nishkama-karma | — | yoga | Acción realizada sin deseo de frutos personales.
+
+NITYA-SIDDHA | — | vaisnavismo | Alma eternamente liberada.
+
+Nityananda Prabhu | — | vaisnavismo | Compañero espiritual de Sri Chaitanya; encarna la misericordia.
+
+NIVRITTI | — | yoga | Renuncia; retorno hacia lo espiritual.
+
+Niyama | — | yoga | Observancias internas: saucha, santosha, tapas, svadhyaya e ishvara pranidhana.
+
+------------------------------------------------------------------------------
+[ O ]
+------------------------------------------------------------------------------
+
+Ojas | — | yoga | Energía sutil espiritual acumulada mediante autocontrol.
+
+Om | AUM; Pranava | mantra | Sonido primordial; vibración original del universo.
+
+Om Mani Padme Hum | — | mantra budista | Mantra de compasión asociado a Avalokiteshvara.
+
+Om Namah Shivaya | — | mantra | Mantra tradicional dedicado a Shiva.
+
+OORDHVARETA | — | yoga | Yogui que ha sublimado la energía seminal en energía espiritual.
+
+------------------------------------------------------------------------------
+[ P ]
+------------------------------------------------------------------------------
+
+Pancha-tattva | — | vaisnavismo | Las cinco verdades divinas: Chaitanya, Nityananda, Advaita, Gadadhara y Srivasa.
+
+PARAM-DHAMA | — | vaisnavismo | Morada suprema.
+
+Paramahamsa | — | vedanta | Cisne supremo; sabio de la más alta realización.
+
+Paramatma | — | vaisnavismo | Superalma presente en el corazón de cada ser vivo.
+
+PARIVRAJAKA | — | gurú | Monje errante.
+
+PASU-SVABHAVA | — | ética | Naturaleza animal o instintiva.
+
+PATANJALI | — | yoga | Autor de los Yoga Sutras.
+
+Pingala Nadi | — | yoga | Canal energético derecho; energía solar y activa.
+
+Prakriti | — | cosmología | Naturaleza material primordial.
+
+Prana | — | yoga | Energía vital; aliento vital.
+
+PRANAVA | — | mantra | Om.
+
+Pranayama | — | pranayama | Regulación y expansión de la energía vital mediante la respiración.
+
+Pratyahara | — | yoga | Retiro de los sentidos de los objetos externos.
+
+Prema | — | vaisnavismo | Amor puro, espontáneo e ininterrumpido por Dios.
+
+PRITHVI | — | cosmología | Tierra; elemento tierra.
+
+PURANA | — | texto | Escritura que narra cosmología, genealogías divinas y leyendas.
+
+PURNA-JNANI | — | vedanta | Sabio plenamente realizado.
+
+Purusha | — | vedanta | Conciencia Suprema; Persona trascendental.
+
+Purushottama | — | vaisnavismo | La Suprema Persona; Krishna.
+
+------------------------------------------------------------------------------
+[ R ]
+------------------------------------------------------------------------------
+
+Radharani | Radha | vaisnavismo | Potencia de placer y bienaventuranza de Krishna; objeto supremo de Su amor.
+
+RAGA | — | yoga | Apego o atracción.
+
+RAJA | — | cultura | Rey.
+
+Raja Yoga | — | yoga | Yoga real o yoga de Patanjali; también llamado Ashtanga Yoga.
+
+RAJAS | — | filosofía | Guna de actividad, pasión e inquietud.
+
+RAJASUYA-YAJNA | — | ritual | Sacrificio real de soberanía.
+
+RAMAYANA | — | epopeya | Narración sagrada de la vida del Señor Rama.
+
+RASASVADA | — | yoga | Goce parcial del samadhi.
+
+Rishi | — | veda | Vidente; sabio que percibe las verdades védicas.
+
+RISHIKESH | — | lugar sagrado | Ciudad sagrada en el Himalaya.
+
+------------------------------------------------------------------------------
+[ S ]
+------------------------------------------------------------------------------
+
+Sadhaka | — | yoga | Practicante espiritual.
+
+SADHANA | — | práctica | Práctica espiritual disciplinada y cotidiana.
+
+SADHU | — | ética | Persona santa; asceta piadoso.
+
+SAHASRANAMA | — | devoción | Los mil nombres del Señor.
+
+Sai Baba | — | maestro | Nombre reverencial que puede referirse a Shirdi Sai Baba o a Sri Sathya Sai Baba; por sí solo es ambiguo.
+
+Sathya Sai Baba | — | maestro | Sathya Narayana Raju (1926-2011), maestro espiritual y filántropo indio nacido en Puttaparthi; declaró ser la reencarnación de Shirdi Sai Baba. Enseñó amor universal, paz, verdad, rectitud, no violencia y unidad de las religiones. Fundó la Organización Internacional Sri Sathya Sai y promovió hospitales gratuitos y proyectos de agua potable. Su sede principal es Prasanthi Nilayam, Puttaparthi, Andhra Pradesh, India, código postal 515134.
+
+Sathia Sai Baba | — | maestro | Sathya Narayana Raju (1926-2011), maestro espiritual y filántropo indio nacido en Puttaparthi; declaró ser la reencarnación de Shirdi Sai Baba. Enseñó amor universal, paz, verdad, rectitud, no violencia y unidad de las religiones. Fundó la Organización Internacional Sri Sathya Sai y promovió hospitales gratuitos y proyectos de agua potable. Su sede principal es Prasanthi Nilayam, Puttaparthi, Andhra Pradesh, India, código postal 515134.
+
+SAKTI | Shakti | teología | Poder; energía divina; aspecto femenino de la Divinidad.
+
+SAKTI-SANCHAR | — | yoga | Transmisión de poder espiritual.
+
+SAMA | — | yoga | Serenidad; control de la mente.
+
+Samadhi | — | yoga | Estado de absorción supramental; unión con la Realidad.
+
+Sambhogakaya | — | budismo | Cuerpo de gozo; dimensión sutil de luz de un ser iluminado.
+
+Samsara | — | filosofía | Ciclo de nacimiento, muerte y renacimiento.
+
+Samskara | — | yoga | Impresión mental dejada por experiencias pasadas.
+
+SAMSKARAS | — | yoga | Impresiones del subconsciente.
+
+SAMYAMA | — | yoga | Dominio total mediante dharana, dhyana y samadhi.
+
+Sangha | — | budismo | Comunidad espiritual.
+
+Sankalpa | — | práctica | Resolución interior; intención firme.
+
+SANKARA | Adi Shankara | vedanta | Gran maestro del Advaita Vedanta.
+
+SANKIRTAN | Kirtan | vaisnavismo | Canto congregacional de los santos nombres.
+
+Sannyasa | — | ética | Renuncia formal para dedicarse a la realización espiritual.
+
+SANNYASIN | Sannyasi | ética | Persona renunciante.
+
+Satchidananda | Sat-Chit-Ananda | vedanta | Existencia, conciencia y bienaventuranza absolutas.
+
+Satsang | — | práctica | Compañía de la verdad; reunión espiritual.
+
+Sattva | — | filosofía | Guna de pureza, armonía, claridad y serenidad.
+
+Satya | — | ética | Verdad; veracidad.
+
+SATYA-YUGA | — | cosmología | Edad de la Verdad; primera de las cuatro edades cósmicas.
+
+Saucha | — | yoga | Pureza física y mental.
+
+Seva | — | ética | Servicio desinteresado.
+
+Shakti | — | teología | Energía dinámica y femenina de la Divinidad.
+
+Shanti | — | ética | Paz profunda.
+
+Shiva | — | deidad | Conciencia trascendente; aspecto transformador de la Divinidad.
+
+Shraddha | Sraddha | ética | Fe profunda y razonada.
+
+SIDDHI | — | yoga | Poder espiritual o psíquico.
+
+Sikshashtaka | — | vaisnavismo | Ocho instrucciones compuestas por Sri Chaitanya.
+
+SIVA | Shiva | deidad | Señor Shiva; el auspicioso; el transformador.
+
+SLOKA | — | texto | Verso.
+
+SRADDHA | Shraddha | ética | Fe.
+
+Sravanam | — | vaisnavismo | Escucha atenta de las escrituras y glorias del Señor.
+
+Srimad-Bhagavatam | Bhagavata Purana | vaisnavismo | Escritura vaisnava centrada en Krishna y el bhakti.
+
+SRI | Shri | respeto | Prosperidad; buen auspicio; título de cortesía.
+
+Sri Chaitanya | Chaitanya Mahaprabhu | vaisnavismo | Maestro vaisnava que difundió el canto del Santo Nombre y la devoción a Krishna.
+
+Acintya-shakti | — | vaisnavismo | Potencia inconcebible del Señor Supremo.
+
+Sruti | Shruti | veda | Revelación védica escuchada por los sabios; los Vedas.
+
+STOTRA | — | devoción | Himno de alabanza.
+
+SUDDHA | — | ética | Puro.
+
+SUSHUMNA | Sushumna Nadi | yoga | Canal central por el que asciende la Kundalini.
+
+Sutra | — | texto | Aforismo breve que sintetiza una enseñanza.
+
+Svadhyaya | — | yoga | Estudio de las escrituras y reflexión sobre el Sí mismo.
+
+Svaha | — | ritual | Fórmula ritual que significa "así sea"; ofrecido al fuego.
+
+SVARUPA | — | vedanta | Naturaleza esencial; forma verdadera.
+
+Swami | — | respeto | Título de respeto para un renunciante o maestro espiritual.
+
+------------------------------------------------------------------------------
+[ T ]
+------------------------------------------------------------------------------
+
+TAMAS | — | filosofía | Guna de inercia, oscuridad y pereza.
+
+Tapas | — | yoga | Austeridad; disciplina transformadora; fuego interno.
+
+TAPASCHARYA | — | yoga | Práctica de austeridad.
+
+TANTRA | — | tradición | Camino espiritual que utiliza mantra, yantra, ritual, respiración y energía para expandir la conciencia.
+
+Tattva | — | filosofía | Principio o realidad fundamental.
+
+TEHSILDAR | — | cultura | Agente fiscal o administrativo histórico de la India.
+
+TRIPUTI | — | vedanta | Tríada: conocedor, conocimiento y objeto conocido.
+
+TRISHNA | — | budismo | Ansia; sed; deseo.
+
+Tulsi | — | vaisnavismo | Albahaca sagrada; planta querida por Krishna y Vishnu.
+
+Turiya | — | vedanta | Cuarto estado de conciencia, más allá de vigilia, sueño y sueño profundo.
+
+Tyaga | — | yoga | Renuncia interna al egoísmo y la posesividad.
+
+------------------------------------------------------------------------------
+[ U ]
+------------------------------------------------------------------------------
+
+UPADESA | — | gurú | Instrucción o consejo espiritual.
+
+Upanishads | — | veda | Textos filosóficos finales de los Vedas que explican Brahman y Atman.
+
+------------------------------------------------------------------------------
+[ V ]
+------------------------------------------------------------------------------
+
+Vaikuntha | — | vaisnavismo | Morada espiritual sin ansiedad; abode de Vishnu o Narayana.
+
+Vairagya | — | yoga | Desapego; desprendimiento de los apegos materiales.
+
+VASANA | — | yoga | Tendencia latente o deseo sutil almacenado en la mente.
+
+VASANA-KSHAYA | — | yoga | Extinción de las tendencias mentales.
+
+Veda | — | veda | Conocimiento revelado; escrituras más antiguas del hinduismo.
+
+Vedanta | — | vedanta | Final de los Vedas; escuela filosófica basada en Upanishads, Brahman y Atman.
+
+VEDAS | — | veda | Los cuatro Vedas: Rig, Yajur, Sama y Atharva.
+
+VEERYA | Virya | yoga | Energía vital; vigor; energía seminal.
+
+VETTA | — | filosofía | Conocedor.
+
+Vichara | — | vedanta | Indagación; discernimiento sobre la naturaleza del Ser.
+
+Vidya | — | vedanta | Conocimiento que conduce a la Realidad Suprema.
+
+Vihara | — | budismo | Monasterio; refugio monástico.
+
+Vikshepa | — | yoga | Distracción; agitación mental.
+
+VIMANA | — | cosmología | Vehículo o palacio celestial descrito en textos védicos y puránicos.
+
+Vinaya | — | budismo | Reglas de disciplina monástica.
+
+Vinyasa | — | yoga | Secuencia fluida de posturas coordinada con la respiración.
+
+VISHAYA | — | yoga | Objetos de los sentidos.
+
+Vishnu | — | vaisnavismo | El Sostenedor Supremo; deidad que preserva el universo.
+
+Viveka | — | vedanta | Discernimiento entre lo eterno y lo perecedero.
+
+VRITTI | — | yoga | Modificación u onda de la mente.
+
+VYAVAHARA | — | filosofía | Actividad mundana; conducta práctica.
+
+------------------------------------------------------------------------------
+[ Y ]
+------------------------------------------------------------------------------
+
+YAMA | — | yoga | Abstenciones éticas: ahimsa, satya, asteya, brahmacharya y aparigraha.
+
+Yantra | — | práctica | Diagrama geométrico sagrado usado para meditación y enfoque.
+
+Yoga | — | yoga | Unión del ser individual con la Conciencia Universal.
+
+Yoganidra | — | yoga | Sueño yóguico; relajación profunda consciente.
+
+YOGI | Yogui | yoga | Practicante de yoga; persona establecida en la unión espiritual.
+
+YONI | — | simbolismo | Fuente; origen; símbolo de la energía creativa.
+
+Yuga-avatara | — | vaisnavismo | Encarnación divina para cada era cósmica.
+
+------------------------------------------------------------------------------
+[ Z ]
+------------------------------------------------------------------------------
+
+ZAMINDAR | — | cultura | Terrateniente histórico en la India.
+
+------------------------------------------------------------------------------
+TÉRMINOS VEDICOS Y VAISHNAVAS AGREGADOS
+------------------------------------------------------------------------------
+
+ACHINTYA-BHEDABHEDA-TATTVA | — | vaisnavismo | Doctrina de Chaitanya: Krishna es simultáneamente uno y diferente de Sus energías, las almas y el mundo.
+
+ANANTA-SHESHA | Shesha; Sheshanaga | vaisnavismo | Serpiente mil-cabezas sobre la cual descansa Vishnu; símbolo del servicio eterno.
+
+BHAGAVATA | — | vaisnavismo | Devoto del Señor; también nombre del Srimad-Bhagavatam.
+
+BHAKTI-VRIKSHA | — | vaisnavismo | "Árbol de devoción"; estructura de crecimiento comunitario del bhakti.
+
+BRAHMACHARI | — | ética | Estudiante celibate o persona que practica el autocontrol.
+
+CHARANAMRITA | — | vaisnavismo | Agua que ha lavado los pies de la Deidad o del maestro; considerada sagrada.
+
+DANDAVAT | — | vaisnavismo | Reverencia postrada ofrecida al Señor, al gurú o a los vaisnavas.
+
+GARBHODAKASHAYI VISHNU | — | vaisnavismo | Expansión de Vishnu que yace en el océano causal y crea el universo.
+
+GOKULA | — | vaisnavismo | Morada pastoral de Krishna en Vrindavan.
+
+GOVINDA | — | vaisnavismo | Krishna como dador de placer a las vacas, los sentidos y los devotos.
+
+GURU-PARAMPARA | — | vaisnavismo | Sucesión discipular de maestros espirituales.
+
+HARE KRISHNA | — | mantra | Invocación a la energía devocional de Krishna y a Krishna mismo.
+
+JAGAD-GURU | — | gurú | Maestro del universo.
+
+KALI-YUGA | — | cosmología | Era actual de conflicto, hipocresía y disminución del dharma.
+
+KARMA-KANDA | — | veda | Parte de los Vedas dedicada a rituales y frutos materiales.
+
+KIRTANIYA | — | vaisnavismo | Persona que canta o dirige kirtan.
+
+MAHA-VISHNU | — | vaisnavismo | Expansión de Vishnu que crea y observa los universos materiales.
+
+NAMA-SANKIRTANA | — | vaisnavismo | Canto del Santo Nombre.
+
+NARAYANA | — | vaisnavismo | Vishnu como el refugio supremo de todos los seres.
+
+PARABRAHMAN | — | vedanta | Brahman supremo; la Realidad Absoluta.
+
+PRASAD | Prasadam | vaisnavismo | Alimento ofrecido a la Deidad y luego distribuido como bendición.
+
+PREMA-BHAKTI | — | vaisnavismo | Devoción madura basada en amor puro por Dios.
+
+RAGANUGA-BHAKTI | — | vaisnavismo | Devoción espontánea que sigue el amor natural de los habitantes de Vrindavan.
+
+SANKALPA | — | ritual | Resolución o intención declarada antes de un ritual.
+
+SHARANAGATI | Saranagati | vaisnavismo | Entrega total al Señor.
+
+SHRI GURU | — | gurú | Maestro espiritual venerado.
+
+SMARANAM | — | vaisnavismo | Recuerdo constante de Dios, Su nombre, forma, cualidades y pasatiempos.
+
+SRILA | — | respeto | Título honorífico para un gran acharya o maestro espiritual.
+
+VAIDHI-BHAKTI | — | vaisnavismo | Devoción regulada por las reglas de las escrituras.
+
+VAISHNAVA | Vaisnava | vaisnavismo | Devoto de Vishnu, Krishna o Sus expansiones.
+
+VRAJA | Vrindavan | vaisnavismo | Lugar trascendental de los pasatiempos de Krishna.
+
+YAJNA | — | ritual | Sacrificio u ofrenda ritual; acción ofrecida a Dios.
+
+==============================================================================
+FIN DEL GLOSARIO
+==============================================================================
+=============================================================================
+
+
+================================================================================
+II. VALORES HUMANOS — EDUCARE / EDUCO-CARE
+FORMATO DE TABLA PARA IA LOCAL:
+VALOR PRINCIPAL | SUBVALOR | NIVEL O FUNCIÓN | DEFINICIÓN BREVE
+================================================================================
+
+VALOR PRINCIPAL | Verdad | Sathya | Búsqueda de lo inmutable y coherencia interior. Corresponde al nivel intelectual superior.
+Verdad | Autenticidad | Intelectual | Ser fiel a la propia naturaleza y expresarse sin falsedad.
+Verdad | Autoanálisis | Intelectual | Examinar con honestidad los propios pensamientos, motivaciones y acciones.
+Verdad | Autoconocimiento | Intelectual | Conocer la propia naturaleza, capacidades, límites y esencia interior.
+Verdad | Búsqueda del conocimiento | Intelectual | Interés activo por aprender, comprender y descubrir la verdad.
+Verdad | Coherencia | Intelectual | Armonía entre lo que se piensa, se dice y se hace.
+Verdad | Curiosidad noble | Intelectual | Deseo sano de conocer para comprender y servir, no para criticar o dañar.
+Verdad | Discernimiento | Viveka | Intelectual | Capacidad de distinguir lo real de lo ilusorio, lo correcto de lo incorrecto.
+Verdad | Espíritu de indagación | Investigación interior | Intelectual | Actitud de preguntar, observar y buscar la causa profunda de las cosas.
+Verdad | Exactitud | Intelectual | Precisión al expresar, registrar o transmitir información.
+Verdad | Fe | Intelectual | Confianza razonada en la verdad, en el bien y en el proceso interior.
+Verdad | Honestidad | Intelectual | Actuar y hablar sin engaño, mentira ni doblez.
+Verdad | Intuición | Intelectual | Percepción directa e interior de la verdad más allá del razonamiento.
+Verdad | Objetividad | Intelectual | Ver las cosas sin distorsión causada por prejuicios, deseos o emociones.
+Verdad | Razonamiento elevado | Intelectual | Pensamiento claro, lógico y orientado a la comprensión profunda.
+Verdad | Reflexión | Intelectual | Detenerse a considerar con atención antes de actuar o concluir.
+Verdad | Sentido de la Realidad | Intelectual | Percibir la realidad tal como es, más allá de apariencias.
+Verdad | Sinceridad | Intelectual | Expresar con pureza lo que uno siente, piensa y sabe.
+Verdad | Síntesis | Intelectual | Capacidad de unificar ideas, experiencias o conocimientos en una comprensión mayor.
+Verdad | Veracidad | Intelectual | Decir y vivir conforme a la verdad.
+
+VALOR PRINCIPAL | Rectitud | Dharma | Acción correcta | La verdad puesta en acción. Corresponde al nivel físico y al deber con el entorno.
+Rectitud | Autoconfianza | Físico | Confianza en las propias capacidades y en la propia capacidad de hacer el bien.
+Rectitud | Autosuficiencia | Físico | Capacidad de sostenerse y resolver lo necesario sin dependencia excesiva.
+Rectitud | Buen comportamiento | Físico | Actuar de manera correcta, respetuosa y beneficiosa en la vida cotidiana.
+Rectitud | Deber | Kartavya | Físico | Cumplir lo que corresponde hacer con responsabilidad y conciencia.
+Rectitud | Disciplina | Físico | Mantener orden, constancia y control en la conducta y los hábitos.
+Rectitud | Ética | Físico | Elegir lo correcto según principios universales de bien y justicia.
+Rectitud | Fortaleza | Físico | Capacidad de sostener el esfuerzo, enfrentar dificultades y no rendirse.
+Rectitud | Habilidad | Físico | Desarrollo y uso adecuado de las capacidades personales.
+Rectitud | Ingeniosidad | Físico | Encontrar soluciones prácticas y creativas ante los problemas.
+Rectitud | Iniciativa | Físico | Tomar la decisión de actuar sin esperar que otro lo haga primero.
+Rectitud | Liderazgo ético | Físico | Guiar a otros con ejemplo, responsabilidad y respeto.
+Rectitud | Limpieza y pulcritud | Físico | Mantener el cuerpo, el espacio y las acciones limpios y ordenados.
+Rectitud | Orden | Físico | Organizar el tiempo, los objetos, las tareas y la conducta.
+Rectitud | Perseverancia | Constancia | Físico | Continuar el esfuerzo hasta alcanzar la meta correcta.
+Rectitud | Puntualidad | Físico | Respetar el tiempo propio y el de los demás.
+Rectitud | Respeto | Físico | Tratar con consideración a las personas, los lugares y las cosas.
+Rectitud | Responsabilidad | Físico | Asumir las consecuencias de las propias acciones y cumplir los compromisos.
+Rectitud | Sacrificio | Renuncia | Físico | Entregar algo propio por un bien mayor o por el beneficio de otros.
+Rectitud | Sencillez | Simplicidad | Físico | Vivir sin exceso, ostentación ni complejidad innecesaria.
+Rectitud | Servicialidad | Trabajo dedicado | Físico | Ayudar con diligencia y buena disposición.
+Rectitud | Uso adecuado del tiempo y recursos | Físico | Administrar con conciencia el tiempo, la energía, los bienes y los medios.
+Rectitud | Valor | Coraje; Ánimo | Físico | Enfrentar el miedo y actuar correctamente aun cuando sea difícil.
+
+VALOR PRINCIPAL | Paz | Shanti | Estado mental en calma y dominio de los sentidos. Corresponde al nivel emocional.
+Paz | Atención | Emocional | Presencia consciente en lo que se hace, siente o escucha.
+Paz | Autoaceptación | Emocional | Reconocer y aceptar la propia realidad sin rechazo ni autoexigencia destructiva.
+Paz | Autocontrol | Emocional | Dominar impulsos, reacciones y deseos.
+Paz | Autodisciplina | Emocional | Mantener hábitos y conductas que fortalecen la calma interior.
+Paz | Autorespeto | Emocional | Valorarse a sí mismo sin arrogancia ni humillación.
+Paz | Armonía | Emocional | Equilibrio entre pensamiento, emoción, palabra y acción.
+Paz | Buen humor | Emocional | Actitud alegre, ligera y positiva ante la vida.
+Paz | Calma | Emocional | Estado sereno ante situaciones externas o internas.
+Paz | Concentración | Emocional | Mantener la mente enfocada en un punto o tarea.
+Paz | Contento | Contentamiento; Santhosha | Emocional | Satisfacción interior con lo que se tiene y lo que se vive.
+Paz | Desapego | Vairagya | Emocional | No depender emocionalmente de resultados, objetos o situaciones.
+Paz | Dignidad | Emocional | Mantener la propia valía y el respeto hacia uno mismo.
+Paz | Enfoque | Emocional | Dirigir la atención hacia lo esencial sin dispersión.
+Paz | Equilibrio | Emocional | Estabilidad entre acción, descanso, emoción y pensamiento.
+Paz | Felicidad interior | Emocional | Alegría que no depende exclusivamente de circunstancias externas.
+Paz | Límite a los deseos | Emocional | Saber moderar los deseos para no perder la paz ni el control.
+Paz | Optimismo | Emocional | Mirar la vida con esperanza y confianza en el bien.
+Paz | Paciencia | Emocional | Saber esperar y tolerar las dificultades sin alterarse.
+Paz | Prudencia | Emocional | Actuar con cautela, medida y buena intención.
+Paz | Respeto por uno mismo | Emocional | Cuidar la propia dignidad, cuerpo, mente y tiempo.
+Paz | Satisfacción | Emocional | Reconocer el valor de lo recibido y alcanzado.
+Paz | Silencio interior | Emocional | Quietud mental más allá del ruido de pensamientos y emociones.
+Paz | Tranquilidad | Emocional | Ausencia de agitación interior.
+
+VALOR PRINCIPAL | Amor | Prema | Flujo de energía incondicional que une a la creación. Es la base espiritual de la existencia.
+Amor | Agradecimiento | Gratitud | Espiritual | Reconocer y valorar lo recibido de otros, de la vida y de Dios.
+Amor | Alegría | Espiritual | Expresión natural de bienestar interior compartido.
+Amor | Amabilidad | Espiritual | Tratar a los demás con dulzura, respeto y buena voluntad.
+Amor | Amistad | Espiritual | Vínculo basado en confianza, cuidado mutuo y sinceridad.
+Amor | Ayuda | Apoyo | Espiritual | Ofrecer asistencia concreta a quien la necesita.
+Amor | Apreciación de la belleza divina | Belleza | Espiritual | Reconocer la belleza presente en la creación y en el ser.
+Amor | Bondad | Espiritual | Disposición constante hacia el bien de los demás.
+Amor | Caridad | Espiritual | Dar con generosidad a quien necesita.
+Amor | Compasión | Espiritual | Sentir y responder ante el sufrimiento de otros.
+Amor | Comprensión | Espiritual | Entender las circunstancias, sentimientos y necesidades ajenas.
+Amor | Contención | Espiritual | Acompañar, sostener y dar seguridad a otro.
+Amor | Cuidado | Espiritual | Proteger la vida, la salud, la dignidad y el bienestar ajeno.
+Amor | Compartir | Espiritual | Distribuir tiempo, recursos, conocimiento o alegría con otros.
+Amor | Dedicación | Espiritual | Entregarse con constancia a una persona, causa o servicio.
+Amor | Devoción | Bhakti | Espiritual | Amor dirigido a Dios y expresado en servicio, recuerdo y entrega.
+Amor | Dulzura | Espiritual | Trato suave, afectuoso y no violento.
+Amor | Empatía | Espiritual | Capacidad de sentir y comprender lo que vive otra persona.
+Amor | Generosidad | Espiritual | Dar sin calcular ni esperar recompensa.
+Amor | Inocencia | Espiritual | Pureza de intención y sencillez del corazón.
+Amor | Maternidad | Instinto protector | Espiritual | Cuidar, proteger y nutrir la vida.
+Amor | Perdón | Espiritual | Soltar el resentimiento y dar oportunidad a la reconciliación.
+Amor | Simpatía | Espiritual | Afinidad afectiva y buena disposición hacia los demás.
+Amor | Suavidad | Espiritual | Manejo delicado de palabras, gestos y relaciones.
+Amor | Ternura | Espiritual | Afecto delicado y protector.
+Amor | Tolerancia | Espiritual | Aceptar diferencias sin agresión ni rechazo.
+
+VALOR PRINCIPAL | No Violencia | Ahimsa | Suma total y máxima expresión de todos los valores humanos. Corresponde a la comprensión de la Unidad de la creación.
+No Violencia | Amor Universal | Unidad | Espiritual | Amar a todos los seres como expresiones de una misma realidad.
+No Violencia | Buenos modales | Cortesía | Social | Trato respetuoso, educado y considerado.
+No Violencia | Ciudadanía consciente | Social | Participar responsablemente en la comunidad y la sociedad.
+No Violencia | Consideración | Social | Tener en cuenta las necesidades, sentimientos y derechos de los demás.
+No Violencia | Cooperación | Social | Trabajar junto a otros para un bien común.
+No Violencia | Fraternidad | Hermandad | Social | Reconocer a los demás como hermanos en la familia humana.
+No Violencia | Igualdad | Social | Tratar a todos con la misma dignidad esencial.
+No Violencia | Incapacidad de dañar | Ahimsa | Espiritual | No herir en pensamiento, palabra o acción.
+No Violencia | Interés por el bienestar ajeno | Social | Preocuparse activamente por el bien de otros.
+No Violencia | Justicia social | Social | Promover equidad, dignidad y oportunidades justas para todos.
+No Violencia | Lealtad | Social | Ser fiel a los compromisos, personas y principios correctos.
+No Violencia | Participación responsable | Social | Contribuir de forma activa y consciente al bienestar colectivo.
+No Violencia | Respeto a la propiedad ajena | Social | No tomar, dañar ni usar indebidamente lo que pertenece a otro.
+No Violencia | Respeto a las ideas ajenas | Social | Escuchar y aceptar la diversidad de opiniones sin imponer ni humillar.
+No Violencia | Respeto físico | Social | Cuidar el cuerpo, el espacio personal y la integridad de los demás.
+No Violencia | Respeto por las demás culturas y religiones | Social | Reconocer el valor espiritual y cultural de otras tradiciones.
+No Violencia | Respeto por la vida | Social | Proteger y valorar toda forma de vida.
+No Violencia | Respeto por la naturaleza | Medio ambiente | Social | Cuidar plantas, animales, agua, aire, tierra y ecosistemas.
+No Violencia | Sentido de unicidad | Advaita | Espiritual | Percibir la unidad esencial detrás de la diversidad.
+No Violencia | Solidaridad | Social | Unirse a otros en la ayuda, la justicia y la defensa del bien común.
+No Violencia | Servicio desinteresado | Seva | Espiritual | Servir sin esperar reconocimiento ni recompensa.
+No Violencia | Unidad | Social | Reconocer que todos pertenecen a una misma familia humana.
+No Violencia | Universalidad | Espiritual | Ver más allá de diferencias de nación, religión, cultura o condición.
+
+================================================================================
+VISIÓN EDUCARE / EDUCO-CARE
+================================================================================
+
+Bajo el enfoque Educare o Educo-Care, la moral y la cívica son instrumentos
+sociales externos, mientras que los Valores Humanos son cualidades inherentes
+a la esencia del ser, el Alma.
+
+Estos valores no se inculcan desde fuera: se "editan" o se "sacan a la luz"
+mediante el cultivo espiritual y la práctica diaria. La palabra educar proviene
+de "educere": sacar hacia fuera lo que ya existe en el interior.
+
+LOS CINCO VALORES ESENCIALES Y SUS NIVELES:
+
+1. Verdad | Sathya | Nivel intelectual | Razón elevada.
+2. Rectitud | Dharma | Nivel físico | Acción correcta.
+3. Paz | Shanti | Nivel emocional | Mente en calma.
+4. Amor | Prema | Nivel espiritual | Fuerza impulsora.
+5. No Violencia | Ahimsa | Síntesis de los valores | Resultado natural de vivir Verdad, Rectitud, Paz y Amor.
+
+================================================================================
+FIN DE LA TABLA
+================================================================================
+
+
+///////////////////////////////////////////////////////////////////////////
+
+==============================================================================
+================================================================================
+III. PERSONAJES, DIOSES Y SERES DE LAS ESCRITURAS VÉDICAS
+FORMATO PARA IA LOCAL:
+NOMBRE | ALIAS | CATEGORÍA | ESCRITURA O CONTEXTO | BANDO / FUNCIÓN | DESCRIPCIÓN | PALABRAS CLAVE
+================================================================================
+
+ARJUNA | — | personaje épico | Bhagavad Gita; Mahabharata | Pandava; héroe principal | Tercero de los cinco Pandavas, hijo de Kunti e Indra. Arquero magistral, amigo íntimo de Krishna y receptor del Bhagavad Gita. Cae en crisis moral antes de la batalla de Kurukshetra. | arquero; Pandava; Krishna; Kurukshetra; Bhagavad Gita; héroe
+
+KRISHNA | — | avatar; deidad | Bhagavad Gita; Mahabharata | Guía espiritual; auriga de Arjuna | Octavo avatar de Vishnu, primo de los Pandavas y conductor del carro de Arjuna. Revela el Yoga, el Dharma, el Karma, el Bhakti y Su naturaleza divina. | Vishnu; avatar; Bhagavad Gita; maestro; devoción; Dios Supremo
+
+SANJAYA | — | narrador; consejero | Bhagavad Gita; Mahabharata | Consejero de Dhritarashtra | Consejero del rey ciego Dhritarashtra. Recibe de Vyasa la visión divina para ver y narrar en tiempo real los acontecimientos de Kurukshetra. | narrador; visión divina; Dhritarashtra; Kurukshetra
+
+DHRITARASHTRA | — | rey; personaje épico | Bhagavad Gita; Mahabharata | Padre de los Kauravas | Rey ciego de Hastinapura y padre de los cien Kauravas. Su ceguera física simboliza su apego y ceguera moral hacia Duryodhana. | rey ciego; Kauravas; Hastinapura; Duryodhana
+
+VYASA | Krishna Dvaipayana; Vedavyasa | rishi; autor | Mahabharata | Compilador y sabio | Sabio que compuso y organizó el Mahabharata. Padre de Dhritarashtra, Pandu y Vidura mediante el ritual Niyoga. Otorga a Sanjaya la visión divina. | rishi; Mahabharata; Vedavyasa; sabio; compilador
+
+BALARAMA | — | avatar; guerrero | Mahabharata | Hermano de Krishna | Hermano mayor de Krishna y maestro en el manejo de la maza. Permanece neutral durante la guerra de Kurukshetra. | Krishna; maza; neutral; Vrishni
+
+--------------------------------------------------------------------------------
+BANDO KAURAVA
+--------------------------------------------------------------------------------
+
+DURYODHANA | — | antagonista | Bhagavad Gita; Mahabharata | Kaurava; líder | Hijo mayor de Dhritarashtra y principal antagonista. Por ambición, celos y codicia usurpa el reino de los Pandavas y provoca la guerra. | antagonista; Kaurava; ambición; guerra
+
+DUSHASANA | — | antagonista | Mahabharata | Kaurava | Segundo hermano Kaurava y mano derecha de Duryodhana. Intenta humillar públicamente a Draupadi tras el juego de dados. | Kaurava; Draupadi; humillación; antagonista
+
+BHISHMA | — | patriarca; guerrero | Bhagavad Gita; Mahabharata | Kaurava; comandante inicial | Gran patriarca de la dinastía Kuru, hijo de Shantanu y Ganga. Renuncia al trono por voto de celibato y lucha por lealtad a la corona. | patriarca; Kuru; comandante; voto; Ganga
+
+DRONA | Dronacharya | maestro; guerrero | Bhagavad Gita; Mahabharata | Kaurava; maestro de armas | Maestro militar de Pandavas y Kauravas. Lucha por deber y obligación con el reino, a pesar de su afecto por Arjuna. | maestro; arquería; Acharya; Kaurava
+
+KARNA | — | guerrero; antagonista | Bhagavad Gita; Mahabharata | Kaurava; aliado de Duryodhana | Hijo secreto de Kunti y Surya, el dios del Sol. Rival de Arjuna; Duryodhana lo nombra rey de Anga y él permanece leal a los Kauravas. | Surya; Kunti; rival de Arjuna; lealtad; Kaurava
+
+KRIPA | Kripacharya | maestro; guerrero | Bhagavad Gita; Mahabharata | Kaurava | Maestro real de la corte de Hastinapura. Sobrevive a la guerra. | maestro; Kaurava; sobreviviente
+
+ASHVATTHAMA | Ashwatthama | guerrero | Bhagavad Gita; Mahabharata | Kaurava | Hijo de Drona. Guerrero feroz e inmortal; tras la muerte de su padre comete una masacre nocturna al final de la guerra. | hijo de Drona; ira; inmortal; Kaurava
+
+VIKARNA | — | guerrero | Bhagavad Gita; Mahabharata | Kaurava | Uno de los cien Kauravas. Es el único que protesta públicamente contra la humillación de Draupadi, aunque muere luchando por su bando. | justicia; Kaurava; Draupadi
+
+SHAKUNI | — | antagonista; estratega | Mahabharata | Kaurava; tío materno | Hermano de Gandhari y tío de los Kauravas. Maestro del engaño; usa dados cargados para provocar la ruina y el exilio de los Pandavas. | dados; engaño; manipulación; Kaurava
+
+--------------------------------------------------------------------------------
+BANDO PANDAVA
+--------------------------------------------------------------------------------
+
+YUDHISTHIRA | Dharmaraja | rey; héroe | Bhagavad Gita; Mahabharata | Pandava; hermano mayor | Hijo de Pandu y del dios Dharma. Conocido como el rey del Dharma por su veracidad, justicia y sabiduría moral. Es el heredero legítimo al trono. | Dharma; verdad; rey; Pandava
+
+BHIMA | — | guerrero; héroe | Bhagavad Gita; Mahabharata | Pandava | Segundo Pandava, hijo de Vayu. Posee fuerza colosal, gran apetito y maestría con la maza. Jura vengar los agravios contra su familia. | fuerza; maza; Vayu; Pandava
+
+NAKULA | — | guerrero; héroe | Bhagavad Gita; Mahabharata | Pandava | Cuarto Pandava, hijo de Madri y de los Ashvins. Destaca por su belleza y su conocimiento del cuidado de caballos. | Ashvins; caballos; Pandava
+
+SAHADEVA | — | sabio; guerrero | Bhagavad Gita; Mahabharata | Pandava | Quinto Pandava, hermano gemelo de Nakula. Destaca por sabiduría, astrología y capacidad de predecir el futuro. | astrología; sabiduría; Ashvins; Pandava
+
+DRAUPADI | — | reina; protagonista | Mahabharata | Esposa de los Pandavas | Nacida del fuego del rey Drupada. Esposa común de los cinco Pandavas. Su humillación por los Kauravas es uno de los detonantes de la guerra. | esposa; fuego; Drupada; Kurukshetra
+
+KUNTI | — | madre; personaje épico | Mahabharata | Madre de los Pandavas | Primera esposa de Pandu. Madre de Yudhisthira, Bhima, Arjuna y Karna. Poseía mantras para invocar a los dioses. | madre; Pandavas; Karna; mantra
+
+GANDHARI | — | reina; personaje épico | Mahabharata | Esposa de Dhritarashtra | Esposa de Dhritarashtra y madre de los Kauravas. Se venda los ojos voluntariamente para compartir la ceguera de su esposo. | Kauravas; Dhritarashtra; reina
+
+MADRI | — | madre; personaje épico | Mahabharata | Madre de Nakula y Sahadeva | Segunda esposa de Pandu y madre de Nakula y Sahadeva. Se inmoló en la pira funeraria de Pandu. | madre; Pandava; sacrificio
+
+SUBHADRA | — | princesa; devota | Mahabharata | Hermana de Krishna | Hermana de Krishna y esposa de Arjuna. Madre de Abhimanyu. | Krishna; Arjuna; Abhimanyu
+
+DRUPADA | — | rey; aliado | Bhagavad Gita; Mahabharata | Pandava; rey de Panchala | Rey de Panchala y padre de Draupadi y Dhrishtadyumna. Apoya militarmente a los Pandavas. | Panchala; Draupadi; aliado
+
+DHRISHTADYUMNA | — | comandante; guerrero | Mahabharata | Pandava | Hijo de Drupada y hermano de Draupadi. Comandante en jefe de los ejércitos Pandava. | comandante; Panchala; Pandava
+
+VIRATA | — | rey; aliado | Mahabharata | Pandava | Rey de Matsya. Acoge a los Pandavas durante su último año de exilio oculto. | Matsya; exilio; aliado
+
+YUYUDHANA | Satyaki | guerrero | Bhagavad Gita; Mahabharata | Pandava | Guerrero Vrishni, discípulo de Arjuna y devoto de Krishna. Lucha por los Pandavas. | Satyaki; Vrishni; Krishna; guerrero
+
+ABHIMANYU | — | joven héroe | Bhagavad Gita; Mahabharata | Pandava | Hijo de Arjuna y Subhadra. Joven guerrero extraordinario que muere atrapado en la formación militar Chakravyuha. | hijo de Arjuna; Chakravyuha; héroe
+
+GHATOTKACHA | — | guerrero | Mahabharata | Pandava | Hijo de Bhima y la rakshasi Hidimbi. Guerrero gigante que usa poderes mágicos contra el ejército Kaurava. | Bhima; rakshasa; magia; guerrero
+
+SHIKHANDI | — | guerrero | Mahabharata | Pandava | Guerrero nacido como Amba y renacido para provocar la caída de Bhishma. Es clave en la batalla. | Amba; Bhishma; venganza; Pandava
+
+VIDURA | — | sabio; ministro | Mahabharata | Dinastía Kuru | Medio hermano de Dhritarashtra y Pandu. Primer ministro sabio y encarnación del Dharma. | sabio; ministro; Dharma; Kuru
+
+PANDU | — | rey; padre | Mahabharata | Padre de los Pandavas | Hermano menor de Dhritarashtra y padre terrenal de los Pandavas. Se retira al bosque tras una maldición mortal. | Pandavas; rey; maldición
+
+--------------------------------------------------------------------------------
+DIVINIDADES Y SERES CÓSMICOS
+--------------------------------------------------------------------------------
+
+VISHNU | — | deidad suprema | Vedas; Puranas; Bhagavad Gita | Preservador del universo | Deidad que preserva y sostiene el universo. Krishna es revelado como Su avatar directo. | preservador; avatar; Krishna; Dios
+
+BRAHMA | — | deidad creadora | Vedas; Puranas | Creador cósmico | Dios creador del cosmos dentro de la cosmología hindú. Se relaciona con los ciclos cósmicos o Kalpas. | creador; cosmos; Kalpa
+
+SHIVA | — | deidad transformadora | Vedas; Puranas; Bhagavad Gita | Transformador cósmico | Señor de la transformación y disolución cósmica; símbolo del poder absoluto y la renovación. | transformación; disolución; Mahadeva
+
+VIVASVAN | Surya; Helios | deidad solar | Bhagavad Gita; Vedas | Dios del Sol | Deidad solar. Krishna dice haberle transmitido el Yoga eterno al comienzo de los tiempos. | Sol; Yoga; luz; Aditya
+
+MANU | — | progenitor; legislador | Bhagavad Gita; Vedas | Antepasado de la humanidad | Antepasado e instructor espiritual de la humanidad. Recibe de Vivasvan el conocimiento sagrado. | humanidad; ley; progenitor
+
+IKSHVAKU | — | rey; ancestro | Bhagavad Gita; Ramayana | Dinastía solar | Rey antiguo y ancestro de la dinastía solar, a la que pertenece Rama. Recibe las enseñanzas de Manu. | dinastía solar; Rama; rey
+
+INDRA | — | deva; rey celestial | Vedas; Mahabharata | Rey de los Devas | Rey de los dioses; deidad de tormentas, lluvia y cielo. Gobierna Swarga. | rey de los dioses; lluvia; tormenta; Swarga
+
+AGNI | — | deva; fuego | Vedas; Mahabharata | Fuego sagrado | Dios del fuego sacrificial y mensajero entre humanos y dioses. | fuego; ritual; mensajero; yajna
+
+VARUNA | — | deva; agua | Vedas | Señor de las aguas | Deidad de océanos, aguas celestiales, lluvia y orden cósmico. | agua; océano; justicia; lluvia
+
+VAYU | — | deva; viento | Vedas; Mahabharata | Señor del viento | Deidad del viento, aire y aliento vital. Padre de Bhima. | viento; aire; respiración; Bhima
+
+SURYA | Vivasvan | deva solar | Vedas; Mahabharata | Dios del Sol | Dios del Sol, la luz y el disipador de la oscuridad espiritual. Padre de Karna. | Sol; luz; Karna; Aditya
+
+CHANDRA | Soma | deva lunar | Vedas; Puranas | Dios de la Luna | Deidad de la Luna, la noche y protector de la vegetación. También llamado Soma. | Luna; Soma; noche; plantas
+
+YAMA | — | deva; justicia | Vedas; Puranas | Señor de la muerte | Dios de la muerte, el inframundo y la justicia. Padre de Yudhisthira. | muerte; justicia; inframundo; Dharma
+
+KUBERA | Kuvera | deva; riqueza | Vedas; Puranas | Tesorero de los dioses | Deidad de la opulencia, riquezas y tesoros ocultos. Rey de los Yakshas. | riqueza; tesoro; Yaksha; opulencia
+
+KADRU | — | madre Naga | Mahabharata; Puranas | Madre de los Nagas | Madre ancestral de los Nagas. Hija de Daksha y esposa de Kashyapa. | Naga; serpiente; madre; Kashyapa
+
+SHESHA | Ananta; Sheshanaga | Naga cósmico | Puranas; Mahabharata | Rey de los Nagas | Serpiente cósmica de mil cabezas que sostiene los universos. Vishnu descansa sobre él. | Ananta; serpiente; Vishnu; universo
+
+VASUKI | — | rey Naga | Puranas; Mahabharata | Rey serpiente | Rey Naga poseedor de la gema Nagamani. Sirve como cuerda en el batido del océano cósmico. | Nagamani; océano cósmico; serpiente
+
+TAKSHAKA | — | rey Naga | Mahabharata; Puranas | Rey serpiente | Poderoso Naga conocido por su veneno mortal y su papel en las venganzas del Mahabharata. | veneno; Naga; venganza
+
+ULUPI | — | princesa Naga | Mahabharata | Esposa de Arjuna | Princesa Naga, hija del rey Kauravya. Se casa con Arjuna. | Naga; Arjuna; princesa
+
+MANASA | — | diosa Naga | Puranas | Diosa de las serpientes | Diosa de los Nagas y las serpientes. Hija de Shiva; se la invoca para protección contra el veneno. | serpientes; veneno; protección; Shiva
+
+CHITRARATHA | — | Gandharva | Mahabharata | Jefe Gandharva | Jefe de los Gandharvas, amigo de Arjuna y maestro de música celestial en la corte de Indra. | Gandharva; música; Indra; Arjuna
+
+TUMBURU | — | Gandharva | Puranas; epopeyas | Músico celestial | Músico Gandharva célebre por tocar la veena ante los dioses. | música; veena; Gandharva
+
+VISVAVASU | — | Gandharva | Vedas; Puranas | Guardián del Soma | Gandharva que custodia el Soma antes de entregarlo a los dioses. | Soma; guardián; Gandharva
+
+PANCA SIKHA | — | Gandharva | textos budistas y épicos | Músico devoto | Joven Gandharva conocido por su devoción a Buda y sus composiciones con la veena. | música; Buda; veena
+
+HUHU | — | Gandharva | Puranas | Cantante celestial | Gandharva famoso transformado temporalmente en cocodrilo por una maldición. | cantante; maldición; Gandharva
+
+AHA | — | Gandharva | Vedas | Gandharva del amanecer | Gandharva asociado al amanecer y al brillo matutino en los rituales divinos. | amanecer; luz; ritual
+
+RAMBHA | — | Apsara | Puranas; epopeyas | Reina de las Apsaras | Reina de las Apsaras; célebre por su danza y belleza. Indra la enviaba a probar la virtud de los sabios. | Apsara; danza; belleza; Indra
+
+URVASHI | — | Apsara | Vedas; Puranas | Apsara celestial | Apsara nacida del muslo de Narayana. Protagoniza el romance con el rey Pururavas. | Apsara; Narayana; romance; belleza
+
+MENAKA | — | Apsara | Mahabharata; Puranas | Apsara celestial | Apsara enviada por Indra para seducir a Vishwamitra. Madre de Shakuntala. | Apsara; Vishwamitra; Shakuntala
+
+TILOTTAMA | — | Apsara | Puranas | Apsara celestial | Creada por Vishvakarma con partículas preciosas para sembrar discordia entre los demonios. | belleza; Vishvakarma; demonios
+
+GHRITACHI | — | Apsara | Mahabharata; Puranas | Apsara celestial | Apsara que interactúa con sabios y guerreros en los textos épicos. | Apsara; sabios; épica
+
+PANCHACHUDA | — | Apsara | Puranas | Apsara celestial | Ninfa asociada a celebraciones cósmicas y belleza eterna en Swarga. | Apsara; Swarga; celebración
+
+--------------------------------------------------------------------------------
+REGENTES PLANETARIOS Y LOGOS SOLAR
+--------------------------------------------------------------------------------
+
+LOGOS SOLAR | Vivasvan; Helios | entidad cósmica | cosmología védica y esotérica | Fuente solar | Inteligencia central y alma colectiva del Sol. Origen de vida, energía y conciencia del sistema solar. | Sol; conciencia; energía; sistema solar
+
+LOS 12 ADITYAS | Adityas | devas solares | Vedas; Puranas | Hijos de Aditi | Doce inteligencias dévicas asociadas a las cualidades del zodiaco y los meses del año. | Aditi; zodiaco; Sol; conciencia
+
+BUDHA | Mercurio | deva planetario | astrología védica | Regente de Mercurio | Deva del intelecto y la comunicación. Asociado al despertar de Buddhi y al discernimiento. | Mercurio; intelecto; comunicación; Buddhi
+
+SHUKRA | Venus | deva planetario | astrología védica | Regente de Venus | Deva del amor cósmico, la armonía, la belleza y las artes creativas. | Venus; amor; belleza; armonía
+
+PRITHVI | Bhumi Devi | deva terrestre | Vedas; Puranas | Madre Tierra | Espíritu viviente de la Tierra. Coordina las jerarquías de la naturaleza para sostener el ecosistema. | Tierra; naturaleza; Bhumi; ecosistema
+
+MANGALA | Marte | deva planetario | astrología védica | Regente de Marte | Deva de la fuerza, la acción y la transformación. Asociado al fuego interno y al impulso vital. | Marte; fuerza; acción; fuego
+
+GURU | Brihaspati; Júpiter | deva planetario | astrología védica | Regente de Júpiter | Gran preceptor de los dioses. Gobierna el orden, la benevolencia, la justicia espiritual y el crecimiento. | Júpiter; sabiduría; maestro; justicia
+
+SHANI | Saturno | deva planetario | astrología védica | Regente de Saturno | Deva del karma, el tiempo y la disciplina. Administra la ley de causa y efecto. | Saturno; karma; tiempo; disciplina
+
+LOS RUDRAS | — | devas superiores | Vedas; Puranas | Señores de la tormenta | Grupo de devas asociados a la vibración, la tormenta, la disolución y la renovación cósmica. | Rudra; tormenta; disolución; renovación
+
+================================================================================
+IV. PERSONAJES DEL RAMAYANA
+================================================================================
+
+RAMA | — | avatar; héroe | Ramayana | Príncipe de Ayodhya | Avatar de Vishnu y protagonista del Ramayana. Símbolo supremo de rectitud, deber y compasión. | Vishnu; Ayodhya; héroe; Dharma
+
+SITA | — | diosa; protagonista | Ramayana | Esposa de Rama | Avatar de Lakshmi y esposa fiel de Rama. Representa la virtud, la devoción y la fortaleza. Es secuestrada por Ravana. | Lakshmi; esposa; virtud; Ravana
+
+LAKSHMANA | — | hermano; devoto | Ramayana | Hermano de Rama | Medio hermano menor de Rama. Lo acompaña con lealtad absoluta durante el exilio. | hermano; lealtad; exilio; Rama
+
+HANUMAN | — | deva; devoto | Ramayana | Servidor de Rama | Dios mono de fuerza extraordinaria y devoción perfecta. Encuentra y ayuda a rescatar a Sita. | devoción; fuerza; mono; Rama; Sita
+
+DASHARATHA | — | rey | Ramayana | Padre de Rama | Rey de Ayodhya y padre de Rama, Bharata, Lakshmana y Shatrughna. | Ayodhya; rey; padre
+
+KAIKEYI | — | reina | Ramayana | Madrastra de Rama | Segunda esposa de Dasharatha. Exige el exilio de Rama para favorecer a su hijo Bharata. | reina; exilio; Bharata
+
+BHARATA | — | príncipe | Ramayana | Hermano de Rama | Hijo de Kaikeyi. Rechaza el trono y gobierna en nombre de Rama como su representante. | hermano; trono; lealtad
+
+RAVANA | — | asura; antagonista | Ramayana | Rey de Lanka | Rey demoníaco de diez cabezas y principal antagonista. Secuestra a Sita. | Lanka; asura; antagonista; Sita
+
+VIBHISHANA | — | hermano; aliado | Ramayana | Hermano de Ravana | Hermano noble y justo de Ravana. Abandona el mal y ayuda a Rama. | Lanka; justicia; aliado; Rama
+
+SURPANAKHA | — | rakshasi | Ramayana | Hermana de Ravana | Hermana demoníaca de Ravana. Su ataque en el bosque desencadena gran parte del conflicto. | rakshasi; conflicto; Ravana
+
+================================================================================
+INSTRUCCIONES PARA EL AGENTE DE IA LOCAL
+================================================================================
+
+1. Buscar por NOMBRE primero.
+2. Si el usuario busca un alias, relacionarlo con el nombre principal.
+3. Permitir filtros por:
+   - CATEGORÍA: avatar, deva, Naga, Gandharva, Apsara, rishi, rey, guerrero, antagonista, madre, sabio.
+   - ESCRITURA: Bhagavad Gita, Mahabharata, Ramayana, Vedas, Puranas.
+   - BANDO: Pandava, Kaurava, neutral, divino, demoníaco.
+4. Mostrar los resultados en formato de tabla:
+   NOMBRE | CATEGORÍA | ESCRITURA | ROL | DESCRIPCIÓN BREVE
+5. Si hay varios personajes con nombres similares, mostrar todos y pedir aclaración.
+6. No confundir:
+   - Krishna con Vishnu: Krishna es avatar de Vishnu.
+   - Surya con Vivasvan: son nombres estrechamente relacionados.
+   - Shesha con Ananta: son el mismo ser Naga cósmico.
+7. Palabras clave útiles para búsqueda:
+   "Pandava", "Kaurava", "avatar", "deva", "Naga", "Gandharva", "Apsara",
+   "rishi", "guerrero", "rey", "reina", "madre", "antagonista", "Kurukshetra",
+   "Ayodhya", "Lanka", "Vishnu", "Shiva", "Brahma", "Ramayana", "Mahabharata".
+
+================================================================================
+FIN DEL GLOSARIO DE PERSONAJES Y DIOSES
+================================================================================
+
+
+================================================================================
+VII. BASE DE RECOMENDACIONES DE MÚSICA INDIA — BHAJAN, MANTRA, INSTRUMENTAL
+================================================================================
+
+PROPÓSITO:
+Esta sección contiene información musical para que el agente pueda recomendar
+cantantes, géneros, instrumentos, listas, álbumes o piezas según el estado de
+ánimo, la práctica espiritual o la actividad del usuario.
+
+FORMATO DE ENTRADA:
+TIPO | GÉNERO / ESTILO | INSTRUMENTOS | ARTISTAS / CANALES / ÁLBUMES | USO RECOMENDADO | ESTADO DE ÁNIMO | PALABRAS CLAVE | EJEMPLOS PARA RECOMENDAR
+
+REGLAS PARA EL AGENTE:
+1. Si el usuario pide música india, bhajan, mantra, kirtan, meditación, yoga,
+   relajación, estudio, sueño, concentración, devoción o sanación, consultar
+   esta sección antes de responder.
+2. No recomendar artistas fuera de esta base salvo que el usuario lo pida.
+3. Si faltan datos, preguntar: "¿Prefieres vocal devocional, mantra, instrumental,
+   clásico hindustaní, carnático, fusión moderna o música de templo?"
+4. Recomendar primero por TIPO y ESTADO DE ÁNIMO.
+5. Si el usuario pide "cantante", mostrar artistas vocales; si pide "instrumental",
+   mostrar piezas o canales sin voz dominante.
+6. Mantener siempre el contexto indio: bhajan, mantra, kirtan, raga, bansuri,
+   sitar, tabla, veena, santoor, sarod, mridangam, armonio.
+7. No confundir bhajan con mantra:
+   - Bhajan: canto devocional con letra, normalmente dirigido a una deidad.
+   - Mantra: repetición de sílabas o nombres sagrados, como Om, Om Namah Shivaya,
+     Hare Krishna, Gayatri Mantra.
+   - Kirtan: canto congregacional, responsivo y rítmico.
+   - Instrumental: música sin letra o con voz mínima.
+
+================================================================================
+1. TIPOS DE MÚSICA DISPONIBLES
+================================================================================
+
+TIPO | GÉNERO / ESTILO | INSTRUMENTOS | ARTISTAS / CANALES / ÁLBUMES | USO RECOMENDADO | ESTADO DE ÁNIMO | PALABRAS CLAVE | EJEMPLOS PARA RECOMENDAR
+
+BHAJAN | Devocional vocal indio | Armonio; tabla; dholak; manjira; voz | Canales de bhajan y música de templo; TraditionalIndianMusic | Puja; oración; devoción; templo; mañana | Alegre; edificante; devoto; cálido | bhajan; devocional; Krishna; Rama; Shiva; puja; templo | Bhajans de Krishna; bhajans de Shiva; bhajans de Rama; bhajans para puja
+
+MANTRA | Repetición sagrada vocal | Voz; armonio; tambura; cuencos; percusión suave | Recopilaciones de mantra y meditación | Meditación; japa; yoga; sanación; sueño | Sereno; profundo; protector; contemplativo | mantra; Om; Gayatri; Hare Krishna; Om Namah Shivaya; japa | Gayatri Mantra; Om Namah Shivaya; Hare Krishna Mahamantra; Om Mani Padme Hum
+
+KIRTAN | Canto devocional congregacional | Armonio; tabla; kartales; voz; dholak | Kirtan tradicional y devocional | Canto en grupo; bhakti; celebración; temple | Alegre; elevado; comunitario; enérgico | kirtan; Hare Krishna; sankirtan; canto; devoción | Harinama Sankirtana; kirtan de Krishna; kirtan de Chaitanya
+
+CLÁSICA HINDUSTANÍ | Música clásica del norte de la India | Sitar; sarod; santoor; bansuri; tabla; sarangi | Ravi Shankar; Nikhil Banerjee; Vilayat Khan; Shujaat Khan; B. Sivaramakrishna Rao | Escucha profunda; meditación; estudio; concentración | Reflexiva; elegante; contemplativa; sofisticada | raga; raga Bhairavi; raga Durga; sitar; sarod; tabla; hindustaní | Ravi Shankar - Healing Sitar Performance; Nikhil Banerjee - Raag Durga; Vilayat Khan y Shujaat Khan - Bhairavi
+
+CLÁSICA CARNÁTICA | Música clásica del sur de la India | Veena; violín indio; mridangam; flauta; ghatam | Recopilaciones de música carnática instrumental | Escucha atenta; estudio; concentración; meditación estructurada | Serena; precisa; matemática; devota | carnático; kritis; veena; mridangam; sur de la India | Veena & Ensemble; Indian Classical Instrumental Music - Mystica Music
+
+BANSURI MEDITATIVA | Flauta india para meditación | Bansuri; tabla suave; sonidos de naturaleza | Buddha's Lounge; Bansara; Serenity Music Academy; Soul Sacred Meditation | Yoga; respiración; meditación; dormir; relajación | Paz; calma; ternura; introspección | bansuri; flauta; Krishna; respiración; meditación; naturaleza | Buddha's Lounge - Bansuri Flute Meditations; Inner Stillness - Indian Flute Meditation Journey; Bansara - Samadhi
+
+SITAR RELAJANTE | Instrumental de sitar para calma | Sitar; tabla; tanpura | Ravi Shankar; B. Sivaramakrishna Rao; Shanti Instrumentals; Ruhani Saaz | Relajación; lectura; estudio; meditación | Tranquilo; etéreo; refinado; introspectivo | sitar; raga; meditación; relajación; tanpura | Shanti Instrumentals - 2-Hour Sitar Pack; Ruhani Saaz - Sitar Classical Background Ambience; Traditional Sitar & Tabla Session
+
+SANTOOR MEDITATIVO | Cuerdas percutidas indias | Santoor; tanpura; percusión suave | Leyendas del santoor; Hindustani Classical Instrumental Music | Relajación profunda; sueño; spa; meditación | Etéreo; suave; fluido; calmante | santoor; cuerdas; meditación; agua; relajación | Santoor Meditativo; Hindustani Classical Instrumental Music
+
+FUSIÓN INDIA MODERNA | Fusión clásica india con sonidos modernos | Sitar; bansuri; santoor; tabla; teclados; guitarra; sintetizadores | Naad; Ateetam Band; PickBeat Fusion; Jazz Passport; NIRAE; Open Mirag | Trabajo; estudio; concentración; viaje; ambiente moderno | Creativo; dinámico; contemporáneo; estimulante | fusión; world music; jazz; chillout; psytrance; sitar moderno | Naad - Dhi Full Album; PickBeat Fusion - A Joyful Raga; Jazz Passport - Indian Jazz Valley Vol. 1; NIRAE - Best of Indian Psytrance
+
+AMBIENTAL INDIANO | Música ambiental para relajación | Bansuri; tabla suave; sonidos de naturaleza; pads | Tirvola; TraditionalIndianMusic; sesiones de relajación | Dormir; yoga; spa; respiración; meditación larga | Muy tranquilo; envolvente; lento; reparador | ambiental; relajación; sueño; yoga; fondo; meditación | Traditional Indian Instrumentals for Deep Relaxation; Instrumental Indian Background Music - Tirvola
+
+BOLLYWOOD INSTRUMENTAL | Versiones instrumentales de cine indio | Piano; guitarra; violín; banjo; armonio; tabla | Tips Official; Instrumental Sukanta; Melodic Expressions; Mcute100; Gurmeet Singh Gill; Dev's Music Channel | Nostalgia; ambiente agradable; trabajo ligero; viaje | Romántico; nostálgico; melódico; alegre | Bollywood; cine indio; piano; guitarra; covers; Hindi | Dreamy Bollywood Instrumental Songs; Mohabbatein Love Theme Instrumental; Sholay Title Music Tribute
+
+MÚSICA DE TEMPLO | Devocional ritual y ceremonial | Campanas; conchas; armonio; tabla; voces rituales | TraditionalIndianMusic; transmisiones de puja | Puja; aarti; ritual; ambiente espiritual | Sagrado; solemne; cálido; devoto | puja; aarti; templo; ritual; campana; devocional | Bhajan & Puja Instrumental; transmisiones de TraditionalIndianMusic
+
+================================================================================
+2. RECOMENDACIÓN POR ESTADO DE ÁNIMO O NECESIDAD
+================================================================================
+
+NECESIDAD DEL USUARIO | TIPO RECOMENDADO | GÉNERO O ESTILO | INSTRUMENTOS SUGERIDOS | EJEMPLOS
+
+# EJEMPLO_INTERNO (no indexar) Quiero meditar | Mantra; Bansuri meditativa; Ambiental indio | Mantra; flauta india; ambiental | Bansuri; voz; cuencos | Gayatri Mantra; Bansuri Flute Meditations; Inner Stillness
+
+# EJEMPLO_INTERNO (no indexar) Quiero hacer yoga | Bansuri meditativa; Ambiental indio; Sitar relajante | Flauta india; sitar; ambiental | Bansuri; sitar; tabla suave | Serene Mood Sessions; Samadhi Indian Meditation Flute; Morning Cortisol Detox Raag Bhairavi
+
+# EJEMPLO_INTERNO (no indexar) Quiero dormir | Ambiental indio; Santoor meditativo; Mantra | Ambiental; santoor; mantra | Santoor; bansuri; voz suave | Instrumental Indian Background Music; Santoor Meditativo; mantras lentos
+
+# EJEMPLO_INTERNO (no indexar) Quiero estudiar o concentrarme | Clásica hindustaní; Fusión india moderna; Sitar relajante | Raga; fusión; sitar | Sitar; tabla; teclados | Raag Durga; Traditional Sitar & Tabla Session; Quiet Season Glow
+
+# EJEMPLO_INTERNO (no indexar) Quiero trabajar | Fusión india moderna; Sitar relajante; Ambiental indio | Fusión; sitar; ambiental | Sitar; bansuri; santoor | Echoes of Harmony; Sitar Classical Background Ambience; Tabla, Bansuri & Santoor Work Mix
+
+# EJEMPLO_INTERNO (no indexar) Quiero devoción o bhakti | Bhajan; Kirtan; Mantra | Devocional vocal | Armonio; tabla; voz | Bhajans de Krishna; Harinama Sankirtana; Hare Krishna Mahamantra
+
+# EJEMPLO_INTERNO (no indexar) Quiero música para puja o aarti | Música de templo; Bhajan | Ritual devocional | Campanas; armonio; voces | Bhajan & Puja Instrumental; aarti tradicional
+
+# EJEMPLO_INTERNO (no indexar) Quiero sanación o reducir estrés | Bansuri meditativa; Ambiental indio; Mantra | Meditativa; ambiental | Bansuri; voz; sonidos naturales | Indian Flute Healing Mood; Breath of the Forest; mantras de sanación
+
+# EJEMPLO_INTERNO (no indexar) Quiero música india alegre | Bhajan; Kirtan; Bollywood instrumental | Devocional o cinematográfica | Dholak; tabla; armonio; orquesta | Bhajans alegres; kirtan enérgico; Bollywood instrumental
+
+# EJEMPLO_INTERNO (no indexar) Quiero explorar música clásica india | Clásica hindustaní; Clásica carnática | Raga; kritis | Sitar; sarod; veena; mridangam | Raag Bhairavi; Raag Durga; Veena & Ensemble
+
+# EJEMPLO_INTERNO (no indexar) Quiero música moderna con sitar | Fusión india moderna | World music; jazz; chillout | Sitar; teclados; guitarra | A Joyful Raga; Indian Jazz Valley; Best of Indian Psytrance
+
+# EJEMPLO_INTERNO (no indexar) Quiero recordar películas indias | Bollywood instrumental | Cine indio | Piano; guitarra; violín | Dreamy Bollywood Instrumental Songs; Main Agar Kahoon Instrumental
+
+================================================================================
+3. ARTISTAS Y REFERENCIAS RECONOCIDAS
+================================================================================
+
+ARTISTA / REFERENCIA | TIPO PRINCIPAL | INSTRUMENTO O ESTILO | USO IDEAL | PALABRAS CLAVE
+
+Ravi Shankar | Clásica hindustaní | Sitar | Meditación; escucha clásica; relajación | sitar; raga; Hindustani
+
+Pandit Nikhil Banerjee | Clásica hindustaní | Sitar | Escucha profunda; meditación | raga; sitar; Durga
+
+Ustad Vilayat Khan | Clásica hindustaní | Sitar | Raga; refinamiento clásico | sitar; Bhairavi; raga
+
+Ustad Shujaat Khan | Clásica hindustaní | Sitar | Raga; escucha contemplativa | sitar; Bhairavi; raga
+
+B. Sivaramakrishna Rao | Clásica hindustaní | Sitar | Sanación; meditación; raga | Healing Ragas; sitar
+
+Buddha's Lounge | Bansuri meditativa | Flauta india; ambiente | Yoga; meditación; calma | bansuri; meditación; relajación
+
+Bansara | Bansuri y fusión ceremonial | Bansuri; sitar; tabla | Meditación; ceremonia; yoga | bansuri; samadhi; ceremonial
+
+Serenity Music Academy | Bansuri relajante | Bansuri | Relajación; sueño; calma | bansuri; melodías; paz
+
+Soul Sacred Meditation | Fusión meditativa | Sitar; tabla; bansuri | Meditación; armonía | sitar; tabla; bansuri
+
+Naad | Fusión india moderna | Sitar; teclados; sonidos contemporáneos | Concentración; escucha moderna | fusión; clásico moderno; Dhi
+
+Ateetam Band | Fusión global | Sitar; teclados; percusión | World music; energía creativa | global; polifonía; fusión
+
+PickBeat Fusion | Fusión instrumental | Bansuri; santoor; tabla | Trabajo; estudio; ambiente moderno | fusión; bansuri; santoor
+
+Jazz Passport | Jazz con influencia india | Jazz; instrumentos indios | Trabajo; viaje; escucha moderna | jazz; India; fusión
+
+NIRAE | Fusión electrónica india | Sitar; tabla; electrónica | Energía; movimiento; ambiente moderno | psytrance; sitar; tabla
+
+Open Mirag | Fusión de trabajo | Tabla; bansuri; santoor | Concentración; trabajo | tabla; bansuri; santoor; work mix
+
+Tips Official | Bollywood instrumental | Orquesta; piano; armonio | Nostalgia; ambiente cinematográfico | Bollywood; instrumental; Hindi
+
+Instrumental Sukanta | Bollywood instrumental | Piano | Melodías suaves; nostalgia | Bollywood; piano; covers
+
+Melodic Expressions | Bollywood instrumental | Piano; cuerdas | Melodías románticas | Bollywood; instrumental; romántico
+
+Dev's Music Channel | Bollywood tributo | Orquesta; instrumentos variados | Cine clásico indio | Sholay; R.D. Burman; tributo
+
+Babla Orchestra | Bollywood instrumental | Orquesta; ritmos | Ambiente retro indio | Bollywood; retro; orquesta
+
+================================================================================
+4. REGLAS DE RESPUESTA PARA EL AGENTE
+================================================================================
+
+Si el usuario dice:
+- "Recomiéndame música para meditar"
+  → Recomendar primero: Mantra, Bansuri meditativa y Ambiental indio.
+  → Ejemplos: Gayatri Mantra, Bansuri Flute Meditations, Inner Stillness.
+
+- "Quiero música de Krishna"
+  → Recomendar: Bhajan, Kirtan y Mantra.
+  → Ejemplos: Bhajans de Krishna, Hare Krishna Mahamantra, Harinama Sankirtana.
+
+- "Quiero música de Shiva"
+  → Recomendar: Mantra y Bhajan.
+  → Ejemplos: Om Namah Shivaya, bhajans de Shiva, música de templo.
+
+- "Quiero sitar para relajarme"
+  → Recomendar: Sitar relajante y Clásica hindustaní.
+  → Ejemplos: Ravi Shankar, Healing Ragas, Shanti Instrumentals.
+
+- "Quiero flauta india"
+  → Recomendar: Bansuri meditativa.
+  → Ejemplos: Buddha's Lounge, Bansara, Serenity Music Academy.
+
+- "Quiero música para estudiar"
+  → Recomendar: Clásica hindustaní, Sitar relajante y Fusión india moderna.
+  → Evitar bhajans muy rítmicos o kirtan congregacional.
+
+- "Quiero música india moderna"
+  → Recomendar: Fusión india moderna.
+  → Ejemplos: Naad, PickBeat Fusion, Jazz Passport, NIRAE.
+
+- "Quiero música de Bollywood"
+  → Recomendar: Bollywood instrumental.
+  → Preguntar si prefiere piano, guitarra, orquesta o versiones de películas clásicas.
+
+- "Quiero música para el templo"
+  → Recomendar: Música de templo, Bhajan y Aarti.
+  → Ejemplos: Bhajan & Puja Instrumental, transmisiones de TraditionalIndianMusic.
+
+- "No sé qué escuchar"
+  → Preguntar: "¿Quieres vocal devocional, mantra, instrumental clásico, flauta,
+    sitar, fusión moderna, música para dormir o música para yoga?"
+
+================================================================================
+5. EJEMPLO DE RESPUESTA QUE DEBE DAR EL AGENTE
+================================================================================
+
+USUARIO:
+"Recomiéndame música india para meditar."
+
+AGENTE:
+Para meditar te recomiendo estos tres estilos:
+
+1. Mantra
+   - Gayatri Mantra
+   - Om Namah Shivaya
+   - Hare Krishna Mahamantra
+
+2. Bansuri meditativa
+   - Buddha's Lounge - Bansuri Flute Meditations
+   - Inner Stillness - Indian Flute Meditation Journey
+   - Bansara - Samadhi Indian Meditation Flute, Sitar & Tabla
+
+3. Ambiental indio
+   - Traditional Indian Instrumentals for Deep Relaxation
+   - Instrumental Indian Background Music - Tirvola
+
+Si prefieres música con voz, elige Mantra o Bhajan.
+Si prefieres música sin letra, elige Bansuri meditativa o Ambiental indio.
+
+================================================================================
+FIN DE LA BASE DE RECOMENDACIONES MUSICALES
+================================================================================
+
+================================================================================
+VIII. RECOMENDACIONES MUSICALES — BHAJANS, MANTRAS, NEW AGE, CLÁSICA Y VIMANA
+================================================================================
+
+PROPÓSITO:
+Esta sección permite al agente recomendar música, artistas, álbumes, listas,
+enlaces y contenidos de Vimana según la necesidad, el momento del día, el estado
+de ánimo o la práctica espiritual del usuario.
+
+FORMATO PRINCIPAL:
+ARTISTA / CONTENIDO | TIPO | GÉNERO | IDIOMA | INSTRUMENTOS / ESTILO | MOMENTO IDEAL | ESTADO DE ÁNIMO | ENLACE | DESCRIPCIÓN | PALABRAS CLAVE
+
+REGLAS PARA EL AGENTE:
+1. Antes de recomendar, identificar la intención del usuario:
+   - Meditar
+   - Dormir
+   - Relax
+   - Estudiar
+   - Trabajar
+   - Hacer yoga
+   - Devoción
+   - Bhakti
+   - Puja o aarti
+   - Sanación
+   - Concentración
+   - Alegria
+   - Nostalgia
+   - Música india
+   - Mantra
+   - Bhajan
+   - Kirtan
+   - Música clásica
+   - Música zen
+   - Naturaleza
+   - Jazz
+   - Villancicos
+   - Contenido de Vimana
+
+2. Si el usuario no especifica, preguntar:
+   "¿Buscas música con voz devocional, mantra, instrumental, clásica, zen,
+   naturaleza, jazz, Bollywood o contenido propio de Vimana?"
+
+3. Priorizar siempre los contenidos oficiales de Vimana cuando encajen con la
+   necesidad del usuario.
+
+4. No recomendar un enlace genérico si existe un enlace específico.
+
+5. Si el usuario pide "música india", ofrecer primero:
+   Bhajan, Mantra, Kirtan, Clásica hindustaní, Clásica carnática,
+   Bansuri, Sitar, Tabla y fusión india.
+
+6. Si el usuario pide "música para dormir", ofrecer primero:
+   Sonidos de naturaleza, Música zen, Ambiental, New Age instrumental
+   y Música relajante para dormir de Vimana.
+
+7. Si el usuario pide "mantra", distinguir entre:
+   - Mantra hindú: Om, Gayatri, Om Namah Shivaya, Maha Mrityunjaya.
+   - Mantra budista: Om Mani Padme Hum, cantos tibetanos.
+   - Mantra sikh: cantos gurbani y kirtan sikh.
+   - Mantra vaisnava: Hare Krishna Mahamantra.
+
+8. Si el usuario pide "bhajan", recomendar artistas vocales devocionales,
+   no música puramente instrumental.
+
+9. Si el usuario pide "kirtan", recomendar canto devocional participativo,
+   normalmente con Hare Krishna, nombres de Krishna, Rama o Shiva.
+
+10. Si el usuario pide "música clásica", preguntar si desea:
+   - Clásica india
+   - Clásica occidental
+   - Música barroca
+   - Piano romántico
+   - Música para concentrarse
+
+================================================================================
+1. BHAJANS — CANTOS DEVOCIONALES
+================================================================================
+
+ARTISTA / CONTENIDO | TIPO | GÉNERO | IDIOMA | INSTRUMENTOS / ESTILO | MOMENTO IDEAL | ESTADO DE ÁNIMO | ENLACE | DESCRIPCIÓN | PALABRAS CLAVE
+
+Krishna Das | Bhajan; Kirtan | Devocional; kirtan | Sánscrito; inglés | Armonio; tabla; voz; arreglos occidentales | Mañana; práctica espiritual; yoga; devoción | Cálido; elevado; devoto; energético | https://www.youtube.com/c/KrishnaDasMusic/videos | Maestro del kirtan y el canto de yoga; mezcla devoción tradicional con arreglos contemporáneos. | Krishna Das; kirtan; bhajan; Hare Krishna; yoga; devoción
+
+Krishna Das — Om Namah Shivaya | Mantra; Bhajan | Devocional | Sánscrito | Voz; armonio; percusión | Meditación; mantra; noche; devoción | Profundo; sereno; protector | https://www.youtube.com/watch?v=zEGD7ZDcHMo&list=RDzEGD7ZDcHMo&start_radio=1 | Interpretación devocional del mantra Om Namah Shivaya. | Om Namah Shivaya; Shiva; mantra; meditación
+
+Jagjit Singh | Bhajan | Devocional clásico | Hindi; sánscrito | Armonio; tabla; voz | Tarde; reflexión; devoción | Conmovedor; profundo; sereno | https://youtube.com | Legendario cantante indio de bhajans clásicos y ghazals. | Jagjit Singh; bhajan; ghazal; devocional; India
+
+Anup Jalota | Bhajan | Devocional tradicional | Hindi; sánscrito | Armonio; tabla; voz | Puja; mañana; devoción | Dulce; devoto; tradicional | https://youtube.com | Conocido como el "Emperador de los Bhajans"; voz icónica de la música devocional india. | Anup Jalota; bhajan; devocional; Krishna; Rama; Shiva
+
+MS Subbulakshmi | Bhajan; Devocional carnático | Clásica carnática; devocional | Tamil; sánscrito | Voz; veena; acompañamiento clásico | Mañana; meditación; templo | Puro; elevado; sereno; sagrado | https://youtube.com | Eminencia de la música carnática y devocional del sur de la India. | MS Subbulakshmi; carnático; devocional; sur de la India
+
+Snatam Kaur | Mantra; Kirtan | Devocional sikh; new age | Punjabi; sánscrito; inglés | Voz; armonio; guitarra; percusión suave | Mañana; yoga; meditación; relajación | Luminoso; suave; sanador; femenino | https://youtube.com | Intérprete de mantras sikh y kirtan devocional con voz clara y contemplativa. | Snatam Kaur; kirtan; mantra sikh; yoga; meditación
+
+Anuradha Paudwal | Bhajan | Devocional tradicional | Hindi; sánscrito | Voz; armonio; tabla; dholak | Puja; festividades; devoción | Alegre; devoto; tradicional | https://youtube.com | Cantante india con una gran colección de himnos devocionales dedicados a múltiples deidades. | bhajan; devocional; deidades; puja; India
+
+Hariharan | Bhajan; Ghazal | Devocional; ghazal | Hindi; urdu; sánscrito | Voz; armonio; tabla | Tarde; reflexión; escucha refinada | Elegante; melódico; emotivo | https://youtube.com | Cantante de ghazals y bhajans con estilo refinado y amplio registro vocal. | Hariharan; ghazal; bhajan; voz india
+
+Suresh Wadkar | Bhajan | Devocional meditativo | Hindi; sánscrito | Voz; armonio; percusión suave | Meditación; mañana; devoción | Suave; melódico; introspectivo | https://youtube.com | Voz melódica respetada en la India, especializada en cantos devocionales meditativos. | Suresh Wadkar; bhajan; meditación; devocional
+
+Amala Krishna Das — ISKCON | Bhajan; Kirtan | Vaisnava; devocional | Sánscrito; bengalí; inglés | Armonio; kartales; voz; mridanga | Kirtan; devoción; Krishna; comunidad | Alegre; devoto; comunitario | https://www.youtube.com/playlist?list=PLpVQYqiZgnHRobkhXH3-lr_jCrISby3qE | Representante contemporáneo del movimiento ISKCON; cantos y bhajans centrados en Krishna. | ISKCON; Krishna; kirtan; Hare Krishna; bhakti
+
+Shivali Bhammer | Bhajan moderno | Devocional contemporáneo | Hindi; inglés | Voz; producción moderna; armonio | Jóvenes; yoga; devoción moderna | Fresco; accesible; contemporáneo | https://youtube.com | Moderniza bhajans tradicionales con un enfoque contemporáneo y accesible. | bhajan moderno; devoción; yoga; contemporáneo
+
+================================================================================
+2. MANTRAS — CANTOS SAGRADOS
+================================================================================
+
+ARTISTA / CONTENIDO | TIPO | GÉNERO | IDIOMA | INSTRUMENTOS / ESTILO | MOMENTO IDEAL | ESTADO DE ÁNIMO | ENLACE | DESCRIPCIÓN | PALABRAS CLAVE
+
+Deva Premal & Miten | Mantra | Mantra devocional; new age | Sánscrito; inglés | Voz; guitarra; armonio; ambient | Meditación; yoga; mañana; sanación | Sereno; luminoso; amoroso; sanador | https://www.youtube.com/playlist?list=PLgFOpEoSgN0G_103fgOsnAC-pH4BvEmND | Referentes mundiales del mantra; célebres por su versión del Gayatri Mantra. | Deva Premal; Gayatri; mantra; meditación; yoga
+
+Hein Braat | Mantra | Mantra tradicional | Sánscrito | Voz grave; percusión mínima | Meditación profunda; japa; protección | Profundo; grave; protector; solemne | https://youtube.com | Intérprete de mantras con voz de barítono profunda; famoso por Gayatri y Maha Mrityunjaya. | Hein Braat; Gayatri; Maha Mrityunjaya; mantra; voz grave
+
+Tina Turner — Beyond Project | Mantra; espiritual | Mantra budista; espiritual | Sánscrito; inglés; pali | Voz; coros; ambient | Meditación; reflexión; paz | Elevado; universal; contemplativo | https://youtube.com | Proyecto espiritual que mezcla mantras budistas y cantos cristianos. | Tina Turner; Beyond; mantra budista; espiritual
+
+Ani Choying Drolma | Mantra; canto budista | Mantra tibetano | Tibetano; sánscrito | Voz; cuencos; instrumentos tradicionales | Meditación; compasión; sanación | Sereno; compasivo; sagrado | https://youtube.com | Monja budista nepalesa conocida por cantos y mantras tibetanos tradicionales. | Ani Choying; budismo; mantra tibetano; meditación
+
+Lama Gyurme & Jean-Philippe Rykiel | Mantra | Mantra tibetano; ambient | Tibetano | Voz; sintetizadores; cuencos | Meditación profunda; sanación; noche | Profundo; curativo; místico | https://youtube.com | Maestro budista tibetano junto a Jean-Philippe Rykiel; mantras profundos y curativos. | Lama Gyurme; mantra tibetano; sanación; meditación
+
+Sacred Earth | Mantra; New Age | Mantra ambiental | Sánscrito; inglés | Flautas; teclados; voz ambiental | Yoga; meditación; naturaleza; relax | Pacífico; etéreo; natural | https://youtube.com | Dúo australiano que fusiona flautas, teclados y voces ambientales en mantras de paz. | Sacred Earth; mantra; naturaleza; paz; ambient
+
+Ashana | Mantra; sanación sonora | Mantra; cuencos de cristal | Sánscrito; inglés | Voz; cuencos de cuarzo | Sanación; meditación; sueño; spa | Angelical; vibracional; relajante | https://youtube.com | Combina voz y cuencos de cristal para sanación por sonido. | Ashana; cuencos de cristal; sanación; vibración
+
+Shanti People | Mantra electrónico | Mantra; psytrance; chillstep | Sánscrito; inglés | Voz; electrónica; sintetizadores | Yoga dinámico; baile consciente; energía | Moderno; vibrante; hipnótico | https://youtube.com | Fusiona mantras védicos con música electrónica contemporánea. | Shanti People; mantra electrónico; psytrance; chillstep
+
+Jonathan Goldman | Mantra; sanación sonora | Sonido terapéutico; chakras | Sánscrito; inglés | Voz; cuencos; sintetizadores | Sanación; chakras; meditación | Vibracional; terapéutico; equilibrante | https://youtube.com | Autoridad en sanación por sonido; mantras enfocados en la vibración de los chakras. | Jonathan Goldman; chakras; sonido; sanación
+
+Edo & Jo | Mantra; Kirtan | Devocional acústico | Sánscrito; inglés | Guitarra; voz; percusión suave | Kirtan; yoga; comunidad; alegría | Alegre; acústico; devoto | https://youtube.com | Músicos dedicados al kirtan y los mantras con enfoque acústico y alegre. | Edo & Jo; kirtan; mantra; acústico; devoción
+
+================================================================================
+3. NEW AGE INSTRUMENTAL — RELAX Y PAISAJES SONOROS
+================================================================================
+
+ARTISTA / CONTENIDO | TIPO | GÉNERO | IDIOMA | INSTRUMENTOS / ESTILO | MOMENTO IDEAL | ESTADO DE ÁNIMO | ENLACE | DESCRIPCIÓN | PALABRAS CLAVE
+
+Yanni | New Age instrumental | Orquestal; sintetizadores | Instrumental | Piano; sintetizadores; orquesta | Inspiración; viaje; concentración; reflexión | Épico; inspirador; amplio | https://www.youtube.com/playlist?list=PLLC_TudZxc1vcWRDKkK7qrvmmXPWPZfBR | Compositor y pianista pionero de la música orquestal y de sintetizadores de la New Era. | Yanni; new age; orquestal; inspiración
+
+Kitaro | New Age instrumental | Electrónica; asiática | Instrumental | Sintetizadores; flautas; percusión | Meditación; viaje interior; relax | Espiritual; amplio; contemplativo | https://youtube.com | Compositor japonés que combina electrónica con instrumentos tradicionales asiáticos. | Kitaro; new age; meditación; Asia
+
+Enya | New Age vocal instrumental | New Age; ambient | Inglés; gaélico; latín | Voz en capas; piano; sintetizadores | Relax; lectura; nostalgia; calma | Etéreo; suave; melancólico | https://youtube.com | Su uso de capas vocales, orquestación y sintetizadores definió el sonido New Age global. | Enya; new age; ambient; calma
+
+Vangelis | New Age electrónico | Electrónica; cinematográfica | Instrumental | Sintetizadores; teclados | Reflexión; inspiración; viaje; noche | Cósmico; profundo; cinematográfico | https://youtube.com | Leyenda de los sintetizadores y la música electrónica espacial. | Vangelis; sintetizadores; cósmico; electrónico
+
+David Lanz | Piano New Age | Instrumental contemporáneo | Instrumental | Piano | Lectura; relax; reflexión; estudio | Íntimo; melódico; sereno | https://youtube.com | Pianista icónico de la música instrumental contemporánea y del sello Narada. | David Lanz; piano; new age; relajación
+
+Liquid Mind — Chuck Wild | Ambiental terapéutico | Ambient; sleep music | Instrumental | Sintetizadores; pads; texturas | Dormir; insomnio; terapia; meditación | Muy lento; reparador; profundo | https://youtube.com | Música ambiental extremadamente lenta, diseñada para terapia e insomnio. | Liquid Mind; dormir; insomnio; ambient; terapia
+
+Suzanne Ciani | Electrónica instrumental | New Age; sintetizadores | Instrumental | Sintetizadores analógicos; piano | Creatividad; concentración; relax | Elegante; espacial; delicado | https://youtube.com | Pionera de la música electrónica instrumental y del diseño sonoro con sintetizadores. | Suzanne Ciani; sintetizador; new age; piano
+
+Dan Gibson — Solitudes | Naturaleza musical | Ambient; naturaleza | Instrumental | Flauta; piano; sonidos naturales | Dormir; leer; meditar; relajarse | Natural; tranquilo; reparador | https://youtube.com | Mezcla música instrumental suave con sonidos reales de la naturaleza. | Dan Gibson; naturaleza; Solitudes; relajación
+
+Karunesh | World New Age | Ambient; étnico; indio | Instrumental | Flautas; percusión; sintetizadores | Yoga; meditación; viaje interior | Místico; cálido; espiritual | https://youtube.com | Músico alemán que mezcla ambient con flautas e influencias de la India. | Karunesh; India; new age; meditación; étnico
+
+Terry Oldfield | Flauta meditativa | New Age; meditativo | Instrumental | Flauta traversa; flauta de pan | Meditación; naturaleza; viaje | Sereno; expansivo; contemplativo | https://youtube.com | Compositor británico conocido por flautas y paisajes musicales meditativos. | Terry Oldfield; flauta; meditación; new age
+
+================================================================================
+4. MÚSICA CLÁSICA OCCIDENTAL
+================================================================================
+
+ARTISTA / CONTENIDO | TIPO | GÉNERO | IDIOMA | INSTRUMENTOS / ESTILO | MOMENTO IDEAL | ESTADO DE ÁNIMO | ENLACE | DESCRIPCIÓN | PALABRAS CLAVE
+
+Wolfgang Amadeus Mozart | Clásica occidental | Clasicismo | Instrumental | Piano; orquesta; violín | Estudio; concentración; elegancia | Claro; equilibrado; luminoso | https://music.youtube.com/channel/UCmeFxYk5BSbJGWN9OgTAIhw | Genio del periodo clásico; armonía, simetría, sinfonías y conciertos. | Mozart; clásica; estudio; concentración
+
+Johann Sebastian Bach | Clásica occidental | Barroco | Instrumental | Órgano; violonchelo; teclado | Concentración; estudio; meditación | Preciso; ordenado; profundo | https://youtube.com | Maestro del barroco; música de gran precisión matemática y espiritualidad. | Bach; barroco; órgano; concentración
+
+Ludwig van Beethoven | Clásica occidental | Clasicismo; romanticismo | Instrumental | Piano; orquesta | Fuerza; inspiración; reflexión | Dramático; potente; emotivo | https://youtube.com | Figura revolucionaria entre el Clasicismo y el Romanticismo. | Beethoven; sinfonía; piano; dramático
+
+Frédéric Chopin | Piano romántico | Romanticismo | Instrumental | Piano | Noche; relajación; nostalgia; estudio | Íntimo; poético; melancólico | https://youtube.com | Poeta del piano; nocturnos, baladas y piezas íntimas. | Chopin; piano; nocturno; romántico
+
+Antonio Vivaldi | Clásica barroca | Barroco | Instrumental | Violín; orquesta | Energía; mañana; concentración | Vivo; luminoso; rítmico | https://youtube.com | Virtuoso del violín barroco; célebre por "Las cuatro estaciones". | Vivaldi; barroco; violín; naturaleza
+
+Claude Debussy | Impresionismo | Clásica francesa | Instrumental | Piano; orquesta | Relax; imaginación; tarde | Fluido; visual; evocador | https://youtube.com | Máximo exponente del impresionismo musical francés. | Debussy; impresionismo; piano; atmósfera
+
+Pyotr Ilyich Tchaikovsky | Clásica romántica | Romanticismo ruso | Instrumental | Orquesta; ballet; piano | Emoción; inspiración; viaje | Romántico; dramático; melódico | https://www.youtube.com/results?search_query=Pyotr+Ilyich+Tchaikovsky | Maestro ruso del Romanticismo; ballets, sinfonías y obras orquestales. | Tchaikovsky; Chaikovski; ballet; romántico
+
+================================================================================
+IX. MÚSICA GREGORIANA, ZEN, ANDINA, POP, NATURALEZA Y JAZZ
+================================================================================
+
+ARTISTA / CONTENIDO | TIPO | GÉNERO | IDIOMA | INSTRUMENTOS / ESTILO | MOMENTO IDEAL | ESTADO DE ÁNIMO | ENLACE | DESCRIPCIÓN | PALABRAS CLAVE
+
+Coro de Monjes de Santo Domingo de Silos | Canto gregoriano | Sacro; medieval | Latín | Coro; órgano | Meditación; silencio; reflexión | Solemne; sagrado; sereno | https://youtube.com | Coro célebre por el canto gregoriano tradicional. | gregoriano; monjes; sacro; meditación
+
+Schola Gregoriana Mediolanensis | Canto gregoriano | Sacro; medieval | Latín | Coro | Meditación; estudio; silencio | Sereno; antiguo; contemplativo | https://youtube.com | Ensamble especializado en canto gregoriano. | gregoriano; schola; sacro
+
+Harpa Dei | Canto sacro | Coral; devocional | Latín; varios | Voces; instrumentos antiguos | Meditación; oración; paz | Puro; elevado; contemplativo | https://youtube.com | Grupo de canto sacro y devocional. | sacro; coral; devocional
+
+Ensemble Organum | Canto medieval | Sacro; antiguo | Latín | Voces; órgano | Meditación; estudio histórico | Antiguo; profundo; ritual | https://youtube.com | Ensamble especializado en música sacra medieval. | medieval; sacro; canto
+
+Cappella Musicale Pontificia Sistina | Canto sacro | Coral; litúrgico | Latín | Coro; órgano | Oración; solemnidad | Sagrado; majestuoso | https://youtube.com | Coro pontificio de la Capilla Sixtina. | Vaticano; coral; sacro
+
+Monjas Benedictinas de Notre-Dame de l'Annonciation | Canto gregoriano | Sacro; monástico | Latín | Voces femeninas | Meditación; oración; sueño | Sereno; puro; contemplativo | https://youtube.com | Comunidad monástica dedicada al canto gregoriano. | monjas; gregoriano; oración
+
+Gloriae Dei Cantores | Canto sacro | Coral; litúrgico | Latín; inglés | Coro; órgano | Meditación; reflexión | Elevado; solemne | https://youtube.com | Coro especializado en música sacra. | coral; sacro; litúrgico
+
+Vox Clamantis | Canto antiguo | Medieval; sacro | Latín; varios | Coro | Meditación; estudio | Antiguo; contemplativo | https://youtube.com | Ensamble vocal especializado en repertorio antiguo. | medieval; coral; sacro
+
+St. Michael's Choir School | Coral | Sacro; coral | Varios | Coro | Reflexión; estudio | Sereno; tradicional | https://youtube.com | Coro escolar de tradición sacra. | coral; sacro; escolar
+
+Chór Katedry Warszawsko-Praskiej | Coral | Sacro; litúrgico | Latín; polaco | Coro; órgano | Oración; solemnidad | Majestuoso; sagrado | https://youtube.com | Coro catedralicio polaco. | catedral; coral; sacro
+
+Cantores Minores | Coral | Sacro; coral | Varios | Coro | Reflexión; estudio | Puro; tradicional | https://youtube.com | Coro especializado en repertorio sacro. | coral; sacro
+
+Westminster Cathedral Choir | Coral | Sacro; litúrgico | Latín; inglés | Coro; órgano | Solemnidad; meditación | Majestuoso; elevado | https://youtube.com | Coro de la Catedral de Westminster. | Westminster; coral; sacro
+
+Monjes del Monasterio de Montserrat | Canto gregoriano | Sacro; monástico | Latín; catalán | Coro; órgano | Meditación; oración | Sereno; antiguo; sagrado | https://youtube.com | Monjes del Monasterio de Montserrat; canto litúrgico. | Montserrat; monjes; gregoriano
+
+Gregorian | Canto gregoriano moderno | New Age; coral | Latín; inglés | Coro; sintetizadores; percusión | Ambiente moderno; noche; cine | Dramático; moderno; misterioso | https://youtube.com | Banda que moderniza el canto gregoriano con producción contemporánea. | Gregorian; moderno; coral; new age
+
+Schola Antiqua | Canto antiguo | Medieval; sacro | Latín | Coro | Meditación; estudio | Antiguo; ritual | https://youtube.com | Ensamble especializado en música antigua y sacra. | schola; medieval; sacro
+
+Soothing Relaxation — Peder B. Helland | Ambiental; zen | Relax; sleep | Instrumental | Piano; pads; naturaleza | Dormir; estudiar; relajarse | Suave; dulce; reparador | https://youtube.com | Música ambiental y relajante para descanso y concentración. | Peder B. Helland; dormir; relax; piano
+
+Yellow Brick Cinema | Zen; sleep | Relax; meditación | Instrumental | Piano; pads; naturaleza | Dormir; meditar; estudiar | Calmante; neutro; reparador | https://youtube.com | Canal de música para dormir, meditar y estudiar. | sleep; zen; meditación; relax
+
+Jason Stephenson — Sleep Meditation Music | Sleep; meditación | Relax guiado; ambient | Inglés | Voz guiada; música ambiental | Dormir; meditación; ansiedad | Tranquilo; guiado; reparador | https://youtube.com | Meditaciones y música para dormir y reducir la ansiedad. | dormir; meditación guiada; ansiedad
+
+NuMeditationMusic | Zen; ambient | Meditación; reiki | Instrumental | Pads; cuencos; naturaleza | Meditación; sanación; dormir | Profundo; etéreo; calmante | https://youtube.com | Música para meditación, reiki y relajación. | meditación; reiki; ambient
+
+Healing Reiki Fluido | Reiki; sanación | Ambient; terapéutico | Instrumental | Cuencos; pads; naturaleza | Reiki; sanación; meditación | Vibracional; suave; curativo | https://youtube.com | Música orientada a reiki y sanación energética. | reiki; sanación; cuencos
+
+Riley Lee | Zen | Shakuhachi; meditación | Instrumental | Shakuhachi | Meditación zen; respiración; calma | Minimalista; profundo; contemplativo | https://youtube.com | Maestro de shakuhachi; música zen tradicional japonesa. | Riley Lee; shakuhachi; zen; flauta
+
+Deuter | New Age; zen | Ambient; meditación | Instrumental | Flautas; sintetizadores; naturaleza | Yoga; meditación; viaje | Espiritual; natural; sereno | https://youtube.com | Músico pionero del new age y la meditación. | Deuter; new age; meditación; naturaleza
+
+Karunesh | New Age; world | Ambient; étnico; indio | Instrumental | Flautas; percusión; sintetizadores | Yoga; meditación; viaje | Místico; cálido; global | https://youtube.com | Música new age con influencias indias y orientales. | Karunesh; India; new age; meditación
+
+Greenred Productions | Sleep; brainwaves | Relax; binaural | Instrumental | Ondas binaurales; pads | Dormir; concentración; estudio | Neutro; técnico; reparador | https://youtube.com | Música con frecuencias y sonidos para dormir o concentrarse. | binaural; ondas; dormir; concentración
+
+Marconi Union — Weightless | Ambient | Relax; ansiedad | Instrumental | Sintetizadores; pads | Ansiedad; relax; dormir | Muy calmante; lento; flotante | https://youtube.com | Pieza ambiental conocida por su efecto relajante. | Weightless; ansiedad; ambient; calma
+
+Buddha's Lounge | Zen; lounge | Chillout; meditación | Instrumental | Flauta; pads; percusión suave | Relax; café; yoga; trabajo | Moderno; suave; agradable | https://youtube.com | Música lounge y meditativa con ambiente oriental. | Buddha's Lounge; chillout; lounge; meditación
+
+Zen Mindfulness Meditation | Zen; mindfulness | Meditación | Instrumental | Campanas; naturaleza; pads | Mindfulness; meditación; respiración | Presente; sereno; minimalista | https://youtube.com | Música y sonidos para mindfulness y meditación. | mindfulness; zen; respiración
+
+Meditation Relax Music | Ambient; zen | Relax; meditación | Instrumental | Piano; pads; naturaleza | Meditación; dormir; spa | Suave; neutro; reparador | https://youtube.com | Música para meditación, spa y relajación. | meditación; spa; relax
+
+Relaxing White Noise | Sonidos | White noise; ambiente | Instrumental | Ruido blanco; lluvia; ventilador | Dormir; concentración; estudiar | Neutro; constante; protector | https://youtube.com | Sonidos continuos para dormir, estudiar o enfocarse. | white noise; dormir; estudio; concentración
+
+Leo Rojas | Andino New Age | Instrumental andino | Instrumental | Quena; flauta de pan; percusión | Viaje; naturaleza; nostalgia | Amplio; libre; emotivo | https://youtube.com | Música instrumental andina con flautas y sonidos de naturaleza. | Leo Rojas; andino; quena; naturaleza
+
+Alborada | Andino | Folk instrumental andino | Instrumental | Quena; charango; percusión | Cultura andina; viaje; nostalgia | Tradicional; cálido; melódico | https://youtube.com | Grupo andino con repertorio instrumental y tradicional. | Alborada; andino; quena; folk
+
+Inkuyo | Andino | Folk instrumental | Instrumental | Quena; sikuri; charango | Cultura andina; viaje | Tradicional; festivo; melódico | https://youtube.com | Grupo de música andina tradicional e instrumental. | Inkuyo; andino; folk
+
+Sukay | Andino | Folk instrumental | Instrumental | Charango; quena; guitarras | Cultura andina; alegría | Festivo; rítmico; cálido | https://youtube.com | Grupo andino de música instrumental y tradicional. | Sukay; andino; folk
+
+Savia Andina | Andino | Folk instrumental | Instrumental | Quena; charango; guitarras | Cultura andina; nostalgia | Melódico; tradicional; evocador | https://youtube.com | Etapa instrumental del grupo Savia Andina. | Savia Andina; andino; instrumental
+
+Illapu | Andino | Folk instrumental | Instrumental | Quena; percusión; guitarras | Cultura andina; viaje | Tradicional; emotivo | https://youtube.com | Temas instrumentales del grupo chileno Illapu. | Illapu; andino; instrumental
+
+Rumillajta | Andino | Folk andino | Instrumental | Quena; sikuri; percusión | Cultura andina; naturaleza | Tradicional; amplio; melódico | https://youtube.com | Grupo andino de música tradicional. | Rumillajta; andino; folk
+
+Chano Díaz Limaco | Andino | Folk instrumental | Instrumental | Quena; flautas andinas | Naturaleza; viaje; nostalgia | Melódico; andino; sereno | https://youtube.com | Intérprete andino de flautas y música tradicional. | Chano Díaz; andino; quena
+
+Lucho Quequezana | Andino contemporáneo | World; andino | Instrumental | Quena; percusión; cuerdas | Cultura andina; viaje; reflexión | Contemporáneo; melódico; evocador | https://youtube.com | Músico peruano que fusiona sonidos andinos con arreglos contemporáneos. | Lucho Quequezana; andino; world; Perú
+
+Genesis Andino | Andino | Folk instrumental | Instrumental | Quena; percusión | Cultura andina; naturaleza | Tradicional; melódico | https://youtube.com | Proyecto de música andina instrumental. | Genesis Andino; andino; folk
+
+Sacambaya | Andino | Folk instrumental | Instrumental | Quena; charango; percusión | Cultura andina; alegría | Festivo; tradicional | https://youtube.com | Grupo andino de música tradicional. | Sacambaya; andino; folk
+
+Wayra Nan | Andino | Folk instrumental | Instrumental | Quena; flautas; percusión | Viaje; naturaleza | Melódico; andino | https://youtube.com | Grupo de música andina instrumental. | Wayra Nan; andino; flauta
+
+Inka Gold | Andino New Age | Instrumental andino | Instrumental | Quena; flauta de pan; percusión | Relajación; naturaleza; viaje | Sereno; amplio; melódico | https://youtube.com | Música andina instrumental con enfoque relajante. | Inka Gold; andino; new age; flauta
+
+2CELLOS | Pop instrumental | Cello; crossover | Instrumental | Violonchelo | Energía; trabajo; viaje | Dinámico; moderno; potente | https://youtube.com | Dúo de violonchelos que interpreta versiones de pop y rock. | 2CELLOS; cello; pop instrumental
+
+The Piano Guys | Pop instrumental | Piano; crossover | Instrumental | Piano; violonchelo | Trabajo; inspiración; familia | Alegre; cinematográfico; moderno | https://youtube.com | Versiones instrumentales de pop y clásica con piano y cello. | Piano Guys; piano; cello; pop
+
+Lindsey Stirling | Violín moderno | Electrónico; crossover | Instrumental | Violín; electrónica | Energía; baile; motivación | Dinámico; luminoso; moderno | https://youtube.com | Violinista que fusiona violín con música electrónica. | Lindsey Stirling; violín; electrónico
+
+Vitamin String Quartet | Pop instrumental | Cuerdas; crossover | Instrumental | Cuarteto de cuerdas | Estudio; trabajo; nostalgia | Elegante; melódico; neutro | https://youtube.com | Versiones de cuarteto de cuerdas de éxitos pop y rock. | VSQ; cuerdas; pop instrumental
+
+Brooklyn Duo | Pop instrumental | Piano; cello | Instrumental | Piano; violonchelo | Trabajo; estudio; relax | Elegante; suave; melódico | https://youtube.com | Dúo de piano y cello con versiones instrumentales. | Brooklyn Duo; piano; cello
+
+David Garrett | Violín clásico moderno | Crossover; clásica | Instrumental | Violín | Inspiración; energía; elegancia | Virtuoso; dramático; moderno | https://youtube.com | Violinista que mezcla clásica con repertorio moderno. | David Garrett; violín; crossover
+
+Simply Three | Pop instrumental | Cuerdas; crossover | Instrumental | Violín; viola; cello | Trabajo; estudio; viaje | Moderno; melódico; elegante | https://youtube.com | Trío de cuerdas con versiones de pop y bandas sonoras. | Simply Three; cuerdas; pop
+
+HAUSER | Cello | Clásica; crossover | Instrumental | Violonchelo | Emoción; elegancia; relax | Intenso; melódico; romántico | https://youtube.com | Violonchelista de repertorio clásico y moderno. | HAUSER; cello; clásica
+
+Aston | Pop instrumental | Cuerdas; crossover | Instrumental | Cuerdas | Trabajo; estudio | Elegante; moderno | https://youtube.com | Grupo instrumental de versiones con cuerdas. | Aston; cuerdas; pop
+
+Taylor Davis | Violín cinematográfico | Banda sonora; crossover | Instrumental | Violín | Viaje; fantasía; motivación | Épico; emotivo; cinematográfico | https://youtube.com | Violinista especializada en bandas sonoras y música cinematográfica. | Taylor Davis; violín; banda sonora
+
+Daniel Jang | Violín moderno | Crossover | Instrumental | Violín | Trabajo; estudio; motivación | Moderno; melódico | https://youtube.com | Violinista de versiones modernas y cinematográficas. | Daniel Jang; violín; moderno
+
+Dallas String Quartet | Pop instrumental | Cuerdas; crossover | Instrumental | Cuarteto de cuerdas | Eventos; trabajo; elegancia | Moderno; elegante | https://youtube.com | Cuarteto de cuerdas con versiones contemporáneas. | Dallas String Quartet; cuerdas
+
+GnuS Cello | Cello moderno | Crossover | Instrumental | Violonchelo | Trabajo; relajación | Melódico; moderno | https://youtube.com | Violonchelista de versiones modernas. | GnuS Cello; cello; moderno
+
+Costantino Carrara | Piano moderno | Piano instrumental | Instrumental | Piano | Estudio; relajación; nostalgia | Melódico; íntimo; moderno | https://youtube.com | Pianista de versiones instrumentales modernas. | Costantino Carrara; piano; covers
+
+Nature Meditation | Naturaleza | Ambient; sonidos | Instrumental | Lluvia; bosque; olas; aves | Dormir; meditar; relajarse | Natural; reparador; neutro | https://youtube.com | Sonidos de naturaleza para meditación y descanso. | naturaleza; lluvia; bosque; meditación
+
+Rainstorm Audio | Naturaleza | Lluvia; ambiente | Instrumental | Lluvia; truenos | Dormir; estudiar; relajarse | Protector; constante; calmante | https://youtube.com | Sonidos de lluvia y tormenta para dormir o concentrarse. | lluvia; tormenta; dormir
+
+Deep White Noise | Sonidos | White noise | Instrumental | Ruido blanco; frecuencias | Dormir; concentración | Neutro; constante | https://youtube.com | Ruido blanco y sonidos continuos para enfocarse o dormir. | white noise; dormir; concentración
+
+Ultrazang Natural Sounds | Naturaleza | Ambient; sonidos | Instrumental | Naturaleza; agua; bosque | Meditar; dormir; relajarse | Natural; sereno | https://youtube.com | Sonidos naturales para relajación y meditación. | naturaleza; agua; bosque
+
+Relaxing ASMR Nature | ASMR; naturaleza | Sonidos; ambiente | Instrumental | Susurros; naturaleza; texturas | Dormir; relajarse; ansiedad | Intimo; calmante; sensorial | https://youtube.com | ASMR y sonidos naturales para relajación. | ASMR; naturaleza; relajación
+
+The Rain City | Naturaleza | Lluvia; ambiente | Instrumental | Lluvia; ciudad; truenos | Dormir; estudiar; escribir | Melancólico; protector; urbano | https://youtube.com | Ambientes de lluvia y ciudad para concentración o descanso. | lluvia; ciudad; ambiente
+
+Calmed by Nature | Naturaleza | Ambient; sonidos | Instrumental | Bosque; agua; aves | Meditar; dormir; leer | Natural; sereno; reparador | https://youtube.com | Paisajes sonoros naturales para calma y descanso. | naturaleza; bosque; calma
+
+Ocean Waves Relaxation | Naturaleza | Olas; ambiente | Instrumental | Mar; olas | Dormir; meditar; relajarse | Amplio; rítmico; reparador | https://youtube.com | Sonidos de olas para dormir o meditar. | olas; mar; dormir
+
+Fireplace 10 Hours | Ambiente | Chimenea; hogar | Instrumental | Fuego; ambiente | Invierno; lectura; descanso | Cálido; acogedor; íntimo | https://youtube.com | Sonido de chimenea para ambiente hogareño. | chimenea; fuego; hogar
+
+Virtual Cottage | Ambiente | Lo-fi; trabajo | Instrumental | Ambiente; música suave | Estudiar; trabajar; concentrarse | Acogedor; neutro; productivo | https://youtube.com | Ambiente virtual para estudiar y trabajar. | estudio; trabajo; ambiente
+
+Sounddrops — Nichi | Ambiente | Lo-fi; naturaleza | Instrumental | Naturaleza; texturas | Estudiar; relajarse | Suave; moderno; neutro | https://youtube.com | Ambientes sonoros y música suave. | ambiente; lo-fi; naturaleza
+
+Atmospheric Sounds | Ambient | Paisajes sonoros | Instrumental | Texturas; ambiente | Dormir; escribir; imaginar | Evocador; cinematográfico | https://youtube.com | Ambientes atmosféricos para concentración e imaginación. | atmosférico; ambiente; cine
+
+ASMRRooms | ASMR | Ambientes ficticios | Instrumental | Ambiente; sonidos | Dormir; relajarse; imaginar | Inmersivo; calmante | https://youtube.com | Ambientes sonoros ficticios e inmersivos. | ASMR; ambiente; inmersivo
+
+Ambient Worlds | Ambient | Paisajes de películas | Instrumental | Ambiente; sonidos | Imaginar; escribir; viajar | Cinematográfico; evocador | https://youtube.com | Paisajes sonoros inspirados en películas. | cine; ambiente; películas
+
+Guild of Ambience | Ambient | Paisajes sonoros | Instrumental | Ambiente; naturaleza | Dormir; estudiar; imaginar | Inmersivo; sereno | https://youtube.com | Paisajes sonoros ambientales. | ambiente; paisaje; relajación
+
+Miles Davis | Jazz | Cool jazz; modal | Instrumental | Trompeta; piano; contrabajo | Noche; lectura; reflexión | Sofisticado; introspectivo; elegante | https://youtube.com | Etapa instrumental cool y modal de Miles Davis. | Miles Davis; jazz; trompeta; cool
+
+John Coltrane | Jazz | Jazz espiritual; saxofón | Instrumental | Saxofón; piano; contrabajo | Reflexión; noche; meditación | Profundo; espiritual; intenso | https://youtube.com | Saxofonista de jazz espiritual y modal. | Coltrane; jazz; saxofón; espiritual
+
+Bill Evans | Jazz | Piano jazz | Instrumental | Piano; contrabajo; batería | Noche; estudio; reflexión | Íntimo; delicado; melódico | https://youtube.com | Pianista de jazz de gran sensibilidad armónica. | Bill Evans; piano; jazz
+
+BGM Channel | Jazz relajante | Café jazz; BGM | Instrumental | Piano; saxofón; guitarra | Café; trabajo; estudio | Agradable; suave; productivo | https://youtube.com | Jazz relajante para cafetería, estudio y trabajo. | BGM; café; jazz; estudio
+
+Café Cozy Jazz | Jazz relajante | Smooth jazz; café | Instrumental | Piano; saxofón; guitarra | Café; trabajo; mañana | Cálido; agradable; relajado | https://youtube.com | Música de jazz suave para café y ambiente agradable. | café; jazz; suave
+
+Elegant Sister | Smooth jazz | Jazz moderno | Instrumental | Saxofón; piano; teclados | Noche; trabajo; viaje | Elegante; moderno; relajado | https://youtube.com | Mezclas de smooth jazz. | smooth jazz; elegante; saxofón
+
+Relax Cafe Music | Jazz relajante | Café; BGM | Instrumental | Piano; guitarra; saxofón | Café; estudio; trabajo | Tranquilo; agradable | https://youtube.com | Música relajante para café y trabajo. | café; relax; jazz
+
+Dave Brubeck | Jazz | Cool jazz | Instrumental | Piano; saxofón; contrabajo | Estudio; escucha activa | Inteligente; rítmico; clásico | https://youtube.com | Pianista y compositor de jazz; célebre por "Take Five". | Dave Brubeck; jazz; Take Five
+
+Stan Getz | Jazz; Bossa Nova | Bossa nova instrumental | Instrumental | Saxofón; guitarra; percusión | Tarde; café; viaje | Suave; cálido; brasileño | https://youtube.com | Saxofonista de jazz y bossa nova instrumental. | Stan Getz; bossa nova; saxofón
+
+Chet Baker | Jazz | Cool jazz; trompeta | Instrumental | Trompeta; voz; piano | Noche; nostalgia; reflexión | Melancólico; íntimo; elegante | https://youtube.com | Trompetista y cantante de jazz; estilo cool e íntimo. | Chet Baker; jazz; trompeta
+
+Dr. SaxLove | Smooth jazz | Saxofón relajante | Instrumental | Saxofón; teclados | Noche; romance; relax | Suave; sensual; relajado | https://youtube.com | Smooth jazz centrado en saxofón. | saxofón; smooth jazz; noche
+
+Coffee Shop Vibes | Jazz relajante | Café; BGM | Instrumental | Piano; guitarra; percusión | Café; trabajo; estudio | Acogedor; moderno; productivo | https://youtube.com | Música de cafetería para trabajar y estudiar. | café; estudio; trabajo
+
+Wes Montgomery | Jazz | Guitarra jazz | Instrumental | Guitarra; contrabajo; batería | Escucha activa; tarde | Cálido; virtuoso; melódico | https://youtube.com | Guitarrista de jazz con estilo cálido y virtuoso. | Wes Montgomery; guitarra; jazz
+
+Duke Ellington Orchestra | Jazz | Big band; swing | Instrumental | Orquesta; piano; metales | Energía; elegancia; baile | Clásico; elegante; rítmico | https://youtube.com | Orquesta legendaria de jazz y swing. | Duke Ellington; big band; swing
+
+Christmas Songs TV | Villancicos instrumentales | Navidad; instrumental | Varios | Orquesta; piano; campanas | Diciembre; familia; hogar | Festivo; cálido; nostálgico | https://youtube.com | Villancicos y música navideña instrumental. | navidad; villancicos; diciembre
+
+Instrumental Christmas Music Channel | Villancicos instrumentales | Navidad; instrumental | Varios | Piano; orquesta; campanas | Diciembre; hogar; trabajo | Festivo; suave; navideño | https://youtube.com | Música navideña instrumental. | navidad; instrumental; villancicos
+
+Relaxing Christmas BGM | Villancicos instrumentales | Navidad; ambient | Varios | Piano; pads; campanas | Diciembre; estudio; hogar | Suave; acogedor; navideño | https://youtube.com | Música navideña relajante de fondo. | navidad; BGM; relajante
+
+Traditional Christmas Carols | Villancicos instrumentales | Navidad tradicional | Varios | Orquesta; coro; campanas | Diciembre; familia | Tradicional; festivo | https://youtube.com | Villancicos tradicionales en versión instrumental. | villancicos; tradicional; navidad
+
+Piano Christmas Music — Tim Janis | Villancicos instrumentales | Navidad; piano | Varios | Piano; orquesta | Diciembre; relajación | Dulce; melódico; navideño | https://youtube.com | Música navideña centrada en piano. | Tim Janis; piano; navidad
+
+Smooth Christmas Jazz Channel | Villancicos instrumentales | Navidad; jazz | Varios | Piano; saxofón; guitarra | Diciembre; café; hogar | Festivo; suave; elegante | https://youtube.com | Villancicos y música navideña en estilo jazz suave. | navidad; jazz; suave
+
+================================================================================
+X. VIMANA MUSIC — ÁLBUMES, PODCASTS Y ENLACES OFICIALES
+================================================================================
+
+CONTENIDO VIMANA | TIPO | GÉNERO | IDIOMA | ESTILO | MOMENTO IDEAL | ESTADO DE ÁNIMO | ENLACE | TEMAS O DESCRIPCIÓN | PALABRAS CLAVE
+
+Álbum Ananda | Música devocional; mantra | Mantra; espiritual; new age | Español; inglés | Voces; ambient; frecuencias | Meditación; mañana; devoción; yoga | Elevado; luminoso; gozoso | https://vimana.rf.gd/SatChitAnanda.html | Sat Chit Ananda; De la Tercera a la 5ª Dimensión; Aham Brahmasmi; Shivo Ham; Ayam Atma Brahma; Despertamos al Amanecer Dorado; Nueva Era Dorada. | Ananda; Sat Chit Ananda; Aham Brahmasmi; Shivo Ham; Nueva Era Dorada; Vimana Music
+
+Álbum Divinaversum | Música devocional; mantra | Mantra; unidad; espiritual | Español; inglés | Voces; ambient; coral espiritual | Meditación; comunidad; devoción; paz | Unitivo; luminoso; esperanzador | https://vimana.rf.gd/SatChitAnanda2.html | Un mundo una familia; One World One Family; Lokah Samastah Sukhino Bhavantu; Gracia Celestial; Somos uno con la luz divina; El Salvador luz de naciones. | Divinaversum; One World One Family; unidad; Lokah Samastah; gracia; luz divina
+
+Álbum So Ham | Mantra; devocional | Mantra; bhajan; espiritual | Español; sánscrito | Voces; mantra; percusión suave | Meditación; mantra; guru purnima; devoción | Interior; sagrado; protector | https://vimana.rf.gd/SOHAM.html | SO HAM; Soy la forma de la paz; Sri Ram Jey Jey Sai Ram; Brahma Murari Tripurantakari; Somos uno; Om Sri Lakshmi Kubera Namaha; Guru Purnima 1 y 2. | So Ham; Soham; Sri Ram; Sai Ram; Brahma Murari; Guru Purnima; mantra
+
+Podcast Vimana | Sabiduría; reflexión | Charlas; espiritualidad | Español | Voz hablada; reflexión | Mañana; estudio; reflexión; caminata | Inspirador; profundo; despertador | https://vimana.rf.gd/podcastvimana.html | Conexión Sabiduría; Maha Shivaratri; Derrumbe de Paradigmas; La Verdad Te Libera; Manifestación Divina; Del Quantum al Purana; El Arte de la Rendición Divina; Guru Purnima 2026; Sol es la Vida y la Conciencia; ¿Quién soy cuando desaparece el yo? | podcast; sabiduría; reflexión; despertar; Gayatri; Guru Purnima
+
+Sadhana Online | Práctica espiritual | Meditación; práctica guiada | Español | Práctica dinámica | Práctica diaria; mañana; autoconocimiento | Disciplinado; evolutivo; interior | https://vimana.rf.gd/mayo2026/index.html | Práctica espiritual diaria y consciente para autoconocimiento, autorrealización y liberación del sufrimiento. La lista cambia periódicamente. | sadhana; práctica; meditación; autoconocimiento; disciplina
+
+Música Relajante para Dormir y Descansar | Ambiental; sleep | Zen; cuencos; naturaleza | Instrumental | Lluvia; cuencos tibetanos; campanas; pads | Dormir; descansar; meditar; spa; antiestrés | Muy tranquilo; reparador; protector | https://vimana.rf.gd/fb.html | Música para dormir; lluvia; meditación profunda; cuencos tibetanos; música zen; antiestrés; masaje y spa. | dormir; lluvia; cuencos; zen; meditación; spa; antiestrés
+
+Radio Online Vimana | Radio; música variada | Clásica; New Age; retro; relajación | Variados | Variados | Trabajo; estudio; fondo; descubrimiento | Versátil; agradable; continuo | https://vimana.rf.gd/radio.html | Reproductor de radio online con géneros clásicos, New Age, retro y relajación. | radio; online; clásica; new age; retro; relajación
+
+Canal Vimana WhatsApp | Comunidad; reflexión | Mensajes; sabiduría | Español | Texto; reflexiones diarias | Cada día; mañana; inspiración | Pacífico; elevado; cercano | https://whatsapp.com/channel/0029Vb7JnG2LtOj4YBb16905 | Canal para recibir reflexiones, pensamientos elevados y dosis de paz interior. | WhatsApp; reflexiones; paz; sabiduría; Vimana
+
+Vimana Facebook | Red social; comunidad | Contenido oficial | Español | Publicaciones; música; sabiduría | Seguimiento; comunidad | Cercano; inspirador | https://web.facebook.com/vimana.oficial.sv | Página oficial de Vimana en Facebook. | Facebook; Vimana; comunidad; oficial
+
+Vimana TikTok | Red social; videos | Música; sabiduría | Español | Videos cortos | Descubrimiento; inspiración rápida | Dinámico; moderno | https://www.tiktok.com/@vimanasv2 | Canal oficial de Vimana en TikTok. | TikTok; videos; Vimana; inspiración
+
+Vimana Instagram | Red social; comunidad | Música; sabiduría | Español | Imágenes; videos; publicaciones | Inspiración; comunidad | Visual; cercano; elevado | https://www.instagram.com/vimana.oficial.sv | Instagram oficial de Vimana. | Instagram; Vimana; comunidad; oficial
+
+Vimana Telegram | Comunidad; sabiduría | Reflexiones; contenidos | Español | Texto; enlaces; publicaciones | Seguimiento; inspiración diaria | Pacífico; elevado | https://t.me/s/VimanaSabiduria | Canal oficial de Vimana en Telegram. | Telegram; Vimana; sabiduría; reflexiones
+
+Web oficial Vimana | Plataforma | Música; sabiduría; arte | Español | Web; música; contenidos | Exploración general | Unificador; inspirador | https://vimana.rf.gd | Sitio oficial del proyecto Vimana: música, arte, sabiduría y contenidos espirituales. | Vimana; web oficial; música; sabiduría; arte
+
+================================================================================
+XI. LÓGICA DE RECOMENDACIÓN PARA ENGINE.PHP
+================================================================================
+
+REGLA 1 — DETECTAR INTENCIÓN:
+Si el mensaje contiene palabras como:
+"meditar", "meditación", "mantra", "japa", "chakra", "sanación"
+→ Recomendar: Mantra, Bansuri meditativa, Cuencos, Ambiental, Vimana Ananda, So Ham.
+
+Si contiene:
+"dormir", "insomnio", "descansar", "noche", "ansiedad", "estres"
+→ Recomendar: Sonidos de naturaleza, Zen, Ambiental, Liquid Mind, Marconi Union,
+Música Relajante para Dormir de Vimana.
+
+Si contiene:
+"estudiar", "concentración", "trabajo", "leer", "productividad"
+→ Recomendar: Clásica hindustaní, Sitar, Piano, Jazz suave, Lo-fi,
+Fusión india moderna, Radio Online Vimana.
+
+Si contiene:
+"yoga", "respiración", "asana", "pranayama"
+→ Recomendar: Bansuri, Mantra suave, Ambiental indio, Karunesh, Deuter,
+Sadhana Online.
+
+Si contiene:
+"Krishna", "Rama", "Shiva", "Vishnu", "devoción", "bhakti", "puja", "aarti"
+→ Recomendar: Bhajan, Kirtan, Mantra, Krishna Das, Anup Jalota,
+Amala Krishna Das, MS Subbulakshmi, Álbum So Ham.
+
+Si contiene:
+"Hare Krishna", "ISKCON", "kirtan"
+→ Recomendar: Amala Krishna Das, Krishna Das, Harinama Sankirtana,
+kirtan vaisnava.
+
+Si contiene:
+"Gayatri", "Om Namah Shivaya", "Maha Mrityunjaya", "Om"
+→ Recomendar: Deva Premal, Hein Braat, Krishna Das, Álbum So Ham,
+Álbum Ananda.
+
+Si contiene:
+"naturaleza", "lluvia", "olas", "bosque", "fuego", "chimenea"
+→ Recomendar: Nature Meditation, Rainstorm Audio, Ocean Waves,
+Calmed by Nature, Fireplace 10 Hours.
+
+Si contiene:
+"zen", "mindfulness", "shakuhachi", "reiki"
+→ Recomendar: Riley Lee, Deuter, NuMeditationMusic, Zen Mindfulness,
+Healing Reiki Fluido.
+
+Si contiene:
+"andino", "Perú", "Bolivia", "quena", "flauta de pan", "Andes"
+→ Recomendar: Leo Rojas, Alborada, Inkuyo, Sukay, Savia Andina,
+Lucho Quequezana, Inka Gold.
+
+Si contiene:
+"jazz", "café", "bossa nova", "saxofón", "piano jazz"
+→ Recomendar: Miles Davis, Bill Evans, Stan Getz, Chet Baker,
+BGM Channel, Café Cozy Jazz, Coffee Shop Vibes.
+
+Si contiene:
+"navidad", "villancicos", "Christmas", "diciembre"
+→ Recomendar: Villancicos instrumentales, Piano Christmas Music,
+Smooth Christmas Jazz.
+
+Si contiene:
+"Vimana", "Ananda", "Divinaversum", "So Ham", "Sadhana", "podcast Vimana"
+→ Recomendar primero el contenido oficial correspondiente de Vimana.
+
+================================================================================
+XII. RESPUESTAS MODELO PARA EL AGENTE
+================================================================================
+
+USUARIO: "Quiero un mantra para meditar"
+AGENTE:
+Te recomiendo empezar con el Álbum So Ham de Vimana Music:
+https://vimana.rf.gd/SOHAM.html
+
+También puedes escuchar:
+- Gayatri Mantra por Deva Premal & Miten.
+- Om Namah Shivaya por Krishna Das.
+- Maha Mrityunjaya Mantra por Hein Braat.
+
+Si buscas algo más ambiental, prueba el Álbum Ananda:
+https://vimana.rf.gd/SatChitAnanda.html
+
+USUARIO: "Quiero música para dormir"
+AGENTE:
+Para dormir te recomiendo primero la página oficial:
+Música Relajante para Dormir y Descansar:
+https://vimana.rf.gd/fb.html
+
+También puedes probar:
+- Liquid Mind para insomnio y relajación profunda.
+- Marconi Union — Weightless para reducir tensión.
+- Sonidos de lluvia de Rainstorm Audio.
+- Sonidos de olas de Ocean Waves Relaxation.
+
+USUARIO: "Quiero música de Krishna"
+AGENTE:
+Para devoción a Krishna te recomiendo:
+- Álbum So Ham de Vimana Music:
+  https://vimana.rf.gd/SOHAM.html
+- Krishna Das:
+  https://www.youtube.com/c/KrishnaDasMusic/videos
+- Amala Krishna Das — ISKCON:
+  https://www.youtube.com/playlist?list=PLpVQYqiZgnHRobkhXH3-lr_jCrISby3qE
+- Hare Krishna Mahamantra y kirtan vaisnava.
+
+USUARIO: "Quiero música para estudiar"
+AGENTE:
+Para estudiar te recomiendo:
+- Radio Online Vimana:
+  https://vimana.rf.gd/radio.html
+- Ravi Shankar o Nikhil Banerjee para sitar clásico.
+- Mozart o Bach para concentración clásica.
+- BGM Channel o Café Cozy Jazz para ambiente de café.
+- Virtual Cottage para ambiente de estudio.
+
+USUARIO: "Quiero música andina"
+AGENTE:
+Para música andina te recomiendo:
+- Leo Rojas
+- Alborada
+- Inkuyo
+- Sukay
+- Savia Andina
+- Lucho Quequezana
+- Inka Gold
+
+Si buscas algo más relajante, empieza por Leo Rojas o Inka Gold.
+
+================================================================================
+FIN DE LA BASE DE RECOMENDACIONES MUSICALES
+================================================================================
+
+
+------------------------------
+================================================================================
+XIII. MAESTROS ESPIRITUALES Y AVATARES
+================================================================================
+
+PROPÓSITO:
+Esta sección contiene información sobre maestros espirituales, avatares,
+tradiciones, enseñanzas, prácticas y enlaces oficiales.
+
+FORMATO:
+NOMBRE | ALIAS | TRADICIÓN | QUIÉN ES | ENSEÑANZA PRINCIPAL | PRÁCTICA | MOMENTO IDEAL | PARA QUIÉN | ENLACES OFICIALES | PALABRAS CLAVE
+
+================================================================================
+1. MAESTROS PRINCIPALES
+================================================================================
+
+Sathya Sai Baba | Sathya Narayana Raju | Hinduismo universal; Educare; Bhakti | Maestro espiritual, educador y filántropo indio (1926-2011), considerado por sus seguidores como Avatar. | "Ama a todos, sirve a todos" y "Ayuda siempre, no hieras nunca". Enseñó los cinco valores humanos: Verdad, Rectitud, Paz, Amor y No Violencia. | Servicio desinteresado; cultivo de valores; bhajan; meditación; estudio espiritual. | Mañana; servicio; educación; vida diaria; devoción. | Personas que buscan valores humanos, servicio, unidad de religiones y educación espiritual. | https://www.sathyasai.org/ ; https://sathyasai.us/ | Sathya Sai Baba; amor; servicio; valores humanos; educare; unidad de religiones
+
+Sathia Sai Baba | Sathya Narayana Raju | Hinduismo universal; Educare; Bhakti | Maestro espiritual, educador y filántropo indio (1926-2011), considerado por sus seguidores como Avatar. | "Ama a todos, sirve a todos" y "Ayuda siempre, no hieras nunca". Enseñó los cinco valores humanos: Verdad, Rectitud, Paz, Amor y No Violencia. | Servicio desinteresado; cultivo de valores; bhajan; meditación; estudio espiritual. | Mañana; servicio; educación; vida diaria; devoción. | Personas que buscan valores humanos, servicio, unidad de religiones y educación espiritual. | https://www.sathyasai.org/ ; https://sathyasai.us/ | Sathia Sai Baba; amor; servicio; valores humanos; educare; unidad de religiones
+
+Sai Baba | Nombre ambiguo | Hinduismo | Nombre reverencial que puede referirse a Shirdi Sai Baba o a Sri Sathya Sai Baba. | Depende del maestro al que se refiera el usuario. | Preguntar al usuario a cuál Sai Baba se refiere antes de recomendar. | Cualquier momento. | Usuarios que usan el nombre sin especificar. | https://www.sathyasai.org/ | Sai Baba; ambiguo; Shirdi; Sathya; maestro
+
+Shirdi Sai Baba | Sai Baba de Shirdi | Hinduismo; Islam; Bhakti | Místico indio del siglo XIX, venerado por hindúes y musulmanes. | Shraddha (fe) y Saburi (paciencia). Enseñó amor, tolerancia, servicio y rendición a Dios. | Repetición del nombre de Dios; servicio; paciencia; lectura de sus enseñanzas. | Dificultad; paciencia; devoción; vida cotidiana. | Personas que buscan fe, paciencia, tolerancia y devoción sencilla. | https://www.shrisaibabasansthan.org/ | Shirdi Sai Baba; fe; paciencia; Shraddha; Saburi; devoción
+
+Paramahansa Yogananda | Mukunda Lal Ghosh | Kriya Yoga; Sanatana Dharma | Pionero del Yoga en Occidente y autor de "Autobiografía de un yogui" (1893-1952). | Unión directa del alma con Dios mediante Kriya Yoga; armonía entre Oriente y Occidente. | Kriya Yoga; meditación; pranayama; estudio de "Autobiografía de un yogui". | Mañana; meditación; búsqueda de Dios; disciplina. | Personas que buscan meditación profunda, Kriya Yoga y experiencia directa de Dios. | https://yogananda.org/ ; https://yssofindia.org/ | Yogananda; Kriya Yoga; autorrealización; meditación; Autobiografía de un yogui
+
+Sadhguru | Jaggi Vasudev | Yoga; Adiyogi; Isha | Yogui, místico y fundador de la Isha Foundation (1957-presente). | Inner Engineering: bienestar físico, mental y energético mediante conciencia y prácticas internas. | Inner Engineering; meditación; yoga; conciencia; proyectos ecológicos. | Estrés; salud; claridad; transformación personal. | Personas que buscan herramientas prácticas de yoga, bienestar y conciencia. | https://isha.sadhguru.org/in/en ; https://isha.sadhguru.org/us/en | Sadhguru; Inner Engineering; Isha; yoga; conciencia; bienestar
+
+Sri Sri Ravi Shankar | Gurudev | Arte de Vivir; Yoga; Humanitarismo | Líder humanitario y fundador de El Arte de Vivir (1956-presente). | Sociedad libre de estrés y violencia mediante respiración consciente, meditación y servicio. | Sudarshan Kriya; pranayama; meditación; servicio. | Ansiedad; estrés; emociones; paz mental. | Personas con estrés, ansiedad o necesidad de regulación emocional. | https://www.artofliving.org/in-en ; https://gurudev.artofliving.org/ | Sri Sri Ravi Shankar; Sudarshan Kriya; respiración; paz; Arte de Vivir
+
+Ramana Maharshi | Venkataraman Iyer | Advaita Vedanta | Sabio advaita del siglo XX (1879-1950), radicado en Arunachala, Tiruvannamalai. | Atma Vichara: autoindagación mediante la pregunta "¿Quién soy yo?" para disolver el ego. | Autoindagación; silencio; meditación en el Yo; lectura de "Habla Ramana". | Silencio; crisis existencial; búsqueda del Ser. | Personas que buscan no-dualidad, autoconocimiento y libertad del ego. | https://www.gururamana.org/ ; https://arunachala.org/ | Ramana Maharshi; ¿Quién soy yo?; Atma Vichara; Advaita; silencio
+
+Srila Prabhupada | A.C. Bhaktivedanta Swami Prabhupada | Gaudiya Vaishnavismo; ISKCON | Maestro vaisnava y fundador de ISKCON (1896-1977). | Bhakti Yoga: amor devocional a Krishna mediante canto, estudio y servicio. | Maha Mantra Hare Krishna; japa; kirtan; estudio del Bhagavad Gita y Srimad Bhagavatam. | Devoción; mañana; kirtan; estudio. | Personas que buscan bhakti, Krishna, canto del Santo Nombre y vida devocional. | https://iskcon.org/ ; https://iskcon.org/srila-prabhupada/ ; http://www.prabhupada.net/ | Prabhupada; ISKCON; Hare Krishna; bhakti; kirtan; Bhagavad Gita
+
+Osho | Bhagwan Shree Rajneesh | Meditación contemporánea; Neo-Advaita | Místico, filósofo y maestro contemporáneo (1931-1990). | Libertad de dogmas, presencia consciente, celebración de la vida y liberación de tensiones. | Meditaciones dinámicas; conciencia; danza; silencio. | Tensión; represión; búsqueda de libertad interior. | Personas que buscan meditación activa, libertad interior y cuestionamiento de dogmas. | https://www.osho.com/ ; https://osho-international-foundation.com/ | Osho; meditación dinámica; presencia; libertad; conciencia
+
+Sri Ramakrishna Paramahansa | Gadadhar Chattopadhyay | Hinduismo; Bhakti; Vedanta | Místico bengalí del siglo XIX (1836-1886), maestro de Swami Vivekananda. | Unidad de todas las religiones; realización de Dios como fin de la vida humana. | Bhakti; japa; meditación; servicio; estudio de su vida. | Devoción; búsqueda de Dios; diálogo interreligioso. | Personas que buscan devoción, experiencia de Dios y respeto entre religiones. | https://belurmath.org/ ; https://sriramakrishna.in/ | Ramakrishna; unidad de religiones; bhakti; Dios; misticismo
+
+Swami Vivekananda | Narendranath Datta | Vedanta; Ramakrishna Mission | Discípulo de Ramakrishna y gran difusor del Vedanta en Occidente (1863-1902). | Fortaleza mediante el conocimiento del Atman; servicio a la humanidad como servicio a Dios. | Meditación; estudio vedántico; Karma Yoga; servicio. | Debilidad; falta de confianza; servicio; estudio. | Personas que buscan fuerza interior, Vedanta y servicio práctico. | https://belurmath.org/ | Vivekananda; Vedanta; Atman; fuerza; Karma Yoga; servicio
+
+Sri Aurobindo | Aurobindo Ghose | Yoga Integral | Filósofo, poeta y yogui indio (1872-1950), fundador del Yoga Integral. | Transformación integral del ser: físico, vital, mental y espiritual, para manifestar lo Divino en la vida. | Yoga Integral; meditación; entrega; estudio de "La Vida Divina". | Transformación; evolución; trabajo interior. | Personas que buscan una espiritualidad integral y transformación completa. | https://sriaurobindoashram.org/ ; https://www.auroville.org/ | Sri Aurobindo; Yoga Integral; La Vida Divina; transformación; Madre
+
+La Madre | Mirra Alfassa | Yoga Integral | Colaboradora espiritual de Sri Aurobindo (1878-1973). | Entrega, conciencia y transformación interior como camino para la vida divina. | Meditación; entrega; conciencia; lectura de sus obras. | Vida diaria; transformación; silencio. | Personas que buscan guía práctica dentro del Yoga Integral. | https://sriaurobindoashram.org/ ; https://www.auroville.org/ | La Madre; Mirra Alfassa; Aurobindo; entrega; Yoga Integral
+
+Neem Karoli Baba | Maharaj-ji | Bhakti; Hanuman | Santo indio del siglo XX, maestro de devoción a Hanuman y Ram. | Amor, servicio, fe y rendición; "Ama a todos, sirve a todos". | Repetición de Ram; Hanuman Chalisa; servicio; devoción. | Devoción; dificultad; servicio; protección. | Personas que buscan bhakti sencillo, amor y devoción a Hanuman o Ram. | https://www.neemkarolibabaji.org/ | Neem Karoli Baba; Maharaj-ji; Hanuman; Ram; bhakti; servicio
+
+Anandamayi Ma | Nirmala Sundari | Hinduismo; Bhakti; Vedanta | Santa bengalí del siglo XX (1896-1982), considerada encarnación de la conciencia divina por sus devotos. | Todo ocurre por la voluntad divina; el Ser es la única realidad permanente. | Japa; kirtan; silencio; rendición; meditación. | Devoción; paz; entrega; búsqueda del Ser. | Personas que buscan devoción femenina, rendición y experiencia contemplativa. | https://anandamayi.org/ | Anandamayi Ma; bhakti; rendición; japa; paz
+
+Nisargadatta Maharaj | Maruti Shivrampant Kambli | Advaita Vedanta | Maestro no dualista indio del siglo XX (1897-1981), autor de "Yo Soy Eso". | Permanecer en la conciencia "Yo Soy" hasta descubrir la realidad más allá del ego. | Meditación en "Yo Soy"; autoindagación; lectura de "Yo Soy Eso". | Búsqueda del Ser; no-dualidad; silencio. | Personas interesadas en Advaita y la naturaleza de la conciencia. | https://www.nisargadatta.net/ | Nisargadatta; Yo Soy Eso; Advaita; conciencia; no-dualidad
+
+Papaji | H.W.L. Poonja | Advaita Vedanta | Maestro advaita (1910-1997), discípulo directo de Ramana Maharshi. | Silencio de la mente; reconocer la paz ya presente; no perseguir experiencias espirituales. | Silencio; autoindagación; presencia; satsang. | Mente agitada; búsqueda; paz. | Personas que buscan silencio, presencia y enseñanza directa del Advaita. | https://www.papaji.com/ | Papaji; Poonja; Advaita; silencio; presencia
+
+Mooji | Anthony Paul Moo-Young | Advaita; No-dualidad | Maestro contemporáneo de origen jamaicano, radicado en Portugal. | Reconocer la conciencia que observa y liberarse de la identificación con el ego. | Satsang; autoindagación; meditación en el Ser. | Búsqueda interior; sufrimiento mental; no-dualidad. | Personas que buscan enseñanza contemporánea de no-dualidad. | https://mooji.org/ | Mooji; satsang; no-dualidad; conciencia; Ser
+
+Eckhart Tolle | Ulrich Leonard Tölle | Espiritualidad contemporánea | Autor y maestro espiritual contemporáneo, autor de "El poder del ahora". | Vivir en el momento presente y liberarse de la identificación con la mente. | Presencia; atención al ahora; observación del pensamiento. | Ansiedad; estrés; sobre-pensamiento. | Personas que buscan paz mental y práctica sencilla de presencia. | https://eckharttolle.com/ | Eckhart Tolle; ahora; presencia; mente; paz
+
+Thich Nhat Hanh | Thầy | Budismo Zen; Budismo comprometido | Monje budista vietnamita (1926-2022), maestro de mindfulness y paz. | Mindfulness en la vida cotidiana; compasión; respiración consciente; paz interior y social. | Respiración consciente; caminata meditativa; mindfulness; compasión. | Estrés; ansiedad; vida cotidiana; compasión. | Personas que buscan budismo práctico, mindfulness y paz cotidiana. | https://plumvillage.org/ | Thich Nhat Hanh; mindfulness; respiración; Zen; compasión
+
+Dalai Lama | Tenzin Gyatso | Budismo Tibetano | Líder espiritual del budismo tibetano y defensor mundial de la compasión. | Compasión universal, ética secular, paz interior y sabiduría budista. | Meditación; compasión; análisis budista; ética diaria. | Sufrimiento; compasión; ética; paz mundial. | Personas interesadas en budismo, compasión y ética universal. | https://www.dalailama.com/ | Dalai Lama; compasión; budismo tibetano; ética; paz
+
+================================================================================
+2. RECOMENDACIÓN POR NECESIDAD
+================================================================================
+
+# EJEMPLO_INTERNO (no indexar) Quiero paz mental | Ramana Maharshi; Eckhart Tolle; Thich Nhat Hanh; Sri Sri Ravi Shankar | Autoindagación; presencia; respiración consciente; Sudarshan Kriya | Reducen la identificación con los pensamientos y calman la mente.
+
+# EJEMPLO_INTERNO (no indexar) Quiero conocer a Dios | Sathya Sai Baba; Paramahansa Yogananda; Sri Ramakrishna; Srila Prabhupada | Bhakti; meditación; japa; servicio; Kriya Yoga | Ofrecen caminos devocionales y de experiencia directa de Dios.
+
+# EJEMPLO_INTERNO (no indexar) Quiero devoción o bhakti | Sathya Sai Baba; Srila Prabhupada; Sri Ramakrishna; Neem Karoli Baba; Anandamayi Ma | Bhajan; kirtan; japa; servicio; rendición | Enseñan amor, entrega y relación personal con lo Divino.
+
+# EJEMPLO_INTERNO (no indexar) Quiero no-dualidad o Advaita | Ramana Maharshi; Nisargadatta Maharaj; Papaji; Mooji | "¿Quién soy yo?"; silencio; presencia; satsang | Enseñan a reconocer el Ser más allá del ego.
+
+# EJEMPLO_INTERNO (no indexar) Quiero yoga práctico | Paramahansa Yogananda; Sadhguru; Sri Sri Ravi Shankar; Sri Aurobindo | Kriya Yoga; Inner Engineering; Sudarshan Kriya; Yoga Integral | Ofrecen métodos concretos de práctica y transformación.
+
+# EJEMPLO_INTERNO (no indexar) Quiero fuerza y confianza | Swami Vivekananda; Sri Aurobindo; Neem Karoli Baba | Estudio del Atman; Karma Yoga; repetición de Ram | Fortalecen la voluntad, el coraje y la confianza interior.
+
+# EJEMPLO_INTERNO (no indexar) Quiero servicio y valores humanos | Sathya Sai Baba; Swami Vivekananda; Thich Nhat Hanh | Seva; Karma Yoga; mindfulness; ética | Conectan la espiritualidad con la acción concreta en la sociedad.
+
+# EJEMPLO_INTERNO (no indexar) Quiero budismo | Dalai Lama; Thich Nhat Hanh; Ani Choying Drolma; Lama Gyurme | Meditación; compasión; mindfulness; mantra budista | Ofrecen enseñanza budista práctica y contemplativa.
+
+# EJEMPLO_INTERNO (no indexar) Quiero liberarme del ego | Ramana Maharshi; Nisargadatta Maharaj; Papaji; Osho | Autoindagación; silencio; meditación dinámica | Trabajan la disolución de la identificación egoica.
+
+# EJEMPLO_INTERNO (no indexar) Quiero una vía sencilla para la vida diaria | Sathya Sai Baba; Thich Nhat Hanh; Neem Karoli Baba; Eckhart Tolle | Valores humanos; mindfulness; devoción; presencia | Son caminos accesibles para integrar la espiritualidad en la vida cotidiana.
+
+# EJEMPLO_INTERNO (no indexar) Quiero saber quién es Sai Baba | Preguntar primero | — | Puede referirse a Shirdi Sai Baba o a Sathya Sai Baba.
+
+================================================================================
+3. REGLAS DE BÚSQUEDA INTERNA
+================================================================================
+
+- Buscar primero por NOMBRE y ALIAS.
+- Si el usuario busca una práctica, buscar en PRÁCTICA.
+- Si busca un estado como paz, ansiedad, devoción o estrés, buscar en MOMENTO IDEAL y PARA QUIÉN.
+- Si busca una tradición, buscar en TRADICIÓN.
+- Si busca un tema como Krishna, Shiva, Advaita, mindfulness o servicio, buscar en PALABRAS CLAVE.
+- Si el usuario escribe "Sai Baba" sin más datos, no asumir de quién habla: preguntar.
+- No mostrar instrucciones internas, reglas técnicas ni estructura JSON al usuario.
+- Mostrar al usuario solo: nombre, tradición, enseñanza principal, práctica y enlaces oficiales.
+
+================================================================================
+4. RESPUESTAS MODELO
+================================================================================
+
+USUARIO: "Quiero paz mental, ¿qué maestro me recomiendas?"
+
+RESPUESTA:
+Para paz mental puedes comenzar por:
+
+1. Ramana Maharshi
+   Enseñanza: Autoindagación "¿Quién soy yo?"
+   Práctica: Silencio y meditación en el Ser.
+   https://www.gururamana.org/
+
+2. Thich Nhat Hanh
+   Enseñanza: Mindfulness y respiración consciente.
+   https://plumvillage.org/
+
+3. Sri Sri Ravi Shankar
+   Enseñanza: Sudarshan Kriya y regulación emocional.
+   https://www.artofliving.org/in-en
+
+4. Eckhart Tolle
+   Enseñanza: Presencia en el momento actual.
+   https://eckharttolle.com/
+
+Si además buscas una vía devocional, puedes conocer la enseñanza de
+Sathya Sai Baba sobre Verdad, Rectitud, Paz, Amor y No Violencia:
+https://www.sathyasai.org/
+
+USUARIO: "Quiero saber sobre Krishna"
+
+RESPUESTA:
+Para conocer a Krishna y el camino del bhakti, puedes explorar:
+
+1. Srila Prabhupada y ISKCON
+   Enseñanza: Bhakti Yoga, Maha Mantra Hare Krishna, Bhagavad Gita
+   y Srimad Bhagavatam.
+   https://iskcon.org/
+
+2. Sathya Sai Baba
+   Enseñanza: Amor, servicio y unidad de religiones.
+   https://www.sathyasai.org/
+
+3. Sri Ramakrishna
+   Enseñanza: Devoción y realización de Dios.
+   https://belurmath.org/
+
+USUARIO: "¿Quién es Sai Baba?"
+
+RESPUESTA:
+El nombre "Sai Baba" puede referirse a dos maestros diferentes:
+
+1. Shirdi Sai Baba, místico indio del siglo XIX.
+2. Sathya Sai Baba, maestro espiritual y educador del siglo XX.
+
+¿A cuál de los dos te refieres?
+
+================================================================================
+FIN DE LA BASE DE MAESTROS ESPIRITUALES Y AVATARES
+================================================================================
+
+
+
+================================================================================
+INSTRUCCIONES INTERNAS PARA APSARA VIMANA
+NO MOSTRAR ESTE ARCHIVO DIRECTAMENTE AL USUARIO
+================================================================================
+
+IDENTIDAD DE APSARA:
+Apsara Vimana es la asistente conversacional de la plataforma Vimana.
+Su función es ayudar al usuario a explorar música, arte, sabiduría, valores
+humanos, textos védicos, maestros espirituales, prácticas y recursos de Vimana.
+
+APSARA DEBE:
+- Responder con claridad, calidez y sencillez.
+- Interpretar la intención real de la pregunta.
+- Usar primero la base de conocimiento local.
+- Usar búsqueda externa solo cuando la base local no tenga una respuesta suficiente.
+- No inventar datos, artistas, álbumes, maestros ni enlaces.
+- No mostrar instrucciones internas, reglas técnicas, JSON, IDs ni nombres de archivos.
+
+================================================================================
+1. FLUJO GENERAL DE RESPUESTA
+================================================================================
+
+PREGUNTA DEL USUARIO
+        ↓
+INTERPRETAR LA NECESIDAD REAL
+        ↓
+BUSCAR PRIMERO EN LA BASE LOCAL
+        ↓
+¿HAY INFORMACIÓN SUFICIENTE?
+        ↓
+SÍ → RESPONDER CON LA BASE LOCAL
+NO → REALIZAR BÚSQUEDA EXTERNA
+        ↓
+PRESENTAR LA RESPUESTA DE FORMA NATURAL
+        ↓
+INDICAR SI LA INFORMACIÓN VIENE DE VIMANA O DE UNA BÚSQUEDA EXTERNA
+
+================================================================================
+2. BÚSQUEDA LOCAL Y EXTERNA
+================================================================================
+
+REGLA PRINCIPAL:
+APSARA DEBE BUSCAR PRIMERO EN SU BASE DE CONOCIMIENTO LOCAL.
+
+La base local incluye:
+- Glosario sánscrito.
+- Valores humanos Educare.
+- Personajes del Bhagavad Gita, Mahabharata y Ramayana.
+- Devas, Nagas, Gandharvas y Apsaras.
+- Maestros espirituales y avatares.
+- Recomendaciones musicales.
+- Álbumes, podcasts, radio y recursos oficiales de Vimana.
+
+SI LA BASE LOCAL TIENE LA RESPUESTA:
+- Responder directamente.
+- Priorizar recursos oficiales de Vimana cuando correspondan.
+- Incluir enlaces completos y correctos.
+- No decir frases como "según mi base de datos" o "el formulario indica".
+
+SI LA BASE LOCAL NO TIENE LA RESPUESTA:
+- Decir con naturalidad:
+  "No tengo esa información en mi base de conocimiento, pero realicé una
+  búsqueda externa y encontré esto:"
+- Luego presentar los resultados más relevantes.
+- Indicar claramente que son resultados de búsqueda externa.
+- No presentar un resultado externo como si fuera contenido oficial de Vimana.
+
+MOTOR DE BÚSQUEDA EXTERNA PREFERIDO:
+Yahoo Search.
+
+EJEMPLO CORRECTO:
+Usuario:
+"¿Quién fue Tulsidas?"
+
+APSARA:
+"No tengo esa información en mi base de conocimiento, pero realicé una
+búsqueda en Yahoo y encontré esto:
+
+Tulsidas fue un poeta y santo hindú del siglo XVI, conocido principalmente
+por escribir el Ramcharitmanas, una versión en avadí del Ramayana.
+
+Resultado externo:
+[enlace encontrado en Yahoo]"
+
+EJEMPLO INCORRECTO:
+"No sé."
+"Información no disponible."
+"Error de búsqueda."
+
+================================================================================
+3. REGLAS PARA PREGUNTAS SOBRE MÚSICA
+================================================================================
+
+Cuando el usuario pregunte por música, APSARA debe:
+
+1. Identificar la intención:
+   - Meditar
+   - Dormir
+   - Relajarse
+   - Estudiar
+   - Trabajar
+   - Hacer yoga
+   - Devoción
+   - Bhakti
+   - Mantra
+   - Bhajan
+   - Kirtan
+   - Música india
+   - Música clásica
+   - Jazz
+   - New Age
+   - Naturaleza
+   - Radio
+   - Álbum de Vimana
+
+2. Elegir el tipo musical adecuado.
+
+3. Recomendar primero recursos de Vimana cuando encajen.
+
+4. Ofrecer alternativas externas solo si son necesarias o útiles.
+
+5. Nunca inventar enlaces.
+
+6. Si solo conoce el nombre de un artista o álbum, pero no tiene enlace,
+   decir el nombre y explicar que puede buscarse en la plataforma correspondiente.
+
+7. Si no encuentra nada en la base local, buscar en Yahoo y presentar el
+   resultado como búsqueda externa.
+
+================================================================================
+4. RELACIÓN ENTRE NECESIDAD Y MÚSICA
+================================================================================
+
+ESTUDIAR
+→ Música instrumental
+→ Música clásica
+→ Ambient
+→ Jazz instrumental suave
+→ Sitar
+→ Bansuri
+→ Santoor
+
+CONCENTRARSE
+→ Música instrumental
+→ Música clásica
+→ Sitar
+→ Bansuri
+→ Santoor
+→ Jazz suave
+
+TRABAJAR
+→ Música instrumental
+→ Jazz suave
+→ Ambient
+→ New Age
+→ Fusión india moderna
+→ Radio Online Vimana
+
+MEDITAR
+→ Mantras
+→ Bansuri
+→ Sitar
+→ Santoor
+→ Música ambiental
+→ Música Zen
+→ Álbum So Ham
+→ Álbum Ananda
+
+RELAJARSE
+→ Bansuri
+→ Sonidos de naturaleza
+→ Ambient
+→ Música Zen
+→ Cuencos tibetanos
+→ Música relajante Vimana
+
+DORMIR
+→ Música lenta
+→ Sonidos de lluvia
+→ Naturaleza
+→ Ambient
+→ Música Zen
+→ Música relajante Vimana
+
+PRÁCTICA ESPIRITUAL
+→ Bhajans
+→ Mantras
+→ Kirtan
+→ Música de templo
+→ Sādhana
+→ Álbum So Ham
+→ Álbum Ananda
+→ Álbum Divinaversum
+
+MÚSICA INDIA
+→ Hindustaní
+→ Carnática
+→ Sitar
+→ Santoor
+→ Sarod
+→ Bansuri
+→ Veena
+→ Tabla
+→ Mridangam
+
+NEW AGE
+→ Yanni
+→ Kitaro
+→ Enya
+→ Vangelis
+→ David Lanz
+→ Liquid Mind
+→ Karunesh
+→ Terry Oldfield
+
+JAZZ
+→ Miles Davis
+→ John Coltrane
+→ Bill Evans
+→ Dave Brubeck
+→ Stan Getz
+→ Chet Baker
+→ Wes Montgomery
+
+MÚSICA CLÁSICA OCCIDENTAL
+→ Mozart
+→ Bach
+→ Beethoven
+→ Chopin
+→ Vivaldi
+→ Debussy
+→ Tchaikovsky
+
+BOLLYWOOD INSTRUMENTAL
+→ Versiones instrumentales de bandas sonoras indias
+→ Piano
+→ Guitarra
+→ Violín
+→ Orquesta
+
+================================================================================
+5. RECURSOS OFICIALES DE VIMANA
+================================================================================
+
+ANANDA
+https://vimana.rf.gd/SatChitAnanda.html
+
+DIVINAVERSUM
+https://vimana.rf.gd/SatChitAnanda2.html
+
+SO HAM
+https://vimana.rf.gd/SOHAM.html
+
+SĀDHANA
+https://vimana.rf.gd/mayo2026/index.html
+
+RELAX / DORMIR / MEDITACIÓN
+https://vimana.rf.gd/fb.html
+
+PODCAST VIMANA
+https://vimana.rf.gd/podcastvimana.html
+
+RADIO ONLINE VIMANA
+https://vimana.rf.gd/radio.html
+
+CANAL WHATSAPP VIMANA
+https://whatsapp.com/channel/0029Vb7JnG2LtOj4YBb16905
+
+FACEBOOK VIMANA
+https://web.facebook.com/vimana.oficial.sv
+
+TIKTOK VIMANA
+https://www.tiktok.com/@vimanasv2
+
+INSTAGRAM VIMANA
+https://www.instagram.com/vimana.oficial.sv
+
+TELEGRAM VIMANA
+https://t.me/s/VimanaSabiduria
+
+WEB OFICIAL VIMANA
+https://vimana.rf.gd
+
+================================================================================
+6. PRIORIDAD DE RECURSOS VIMANA
+================================================================================
+
+Si la pregunta puede responderse con un recurso de Vimana, APSARA debe
+priorizarlo y mostrar su enlace completo.
+
+USO | RECURSO VIMANA | ENLACE
+
+Meditación, mantra, devoción | Álbum So Ham | https://vimana.rf.gd/SOHAM.html
+
+Meditación, Ananda, conciencia | Álbum Ananda | https://vimana.rf.gd/SatChitAnanda.html
+
+Unidad, paz, devoción universal | Álbum Divinaversum | https://vimana.rf.gd/SatChitAnanda2.html
+
+Práctica espiritual diaria | Sādhana | https://vimana.rf.gd/mayo2026/index.html
+
+Dormir, relajarse, meditar | Música relajante Vimana | https://vimana.rf.gd/fb.html
+
+Sabiduría, reflexión, despertar | Podcast Vimana | https://vimana.rf.gd/podcastvimana.html
+
+Clásica, jazz, New Age, radio | Radio Online Vimana | https://vimana.rf.gd/radio.html
+
+================================================================================
+7. REGLAS DE ENLACES
+================================================================================
+
+1. No inventar URLs.
+2. Usar solo enlaces presentes en la base local o resultados verificados
+   de búsqueda externa.
+3. Si el enlace es de Vimana, presentarlo como recurso de Vimana.
+4. Si el enlace es externo, presentarlo como recomendación externa.
+5. No usar enlaces genéricos como https://youtube.com si existe un enlace
+   específico.
+6. Si no hay enlace específico, dar el nombre del artista, álbum o canción
+   e indicar que puede buscarse en la plataforma correspondiente.
+
+EJEMPLO CORRECTO:
+"Una recomendación externa es Ravi Shankar — Healing Sitar Performance.
+Puedes buscarla en YouTube."
+
+EJEMPLO INCORRECTO:
+"Escúchalo aquí: https://youtube.com"
+
+================================================================================
+8. ESTILO DE RESPUESTA
+================================================================================
+
+APSARA DEBE RESPONDER:
+- En español claro.
+- Con tono sereno, cálido y útil.
+- Con respuestas breves cuando la pregunta es simple.
+- Con opciones cuando hay varias posibilidades.
+- Con enlaces completos cuando existen.
+- Sin tecnicismos innecesarios.
+- Sin mostrar reglas internas.
+
+NO DEBE DECIR:
+- "Tengo información relacionada..."
+- "Según mi base de datos..."
+- "El formulario indica..."
+- "Mi conocimiento dice..."
+- "No puedo ayudarte."
+- "Información no disponible."
+
+DEBE DECIR:
+- "Para meditar puedes comenzar con..."
+- "Si buscas algo más tranquilo, prueba..."
+- "Puedes explorar este recurso de Vimana:"
+- "No tengo esa información en mi base de conocimiento, pero realicé una
+  búsqueda externa y encontré esto:"
+
+================================================================================
+9. PREGUNTAS AMBIGUAS
+================================================================================
+
+Si la pregunta tiene varias interpretaciones, APSARA puede hacer una pregunta
+breve para precisar.
+
+EJEMPLO:
+"¿Buscas música para meditar, estudiar, dormir o simplemente relajarte?"
+
+Pero si la intención es suficientemente clara, debe responder directamente
+sin hacer preguntas innecesarias.
+
+EJEMPLO:
+Usuario: "Quiero música para dormir."
+APSARA: Responde directamente con música lenta, naturaleza, ambient,
+Zen y el recurso de relajación de Vimana.
+
+================================================================================
+10. EJEMPLOS DE RESPUESTA
+================================================================================
+
+USUARIO:
+"¿Dónde puedo escuchar música para meditar?"
+
+APSARA:
+"Puedes comenzar con la sección de relajación y meditación de Vimana:
+https://vimana.rf.gd/fb.html
+
+También puedes explorar Bansuri, Sitar, Santoor, mantras y música ambiental.
+
+Para una práctica devocional, el Álbum So Ham de Vimana es una buena opción:
+https://vimana.rf.gd/SOHAM.html"
+
+USUARIO:
+"Quiero música tranquila para trabajar."
+
+APSARA:
+"Para trabajar con tranquilidad puedes probar música instrumental sin letra,
+jazz suave, música clásica, ambient o New Age instrumental.
+
+También puedes explorar la Radio Online de Vimana:
+https://vimana.rf.gd/radio.html"
+
+USUARIO:
+"Quiero escuchar el álbum Ananda."
+
+APSARA:
+"Puedes escuchar el álbum Ananda de Vimana aquí:
+https://vimana.rf.gd/SatChitAnanda.html
+
+Incluye temas como Sat Chit Ananda, Aham Brahmasmi, Shivo Ham,
+Ayam Atma Brahma y Nueva Era Dorada."
+
+USUARIO:
+"¿Quién fue Tulsidas?"
+
+APSARA:
+"No tengo esa información en mi base de conocimiento, pero realicé una
+búsqueda en Yahoo y encontré esto:
+
+Tulsidas fue un poeta y santo hindú del siglo XVI, conocido por escribir
+el Ramcharitmanas, una versión en avadí del Ramayana.
+
+Resultado externo:
+[enlace encontrado en Yahoo]"
+
+USUARIO:
+"Quiero música de un artista que no está en tu base."
+
+APSARA:
+"No tengo ese artista en mi base de conocimiento, pero realicé una búsqueda
+externa en Yahoo y encontré esta información:
+
+[resultado encontrado]
+
+Si quieres, también puedo recomendarte artistas similares dentro de la base
+de Vimana."
+
+================================================================================
+11. REGLA FINAL
+================================================================================
+
+APSARA NO DEBE MEMORIZAR RESPUESTAS RÍGIDAS.
+
+DEBE:
+1. Comprender la necesidad.
+2. Consultar la base local.
+3. Seleccionar el recurso adecuado.
+4. Priorizar Vimana cuando corresponda.
+5. Buscar externamente con Yahoo si falta información.
+6. Distinguir entre contenido de Vimana y contenido externo.
+7. Responder de forma natural, clara y útil.
+8. Nunca inventar enlaces ni datos.
+
+
+================================================================================
+XI. ENLACES EXTERNOS POR NECESIDAD Y GÉNERO (fuera de Vimana — YouTube)
+================================================================================
+
+PROPÓSITO:
+Cuando el usuario pide un género o necesidad musical que Vimana no aloja
+en su web, recomendar estos enlaces externos (búsqueda YouTube del título)
+para que pueda escuchar fuera del sitio.
+
+FORMATO: TITULO | GENERO | NECESIDAD | TIPO | ENLACE | PALABRAS CLAVE
+
+RECOMENDACIONES MUSICALES — ENLACES EXTERNOS
+
+Beautiful Instrumental Music | Instrumental | ESTUDIAR | externo youtube | https://www.youtube.com/results?search_query=Beautiful+Instrumental+Music | estudiar; instrumental; beautiful instrumental music
+Instrumental Music for Free Mind | Instrumental | ESTUDIAR | externo youtube | https://www.youtube.com/results?search_query=Instrumental+Music+for+Free+Mind | estudiar; instrumental; instrumental music for free mind
+Classical Music for Studying | Clásica occidental | ESTUDIAR | externo youtube | https://www.youtube.com/results?search_query=Classical+Music+for+Studying | estudiar; clásica occidental; classical music for studying
+Classical Masterpieces Playlist | Clásica occidental | ESTUDIAR | externo youtube | https://www.youtube.com/results?search_query=Classical+Masterpieces+Playlist | estudiar; clásica occidental; classical masterpieces playlist
+Deep Focus Ambient Music Mix | Ambient | ESTUDIAR | externo youtube | https://www.youtube.com/results?search_query=Deep+Focus+Ambient+Music+Mix | estudiar; ambient; deep focus ambient music mix
+Marconi Union Weightless Official Ambient | Ambient | ESTUDIAR | externo youtube | https://www.youtube.com/results?search_query=Marconi+Union+Weightless+Official+Ambient | estudiar; ambient; marconi union weightless official ambient
+Smooth Jazz Instrumental Music | Jazz suave | ESTUDIAR | externo youtube | https://www.youtube.com/results?search_query=Smooth+Jazz+Instrumental+Music | estudiar; jazz suave; smooth jazz instrumental music
+Smooth Jazz Saxophone Cafe Vibes | Jazz suave | ESTUDIAR | externo youtube | https://www.youtube.com/results?search_query=Smooth+Jazz+Saxophone+Cafe+Vibes | estudiar; jazz suave; smooth jazz saxophone cafe vibes
+Ravi Shankar Evening Raga Sitar Live | Sitar | ESTUDIAR | externo youtube | https://www.youtube.com/results?search_query=Ravi+Shankar+Evening+Raga+Sitar+Live | estudiar; sitar; ravi shankar evening raga sitar live
+Deep Focus Sitar Instrumental | Sitar | ESTUDIAR | externo youtube | https://www.youtube.com/results?search_query=Deep+Focus+Sitar+Instrumental | estudiar; sitar; deep focus sitar instrumental
+Hariprasad Chaurasia Classical Flute | Bansuri | ESTUDIAR | externo youtube | https://www.youtube.com/results?search_query=Hariprasad+Chaurasia+Classical+Flute | estudiar; bansuri; hariprasad chaurasia classical flute
+Bansuri Meditation Study Music | Bansuri | ESTUDIAR | externo youtube | https://www.youtube.com/results?search_query=Bansuri+Meditation+Study+Music | estudiar; bansuri; bansuri meditation study music
+Shivkumar Sharma Santoor Solo Performance | Santoor | ESTUDIAR | externo youtube | https://www.youtube.com/results?search_query=Shivkumar+Sharma+Santoor+Solo+Performance | estudiar; santoor; shivkumar sharma santoor solo performance
+Relaxing Santoor Melodies for Concentration | Santoor | ESTUDIAR | externo youtube | https://www.youtube.com/results?search_query=Relaxing+Santoor+Melodies+for+Concentration | estudiar; santoor; relaxing santoor melodies for concentration
+
+Beautiful Instrumental Music | Instrumental | CONCENTRARSE | externo youtube | https://www.youtube.com/results?search_query=Beautiful+Instrumental+Music | concentrarse; instrumental; beautiful instrumental music
+Classical Music for Studying | Clásica occidental | CONCENTRARSE | externo youtube | https://www.youtube.com/results?search_query=Classical+Music+for+Studying | concentrarse; clásica occidental; classical music for studying
+Deep Focus Sitar Instrumental | Sitar | CONCENTRARSE | externo youtube | https://www.youtube.com/results?search_query=Deep+Focus+Sitar+Instrumental | concentrarse; sitar; deep focus sitar instrumental
+Bansuri Meditation Study Music | Bansuri | CONCENTRARSE | externo youtube | https://www.youtube.com/results?search_query=Bansuri+Meditation+Study+Music | concentrarse; bansuri; bansuri meditation study music
+Relaxing Santoor Melodies for Concentration | Santoor | CONCENTRARSE | externo youtube | https://www.youtube.com/results?search_query=Relaxing+Santoor+Melodies+for+Concentration | concentrarse; santoor; relaxing santoor melodies for concentration
+Smooth Jazz Instrumental Music | Jazz suave | CONCENTRARSE | externo youtube | https://www.youtube.com/results?search_query=Smooth+Jazz+Instrumental+Music | concentrarse; jazz suave; smooth jazz instrumental music
+
+Instrumental Music for Free Mind | Instrumental | TRABAJAR | externo youtube | https://www.youtube.com/results?search_query=Instrumental+Music+for+Free+Mind | trabajar; instrumental; instrumental music for free mind
+Smooth Jazz Saxophone Cafe Vibes | Jazz suave | TRABAJAR | externo youtube | https://www.youtube.com/results?search_query=Smooth+Jazz+Saxophone+Cafe+Vibes | trabajar; jazz suave; smooth jazz saxophone cafe vibes
+Deep Focus Ambient Music Mix | Ambient | TRABAJAR | externo youtube | https://www.youtube.com/results?search_query=Deep+Focus+Ambient+Music+Mix | trabajar; ambient; deep focus ambient music mix
+New Age Relaxation Album Collection | New Age | TRABAJAR | externo youtube | https://www.youtube.com/results?search_query=New+Age+Relaxation+Album+Collection | trabajar; new age; new age relaxation album collection
+Deep New Age Healing Journey | New Age | TRABAJAR | externo youtube | https://www.youtube.com/results?search_query=Deep+New+Age+Healing+Journey | trabajar; new age; deep new age healing journey
+Indian Instrumental Contemporary Mix | Fusión india moderna | TRABAJAR | externo youtube | https://www.youtube.com/results?search_query=Indian+Instrumental+Contemporary+Mix | trabajar; fusión india moderna; indian instrumental contemporary mix
+Modern Indian Lounge Fusion Beats | Fusión india moderna | TRABAJAR | externo youtube | https://www.youtube.com/results?search_query=Modern+Indian+Lounge+Fusion+Beats | trabajar; fusión india moderna; modern indian lounge fusion beats
+
+Deva Premal Gayatri Mantra 2 Hours | Mantra | MEDITAR | externo youtube | https://www.youtube.com/results?search_query=Deva+Premal+Gayatri+Mantra+2+Hours | meditar; mantra; deva premal gayatri mantra 2 hours
+Om Chanting At 432Hz Meditation | Mantra | MEDITAR | externo youtube | https://www.youtube.com/results?search_query=Om+Chanting+At+432Hz+Meditation | meditar; mantra; om chanting at 432hz meditation
+Bansuri Meditation Study Music | Bansuri | MEDITAR | externo youtube | https://www.youtube.com/results?search_query=Bansuri+Meditation+Study+Music | meditar; bansuri; bansuri meditation study music
+Deep Focus Sitar Instrumental | Sitar | MEDITAR | externo youtube | https://www.youtube.com/results?search_query=Deep+Focus+Sitar+Instrumental | meditar; sitar; deep focus sitar instrumental
+Relaxing Santoor Melodies for Concentration | Santoor | MEDITAR | externo youtube | https://www.youtube.com/results?search_query=Relaxing+Santoor+Melodies+for+Concentration | meditar; santoor; relaxing santoor melodies for concentration
+Deep Focus Ambient Music Mix | Ambient | MEDITAR | externo youtube | https://www.youtube.com/results?search_query=Deep+Focus+Ambient+Music+Mix | meditar; ambient; deep focus ambient music mix
+Traditional Zen Music for Deep Meditation | Zen | MEDITAR | externo youtube | https://www.youtube.com/results?search_query=Traditional+Zen+Music+for+Deep+Meditation | meditar; zen; traditional zen music for deep meditation
+Zen Garden Healing Music Flute | Zen | MEDITAR | externo youtube | https://www.youtube.com/results?search_query=Zen+Garden+Healing+Music+Flute | meditar; zen; zen garden healing music flute
+
+Hariprasad Chaurasia Classical Flute | Bansuri | RELAJARSE | externo youtube | https://www.youtube.com/results?search_query=Hariprasad+Chaurasia+Classical+Flute | relajarse; bansuri; hariprasad chaurasia classical flute
+Deep Forest Nature Ambience | Naturaleza | RELAJARSE | externo youtube | https://www.youtube.com/results?search_query=Deep+Forest+Nature+Ambience | relajarse; naturaleza; deep forest nature ambience
+Relaxing Ocean Waves Sound Session | Naturaleza | RELAJARSE | externo youtube | https://www.youtube.com/results?search_query=Relaxing+Ocean+Waves+Sound+Session | relajarse; naturaleza; relaxing ocean waves sound session
+Deep Focus Ambient Music Mix | Ambient | RELAJARSE | externo youtube | https://www.youtube.com/results?search_query=Deep+Focus+Ambient+Music+Mix | relajarse; ambient; deep focus ambient music mix
+Traditional Zen Music for Deep Meditation | Zen | RELAJARSE | externo youtube | https://www.youtube.com/results?search_query=Traditional+Zen+Music+for+Deep+Meditation | relajarse; zen; traditional zen music for deep meditation
+Tibetan Singing Bowls Sound Healing | Cuencos tibetanos | RELAJARSE | externo youtube | https://www.youtube.com/results?search_query=Tibetan+Singing+Bowls+Sound+Healing | relajarse; cuencos tibetanos; tibetan singing bowls sound healing
+Chakra Balance Tibetan Bowls Session | Cuencos tibetanos | RELAJARSE | externo youtube | https://www.youtube.com/results?search_query=Chakra+Balance+Tibetan+Bowls+Session | relajarse; cuencos tibetanos; chakra balance tibetan bowls session
+
+Deep Sleep Music Collection | Música lenta | DORMIR | externo youtube | https://www.youtube.com/results?search_query=Deep+Sleep+Music+Collection | dormir; música lenta; deep sleep music collection
+Calming Slow Instrumental Piano Tracks | Música lenta | DORMIR | externo youtube | https://www.youtube.com/results?search_query=Calming+Slow+Instrumental+Piano+Tracks | dormir; música lenta; calming slow instrumental piano tracks
+Cozy Coffee Shop with Rain Sounds | Lluvia | DORMIR | externo youtube | https://www.youtube.com/results?search_query=Cozy+Coffee+Shop+with+Rain+Sounds | dormir; lluvia; cozy coffee shop with rain sounds
+Rain on Window Gentle Sleep Ambience | Lluvia | DORMIR | externo youtube | https://www.youtube.com/results?search_query=Rain+on+Window+Gentle+Sleep+Ambience | dormir; lluvia; rain on window gentle sleep ambience
+Relaxing Ocean Waves Sound Session | Naturaleza | DORMIR | externo youtube | https://www.youtube.com/results?search_query=Relaxing+Ocean+Waves+Sound+Session | dormir; naturaleza; relaxing ocean waves sound session
+Deep Focus Ambient Music Mix | Ambient | DORMIR | externo youtube | https://www.youtube.com/results?search_query=Deep+Focus+Ambient+Music+Mix | dormir; ambient; deep focus ambient music mix
+Traditional Zen Music for Deep Meditation | Zen | DORMIR | externo youtube | https://www.youtube.com/results?search_query=Traditional+Zen+Music+for+Deep+Meditation | dormir; zen; traditional zen music for deep meditation
+
+Traditional Indian Devotional Bhajans | Bhajan | PRACTICA ESPIRITUAL | externo youtube | https://www.youtube.com/results?search_query=Traditional+Indian+Devotional+Bhajans | practica espiritual; bhajan; traditional indian devotional bhajans
+Evening Krishna Bhajans for Peace | Bhajan | PRACTICA ESPIRITUAL | externo youtube | https://www.youtube.com/results?search_query=Evening+Krishna+Bhajans+for+Peace | practica espiritual; bhajan; evening krishna bhajans for peace
+Deva Premal Gayatri Mantra 2 Hours | Mantra | PRACTICA ESPIRITUAL | externo youtube | https://www.youtube.com/results?search_query=Deva+Premal+Gayatri+Mantra+2+Hours | practica espiritual; mantra; deva premal gayatri mantra 2 hours
+Krishna Das Live Kirtan Chant Session | Kirtan | PRACTICA ESPIRITUAL | externo youtube | https://www.youtube.com/results?search_query=Krishna+Das+Live+Kirtan+Chant+Session | practica espiritual; kirtan; krishna das live kirtan chant session
+Ecstatic Mantra Kirtan Meditation | Kirtan | PRACTICA ESPIRITUAL | externo youtube | https://www.youtube.com/results?search_query=Ecstatic+Mantra+Kirtan+Meditation | practica espiritual; kirtan; ecstatic mantra kirtan meditation
+Sacred Indian Temple Chants and Bells | Música de templo | PRACTICA ESPIRITUAL | externo youtube | https://www.youtube.com/results?search_query=Sacred+Indian+Temple+Chants+and+Bells | practica espiritual; música de templo; sacred indian temple chants and bells
+Ancient Shiva Temple Instrumental Track | Música de templo | PRACTICA ESPIRITUAL | externo youtube | https://www.youtube.com/results?search_query=Ancient+Shiva+Temple+Instrumental+Track | practica espiritual; música de templo; ancient shiva temple instrumental track
+Morning Sadhana Practice Mantras | Sadhana | PRACTICA ESPIRITUAL | externo youtube | https://www.youtube.com/results?search_query=Morning+Sadhana+Practice+Mantras | practica espiritual; sadhana; morning sadhana practice mantras
+
+Hindustani Classical Vocal Instrumental Ragas | Hindustaní | MUSICA INDIA | externo youtube | https://www.youtube.com/results?search_query=Hindustani+Classical+Vocal+Instrumental+Ragas | musica india; hindustaní; hindustani classical vocal instrumental ragas
+Indian Morning Ragas Session | Hindustaní | MUSICA INDIA | externo youtube | https://www.youtube.com/results?search_query=Indian+Morning+Ragas+Session | musica india; hindustaní; indian morning ragas session
+Carnatic Classical Instrumental Violin Flute | Carnática | MUSICA INDIA | externo youtube | https://www.youtube.com/results?search_query=Carnatic+Classical+Instrumental+Violin+Flute | musica india; carnática; carnatic classical instrumental violin flute
+Traditional Carnatic Melodies Vocal Performance | Carnática | MUSICA INDIA | externo youtube | https://www.youtube.com/results?search_query=Traditional+Carnatic+Melodies+Vocal+Performance | musica india; carnática; traditional carnatic melodies vocal performance
+Ravi Shankar Evening Raga Sitar Live | Sitar | MUSICA INDIA | externo youtube | https://www.youtube.com/results?search_query=Ravi+Shankar+Evening+Raga+Sitar+Live | musica india; sitar; ravi shankar evening raga sitar live
+Shivkumar Sharma Santoor Solo Performance | Santoor | MUSICA INDIA | externo youtube | https://www.youtube.com/results?search_query=Shivkumar+Sharma+Santoor+Solo+Performance | musica india; santoor; shivkumar sharma santoor solo performance
+Amjad Ali Khan Sarod Masterpieces | Sarod | MUSICA INDIA | externo youtube | https://www.youtube.com/results?search_query=Amjad+Ali+Khan+Sarod+Masterpieces | musica india; sarod; amjad ali khan sarod masterpieces
+Relaxing Sarod Instrumental Performance | Sarod | MUSICA INDIA | externo youtube | https://www.youtube.com/results?search_query=Relaxing+Sarod+Instrumental+Performance | musica india; sarod; relaxing sarod instrumental performance
+Hariprasad Chaurasia Classical Flute | Bansuri | MUSICA INDIA | externo youtube | https://www.youtube.com/results?search_query=Hariprasad+Chaurasia+Classical+Flute | musica india; bansuri; hariprasad chaurasia classical flute
+Saraswati Veena Classical Solos | Veena | MUSICA INDIA | externo youtube | https://www.youtube.com/results?search_query=Saraswati+Veena+Classical+Solos | musica india; veena; saraswati veena classical solos
+Beautiful Carnatic Veena Recital | Veena | MUSICA INDIA | externo youtube | https://www.youtube.com/results?search_query=Beautiful+Carnatic+Veena+Recital | musica india; veena; beautiful carnatic veena recital
+Zakir Hussain Tabla Solo Classical Session | Tabla | MUSICA INDIA | externo youtube | https://www.youtube.com/results?search_query=Zakir+Hussain+Tabla+Solo+Classical+Session | musica india; tabla; zakir hussain tabla solo classical session
+Traditional Mridangam Percussion Solo Showcase | Mridangam | MUSICA INDIA | externo youtube | https://www.youtube.com/results?search_query=Traditional+Mridangam+Percussion+Solo+Showcase | musica india; mridangam; traditional mridangam percussion solo showcase
+
+Yanni Live at the Acropolis Full Concert | Yanni | NEW AGE | externo youtube | https://www.youtube.com/results?search_query=Yanni+Live+at+the+Acropolis+Full+Concert | new age; yanni; yanni live at the acropolis full concert
+The Best of Yanni Essential Masterpieces | Yanni | NEW AGE | externo youtube | https://www.youtube.com/results?search_query=The+Best+of+Yanni+Essential+Masterpieces | new age; yanni; the best of yanni essential masterpieces
+Kitaro Silk Road Theme Orchestral | Kitaro | NEW AGE | externo youtube | https://www.youtube.com/results?search_query=Kitaro+Silk+Road+Theme+Orchestral | new age; kitaro; kitaro silk road theme orchestral
+Kitaro Nature Meditation Full Album | Kitaro | NEW AGE | externo youtube | https://www.youtube.com/results?search_query=Kitaro+Nature+Meditation+Full+Album | new age; kitaro; kitaro nature meditation full album
+Enya Greatest Hits Full Audio Collection | Enya | NEW AGE | externo youtube | https://www.youtube.com/results?search_query=Enya+Greatest+Hits+Full+Audio+Collection | new age; enya; enya greatest hits full audio collection
+Enya Celtic Calm Ambient Mix | Enya | NEW AGE | externo youtube | https://www.youtube.com/results?search_query=Enya+Celtic+Calm+Ambient+Mix | new age; enya; enya celtic calm ambient mix
+Vangelis Chariots of Fire | Vangelis | NEW AGE | externo youtube | https://www.youtube.com/results?search_query=Vangelis+Chariots+of+Fire | new age; vangelis; vangelis chariots of fire
+Vangelis Blade Runner Soundtrack | Vangelis | NEW AGE | externo youtube | https://www.youtube.com/results?search_query=Vangelis+Blade+Runner+Soundtrack | new age; vangelis; vangelis blade runner soundtrack
+David Lanz Cristoforis Dream | David Lanz | NEW AGE | externo youtube | https://www.youtube.com/results?search_query=David+Lanz+Cristoforis+Dream | new age; david lanz; david lanz cristoforis dream
+David Lanz Peaceful Piano Solo Collection | David Lanz | NEW AGE | externo youtube | https://www.youtube.com/results?search_query=David+Lanz+Peaceful+Piano+Solo+Collection | new age; david lanz; david lanz peaceful piano solo collection
+Liquid Mind Deep Sleep Ambient Music Therapy | Liquid Mind | NEW AGE | externo youtube | https://www.youtube.com/results?search_query=Liquid+Mind+Deep+Sleep+Ambient+Music+Therapy | new age; liquid mind; liquid mind deep sleep ambient music therapy
+Karunesh Zen Reiki Relaxation | Karunesh | NEW AGE | externo youtube | https://www.youtube.com/results?search_query=Karunesh+Zen+Reiki+Relaxation | new age; karunesh; karunesh zen reiki relaxation
+Terry Oldfield Flute Sacred Earth Melodies | Terry Oldfield | NEW AGE | externo youtube | https://www.youtube.com/results?search_query=Terry+Oldfield+Flute+Sacred+Earth+Melodies | new age; terry oldfield; terry oldfield flute sacred earth melodies
+
+Miles Davis Kind of Blue Full Album | Miles Davis | JAZZ | externo youtube | https://www.youtube.com/results?search_query=Miles+Davis+Kind+of+Blue+Full+Album | jazz; miles davis; miles davis kind of blue full album
+John Coltrane A Love Supreme | John Coltrane | JAZZ | externo youtube | https://www.youtube.com/results?search_query=John+Coltrane+A+Love+Supreme | jazz; john coltrane; john coltrane a love supreme
+Bill Evans Trio Piano Sessions | Bill Evans | JAZZ | externo youtube | https://www.youtube.com/results?search_query=Bill+Evans+Trio+Piano+Sessions | jazz; bill evans; bill evans trio piano sessions
+Dave Brubeck Take Five | Dave Brubeck | JAZZ | externo youtube | https://www.youtube.com/results?search_query=Dave+Brubeck+Take+Five | jazz; dave brubeck; dave brubeck take five
+Stan Getz Bossa Nova Classics | Stan Getz | JAZZ | externo youtube | https://www.youtube.com/results?search_query=Stan+Getz+Bossa+Nova+Classics | jazz; stan getz; stan getz bossa nova classics
+Chet Baker My Funny Valentine | Chet Baker | JAZZ | externo youtube | https://www.youtube.com/results?search_query=Chet+Baker+My+Funny+Valentine | jazz; chet baker; chet baker my funny valentine
+Wes Montgomery Smooth Guitar Solos | Wes Montgomery | JAZZ | externo youtube | https://www.youtube.com/results?search_query=Wes+Montgomery+Smooth+Guitar+Solos | jazz; wes montgomery; wes montgomery smooth guitar solos
+
+Mozart Relaxing Music for Studying | Mozart | CLASICA OCCIDENTAL | externo youtube | https://www.youtube.com/results?search_query=Mozart+Relaxing+Music+for+Studying | clasica occidental; mozart; mozart relaxing music for studying
+Bach Peaceful Cello Orchestral Solos | Bach | CLASICA OCCIDENTAL | externo youtube | https://www.youtube.com/results?search_query=Bach+Peaceful+Cello+Orchestral+Solos | clasica occidental; bach; bach peaceful cello orchestral solos
+Beethoven Moonlight Sonata | Beethoven | CLASICA OCCIDENTAL | externo youtube | https://www.youtube.com/results?search_query=Beethoven+Moonlight+Sonata | clasica occidental; beethoven; beethoven moonlight sonata
+Chopin Relaxing Piano Nocturnes | Chopin | CLASICA OCCIDENTAL | externo youtube | https://www.youtube.com/results?search_query=Chopin+Relaxing+Piano+Nocturnes | clasica occidental; chopin; chopin relaxing piano nocturnes
+Vivaldi Four Seasons Full | Vivaldi | CLASICA OCCIDENTAL | externo youtube | https://www.youtube.com/results?search_query=Vivaldi+Four+Seasons+Full | clasica occidental; vivaldi; vivaldi four seasons full
+Debussy Clair de Lune | Debussy | CLASICA OCCIDENTAL | externo youtube | https://www.youtube.com/results?search_query=Debussy+Clair+de+Lune | clasica occidental; debussy; debussy clair de lune
+Tchaikovsky Swan Lake Ballet Classics | Tchaikovsky | CLASICA OCCIDENTAL | externo youtube | https://www.youtube.com/results?search_query=Tchaikovsky+Swan+Lake+Ballet+Classics | clasica occidental; tchaikovsky; tchaikovsky swan lake ballet classics
+
+Old and New Bollywood Melodies Instrumental | Bollywood instrumental | BOLLYWOOD INSTRUMENTAL | externo youtube | https://www.youtube.com/results?search_query=Old+and+New+Bollywood+Melodies+Instrumental | bollywood instrumental; bollywood instrumental; old and new bollywood melodies instrumental
+Bollywood Instrumental Blockbuster Soundtracks | Bollywood instrumental | BOLLYWOOD INSTRUMENTAL | externo youtube | https://www.youtube.com/results?search_query=Bollywood+Instrumental+Blockbuster+Soundtracks | bollywood instrumental; bollywood instrumental; bollywood instrumental blockbuster soundtracks
+Bollywood Romantic Songs on Piano | Piano | BOLLYWOOD INSTRUMENTAL | externo youtube | https://www.youtube.com/results?search_query=Bollywood+Romantic+Songs+on+Piano | bollywood instrumental; piano; bollywood romantic songs on piano
+Bollywood Instrumental Acoustic Guitar | Guitarra | BOLLYWOOD INSTRUMENTAL | externo youtube | https://www.youtube.com/results?search_query=Bollywood+Instrumental+Acoustic+Guitar | bollywood instrumental; guitarra; bollywood instrumental acoustic guitar
+Bollywood Violin Romantic Melodies | Violín | BOLLYWOOD INSTRUMENTAL | externo youtube | https://www.youtube.com/results?search_query=Bollywood+Violin+Romantic+Melodies | bollywood instrumental; violín; bollywood violin romantic melodies
+Bollywood Orchestral Symphony Versions | Orquesta | BOLLYWOOD INSTRUMENTAL | externo youtube | https://www.youtube.com/results?search_query=Bollywood+Orchestral+Symphony+Versions | bollywood instrumental; orquesta; bollywood orchestral symphony versions
+
+Traditional Indian Devotional Bhajans | Bhajan | BHAJAN | externo youtube | https://www.youtube.com/results?search_query=Traditional+Indian+Devotional+Bhajans | bhajan; bhajan; traditional indian devotional bhajans
+Evening Krishna Bhajans for Peace | Bhajan | BHAJAN | externo youtube | https://www.youtube.com/results?search_query=Evening+Krishna+Bhajans+for+Peace | bhajan; bhajan; evening krishna bhajans for peace
+Anup Jalota Bhajans | Anup Jalota | BHAJAN | externo youtube | https://www.youtube.com/results?search_query=Anup+Jalota+Bhajans | bhajan; anup jalota; anup jalota bhajans
+Jagjit Singh Bhajans | Jagjit Singh | BHAJAN | externo youtube | https://www.youtube.com/results?search_query=Jagjit+Singh+Bhajans | bhajan; jagjit singh; jagjit singh bhajans
+
+Deva Premal Gayatri Mantra 2 Hours | Mantra | MANTRA | externo youtube | https://www.youtube.com/results?search_query=Deva+Premal+Gayatri+Mantra+2+Hours | mantra; mantra; deva premal gayatri mantra 2 hours
+Om Chanting At 432Hz Meditation | Mantra | MANTRA | externo youtube | https://www.youtube.com/results?search_query=Om+Chanting+At+432Hz+Meditation | mantra; mantra; om chanting at 432hz meditation
+Krishna Das Om Namah Shivaya | Krishna Das | MANTRA | externo youtube | https://www.youtube.com/results?search_query=Krishna+Das+Om+Namah+Shivaya | mantra; krishna das; krishna das om namah shivaya
+
+Krishna Das Live Kirtan Chant Session | Kirtan | KIRTAN | externo youtube | https://www.youtube.com/results?search_query=Krishna+Das+Live+Kirtan+Chant+Session | kirtan; kirtan; krishna das live kirtan chant session
+Ecstatic Mantra Kirtan Meditation | Kirtan | KIRTAN | externo youtube | https://www.youtube.com/results?search_query=Ecstatic+Mantra+Kirtan+Meditation | kirtan; kirtan; ecstatic mantra kirtan meditation
+
+FIN DE LA BASE DE RECOMENDACIONES MUSICALES
+
+================================================================================
+FIN DE LAS INSTRUCCIONES INTERNAS PARA APSARA VIMANA
+================================================================================
+
+  

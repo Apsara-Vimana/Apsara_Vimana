@@ -1,0 +1,42 @@
+{
+  "ashwagandha": {
+    "nombre_es": "Ashwagandha",
+    "sanskrit": "Aśvagandhā",
+    "botanico": "Withania somnifera",
+    "rasa": ["amargo", "astringente"],
+    "virya": "caliente",
+    "dosha_pacifica": ["vata", "kapha"],
+    "dosha_agrava": ["pitta"],
+    "uso": "Adaptógena tradicional; se usa en Ayurveda para vitalidad, estrés y sueño (no es consejo médico)."
+  },
+  "tulsi": {
+    "nombre_es": "Tulsi (albahaca sagrada)",
+    "sanskrit": "Tulasī",
+    "botanico": "Ocimum tenuiflorum",
+    "rasa": ["picante", "amargo"],
+    "virya": "caliente",
+    "dosha_pacifica": ["kapha", "vata"],
+    "dosha_agrava": ["pitta"],
+    "uso": "Hierba sagrada y respiratoria en la tradición ayurvédica (no es consejo médico)."
+  },
+  "curcuma": {
+    "nombre_es": "Cúrcuma",
+    "sanskrit": "Haridrā",
+    "botanico": "Curcuma longa",
+    "rasa": ["amargo", "picante"],
+    "virya": "caliente",
+    "dosha_pacifica": ["kapha", "vata"],
+    "dosha_agrava": ["pitta en exceso"],
+    "uso": "Especia y dravya clásico; uso culinario y tradicional (no es consejo médico)."
+  },
+  "triphala": {
+    "nombre_es": "Triphala",
+    "sanskrit": "Triphalā",
+    "botanico": "Combinación de Amalaki, Bibhitaki y Haritaki",
+    "rasa": ["varios"],
+    "virya": "moderada",
+    "dosha_pacifica": ["tridosha (equilibrio)"],
+    "dosha_agrava": [],
+    "uso": "Fórmula clásica de tres frutos; apoyo digestivo tradicional (no es consejo médico)."
+  }
+}

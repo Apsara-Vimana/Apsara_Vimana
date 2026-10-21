@@ -1,0 +1,19 @@
+# Cache local (no subir respuestas cacheadas)
+cache/*
+!cache/.gitkeep
+
+# Secretos y entorno
+.env
+.env.*
+!.env.example
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+node_modules/
+
+# Logs
+*.log

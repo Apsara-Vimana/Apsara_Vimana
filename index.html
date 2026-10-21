@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <title>Vimana Music - Portal Oficial</title>
+  <meta name="theme-color" content="#ffbd00">
+  <link class="apple-touch-icon" href="imag/icon-192.png">
+
+  <style>
+    :root { 
+      --bg: #0a0a0f; --oro: #ffbd00; --magenta: #8b008b; --player-dark: #0d0d14;
+      --h-header: 60px; --h-player: 85px; --verde-neon: #39ff14; --celeste: #00f2ff;
+    }
+    * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; margin: 0; padding: 0; }
+    html, body { height: 100%; width: 100%; background: var(--bg); overflow: hidden; display: flex; flex-direction: column; position: fixed; }
+    
+    .top-header { height: var(--h-header); min-height: var(--h-header); flex-shrink: 0; z-index: 100; width: 100%; }
+    .bar-yellow { background: var(--oro); height: 4px; width: 100%; }
+    .bar-white { background: var(--magenta); height: 56px; display: flex; justify-content: center; align-items: center; gap: 12px; padding: 0 10px; overflow-x: auto; }
+    .bar-white a { text-decoration: none; color: white; font-weight: 800; font-size: 10px; text-transform: uppercase; white-space: nowrap; }
+    
+    .main-container { flex: 1 1 auto; width: 100%; overflow: hidden; position: relative; background: #000; }
+    iframe { width: 100%; height: 100%; border: none; display: block; }
+    
+    .taskbar { 
+      height: var(--h-player); 
+      min-height: var(--h-player); 
+      background: var(--player-dark); 
+      border-top: 1px solid #333; 
+      display: flex; 
+      justify-content: center; 
+      align-items: center; 
+      padding: 0 15px; 
+      padding-bottom: env(safe-area-inset-bottom); 
+      flex-shrink: 0; 
+      z-index: 200; 
+    }
+
+    .media-fusion { display: flex; align-items: center; gap: 10px; padding: 0 15px; height: 54px; width: 100%; max-width: 900px; background: rgba(255, 255, 255, 0.07); border-radius: 30px; border: 1px solid rgba(255, 255, 255, 0.15); position: relative; overflow: hidden; }
+    #visualizer { position: absolute; bottom: 0; left: 75px; width: calc(100% - 150px); height: 20px; z-index: 1; opacity: 0.5; pointer-events: none; }
+    .play-btn { background: var(--oro); border: none; width: 42px; height: 42px; min-width: 42px; border-radius: 50% !important; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 18px; color: black; box-shadow: 0 0 12px rgba(255,189,0,0.4); z-index: 10; }
+    
+    .menu-flash { animation: flash-green 2s ease-out; }
+    @keyframes flash-green {
+      0% { background: transparent; box-shadow: 0 0 0px var(--verde-neon); }
+      50% { background: var(--verde-neon); color: black; box-shadow: 0 0 20px var(--verde-neon); }
+      100% { background: transparent; box-shadow: 0 0 0px var(--verde-neon); }
+    }
+
+    .btn-loading { animation: glow-green 1.5s ease-in-out infinite; background: var(--verde-neon) !important; }
+    @keyframes glow-green { 0% { box-shadow: 0 0 5px var(--verde-neon); } 50% { box-shadow: 0 0 20px var(--verde-neon); } 100% { box-shadow: 0 0 5px var(--verde-neon); } }
+    
+    .ticker-wrap { flex: 1; overflow: hidden; z-index: 5; position: relative; }
+    .ticker-move { display: inline-block; white-space: nowrap; animation: marquee 18s linear infinite; color: #eee; font-size: 11px; font-weight: 500; }
+    @keyframes marquee { from { transform: translateX(100%); } to { transform: translateX(-100%); } }
+    
+    .floating-menu { position: absolute; bottom: 100px; left: 50%; transform: translateX(-50%); width: 90%; max-width: 320px; background: #0a0a0f; border: 1px solid #444; border-radius: 20px; visibility: hidden; opacity: 0; transition: 0.3s; z-index: 300; overflow: hidden; box-shadow: 0 -10px 25px rgba(0,0,0,0.5); }
+    .floating-menu.active { visibility: visible; opacity: 1; }
+    .menu-header { padding: 15px; background: linear-gradient(to bottom, #1a1a25, #0a0a0f); display: flex; align-items: center; gap: 12px; border-bottom: 1px solid #333; }
+    .menu-header img { width: 50px; height: 50px; object-fit: contain; }
+    .menu-header p { color: #eee; font-size: 10px; font-style: italic; flex: 1; }
+    .menu-list { list-style: none; padding: 10px; }
+    
+    .menu-list a { display: flex; align-items: center; gap: 10px; padding: 12px; color: #fff; text-decoration: none; font-size: 13px; border-bottom: 1px solid #1a1a1a; text-transform: uppercase; text-align: left; }
+
+    .triple-row { display: flex; gap: 4px; padding: 5px; border-bottom: 1px solid #1a1a1a; }
+    .triple-row a { flex: 1; text-align: center; padding: 10px 2px !important; font-size: 10px !important; border-bottom: none !important; background: rgba(255,255,255,0.03); border-radius: 8px; font-weight: bold; justify-content: center; }
+    .triple-row a:nth-child(1) { color: var(--oro); border-left: 2px solid var(--oro); }
+    .triple-row a:nth-child(2) { color: var(--celeste); border-left: 2px solid var(--celeste); }
+    .triple-row a:nth-child(3) { color: var(--verde-neon); border-left: 2px solid var(--verde-neon); }
+  </style>
+</head>
+<body onclick="closeMenuOutside(event)">
+
+  <header class="top-header">
+    <div class="bar-yellow"></div>
+    <nav class="bar-white">
+      <a href="00.html" target="contentFrame" onclick="forceCloseMenu()">Portada</a>
+      <a href="https://vimana.rf.gd/podcastvimana.html" target="_blank" onclick="detenerReproductor(); toggleMenu();">Podcast</a>
+      <a href="radio.html" target="contentFrame" onclick="forceCloseMenu()">Radio</a>
+      <a href="3.html" target="contentFrame" onclick="forceCloseMenu()">Magazine</a>
+      <a href="javascript:void(0)" onclick="forzarWhatsApp(); forceCloseMenu();" title="Canal Vimana">Canal Vimana</a>
+    </nav>
+  </header>
+
+  <main class="main-container">
+    <iframe name="contentFrame" src="00.html" id="contentFrame"></iframe>
+  </main>
+
+  <footer class="taskbar">
+    <div id="emergentMenu" class="floating-menu" onclick="event.stopPropagation()">
+      <div class="menu-header">
+        <img src="imag/01.png" alt="Vimana Logo">
+        <p>Elevando la consciencia a través de la música el arte y la sabiduría.</p>
+      </div>
+      <ul class="menu-list">
+        <li><a href="00.html" target="contentFrame" onclick="toggleMenu()">Portada</a></li>
+        
+        <li>
+          <a href="javascript:void(0)" onclick="forzarWhatsApp(); toggleMenu();">
+            <svg width="18" height="18" fill="#25D366" viewBox="0 0 16 16"><path d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.06 3.97l-1.127 4.121 4.212-1.107c1.156.63 2.456.963 3.784.963h.004c4.367 0 7.926-3.558 7.93-7.93a7.856 7.856 0 0 0-2.33-5.617zM7.994 14.52a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z"/></svg>
+            Canal Vimana WhatsApp
+          </a>
+        </li>
+        
+        <li>
+          <a href="sabiduria.html" target="contentFrame" onclick="toggleMenu()">
+            <svg width="18" height="18" fill="#0088cc" viewBox="0 0 16 16"><path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM12.191 5.174a.41.41 0 0 0-.429-.025s-6.202 2.62-7.611 3.208c-.529.221-1.181.479-1.181.479s-.358.139-.315.415c.041.26.46.406.46.406s1.18.39 1.614.532c.28.09.52.06.713-.094 1.58-1.258 4.73-3.794 4.73-3.794s.196-.154.301-.031c.106.124-.031.255-.031.255s-2.618 2.385-3.399 3.056c-.205.175-.32.303-.303.496.017.193.59.994.59.994s.17.266.507.232c.338-.034 2.238-1.469 2.238-1.469s.23-.192.429-.103c.199.088.941.606.941.606s.28.188.39.101c.11-.089.117-.32.117-.32l.994-4.707c.056-.267-.026-.431-.026-.431z"/></svg>
+            Canal Vimana Telegram
+          </a>
+        </li>
+
+        <li>
+          <a href="https://vimana.rf.gd/mayo2026/index.html" target="_blank" onclick="detenerReproductor(); toggleMenu();">
+            <svg width="18" height="18" fill="#FFBD00" viewBox="0 0 16 16"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0zm0 1.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13zm.5 2.75a.75.75 0 0 0-1.5 0V8h-2.25a.75.75 0 0 0 0 1.5H8a.75.75 0 0 0 .75-.75V4.25z"/></svg>
+            Sadhana
+          </a>
+        </li>
+        
+        <li class="triple-row">
+          <a href="https://vimana.rf.gd/podcastvimana.html" target="_blank" onclick="detenerReproductor(); toggleMenu();">Podcast</a>
+          <a href="radio.html" target="contentFrame" onclick="forceCloseMenu()">Radio</a>
+          <a href="video.html" target="contentFrame" onclick="toggleMenu()">Video</a>
+        </li>
+
+        <li class="triple-row">
+          <a href="1.html" target="contentFrame" onclick="toggleMenu()">Música</a>
+          <a href="3.html" target="contentFrame" onclick="toggleMenu()">Magazine</a>
+          <a href="4.html" target="contentFrame" onclick="toggleMenu()">QR Redes</a>
+        </li>
+       </ul>
+    </div>
+    
+    <div class="media-fusion" onclick="event.stopPropagation()">
+      <button id="menuBtn" onclick="toggleMenu(); event.stopPropagation();" style="background:transparent; border:1px solid var(--oro); color:var(--oro); border-radius:10px; padding:6px 12px; font-size:10px; font-weight:bold; cursor:pointer; flex-shrink:0; z-index:10;">MENÚ</button>
+      <canvas id="visualizer"></canvas>
+      <div class="ticker-wrap"><div class="ticker-move">Sintonía Universal... Elevando la frecuencia vibratoria... Conectando con el Ser...</div></div>
+      <button id="playBtn" class="play-btn">▶</button>
+      <audio id="audioPlayer" crossorigin="anonymous"></audio>
+    </div>
+  </footer>
+
+<script>
+  window.addEventListener('load', () => {
+    const menuBtn = document.getElementById('menuBtn');
+    menuBtn.classList.add('menu-flash');
+    setTimeout(() => menuBtn.classList.remove('menu-flash'), 2500);
+  });
+
+  function toggleMenu() { 
+    document.getElementById('emergentMenu').classList.toggle('active'); 
+  }
+
+  function forceCloseMenu() {
+    document.getElementById('emergentMenu').classList.remove('active');
+  }
+
+  function closeMenuOutside(event) {
+    const menu = document.getElementById('emergentMenu');
+    if (menu.classList.contains('active')) {
+      menu.classList.remove('active');
+    }
+  }
+
+  function forzarWhatsApp() {
+    const inviteCode = "0029Vb7JnG2LtOj4YBb16905";
+    const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+    if (isMobile) {
+      window.location.href = `whatsapp://channel/${inviteCode}`;
+      setTimeout(() => { window.location.href = `https://whatsapp.com/channel/${inviteCode}`; }, 500);
+    } else {
+      window.open(`https://web.whatsapp.com/accept?channel_invite_code=${inviteCode}`, '_blank');
+    }
+  }
+
+  const audio = document.getElementById('audioPlayer');
+  const playBtn = document.getElementById('playBtn');
+  const canvas = document.getElementById('visualizer');
+  const ctx = canvas.getContext('2d');
+  const contentFrame = document.getElementById('contentFrame');
+  let audioContext, analyser, source, dataArray, initialized = false;
+
+  /* FUNCIÓN INYECTADA: Detiene el reproductor de forma limpia y segura si está activo */
+  function detenerReproductor() {
+    if (audio && !audio.paused) {
+      audio.pause();
+      if (playBtn) {
+        playBtn.textContent = '▶';
+        playBtn.classList.remove('btn-loading');
+      }
+    }
+  }
+
+  function initVisualizer() {
+    if (initialized) return;
+    try {
+      audioContext = new (window.AudioContext || window.webkitAudioContext)();
+      analyser = audioContext.createAnalyser();
+      source = audioContext.createMediaElementSource(audio);
+      source.connect(analyser);
+      analyser.connect(audioContext.destination);
+      analyser.fftSize = 64;
+      dataArray = new Uint8Array(analyser.frequencyBinCount);
+      initialized = true;
+      draw();
+    } catch(e) {}
+  }
+
+  function draw() {
+    requestAnimationFrame(draw);
+    if(!initialized) return;
+    analyser.getByteFrequencyData(dataArray);
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    const barWidth = (canvas.width / dataArray.length) * 2.2;
+    let x = 0;
+    for (let i = 0; i < dataArray.length; i++) {
+      let barHeight = dataArray[i] / 8;
+      ctx.fillStyle = '#00f2ff';
+      ctx.fillRect(x, canvas.height - barHeight, barWidth - 2, barHeight);
+      x += barWidth;
+    }
+  }
+
+  function triggerLoadingEffect() {
+    playBtn.classList.add('btn-loading');
+    setTimeout(() => playBtn.classList.remove('btn-loading'), 6000);
+  }
+
+  playBtn.onclick = () => {
+    initVisualizer();
+    if (audioContext && audioContext.state === 'suspended') audioContext.resume();
+    if (audio.paused) {
+      if(contentFrame.contentWindow) {
+        contentFrame.contentWindow.postMessage({type:'stopVideo'}, '*');
+        contentFrame.contentWindow.postMessage({type:'stopRadio'}, '*');
+      }
+      triggerLoadingEffect();
+      audio.play().then(() => playBtn.textContent = '⏸').catch(e => {});
+    } else {
+      audio.pause(); playBtn.textContent = '▶';
+    }
+  };
+
+  window.addEventListener('message', (e) => {
+    if (e.data.page === 'sabiduria') {
+       audio.pause();
+       playBtn.textContent = '▶';
+    }
+    if (e.data.type === 'play') {
+      if(contentFrame.contentWindow) contentFrame.contentWindow.postMessage({type:'stopVideo', source:'portal'}, '*');
+      initVisualizer();
+      if (audioContext && audioContext.state === 'suspended') audioContext.resume();
+      triggerLoadingEffect();
+      
+      const trackClean = String(e.data.track).trim().padStart(2, '0');
+      const antiCache = "?v=" + new Date().getTime();
+      
+      audio.src = `${e.data.list}/${trackClean}.mp3${antiCache}`;
+      audio.play().then(() => playBtn.textContent = '⏸').catch(err => console.log("Error al reproducir:", err));
+    }
+    if (e.data.type === 'radioPlaying') {
+      audio.pause(); playBtn.textContent = '▶'; playBtn.classList.remove('btn-loading');
+      if(e.data.source !== 'video' && contentFrame.contentWindow) {
+        contentFrame.contentWindow.postMessage({type:'stopVideo', source:'portal'}, '*');
+      }
+    }
+    if (e.data.type === 'stopVideo' && contentFrame.contentWindow) {
+        contentFrame.contentWindow.postMessage({type:'stopVideo', source:'portal'}, '*');
+    }
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+Fotos de maestros (nombres según PERSONAS en engine.php), por ejemplo:
+
+  sadh_guru.jpg
+  yogananda.jpg
+  ramana.jpg
+  ...
+
+Rutas relativas: imagenes/personas/...

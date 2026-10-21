@@ -1,0 +1,15 @@
+Coloca aquí las imágenes de estado del chat, por ejemplo:
+
+  2.jpg
+  Atento.jpg
+  Pensando.jpg
+  Reconectando.jpg
+  Restablecido.jpg
+  promover.jpg
+  gratitud.jpg
+  Sorprendido.jpg
+  suspendido.jpg
+  avatar.jpg
+  logo.png
+
+Nombres exactos según constantes IMG en api/engine.php.
